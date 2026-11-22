@@ -1,0 +1,75 @@
+T01-01 || Dermas fibroblasti || Epidermas melanocīti || Matu folikulu bazālās šūnas
+T01-02 || Filiforma vīrusu kārpa || Intradermāls nevuss || Virspusēja dermatofibroma
+T01-03 || Intradermāls nevuss || Dermatofibrosarcoma protuberans || Hipertrofiska rēta
+T01-04 || Dermas fibroblasti || Epidermas keratinocīti || Limfvadu endotēlijs
+T01-05 || Sebuma un lipīdu sekrēts || Serozs iekaisuma eksudāts || Organizēti fibrīna nogulsnējumi
+T01-06 || Paplašinātu venulu sieniņu fibroze || Melanocītu perēkļveida proliferācija || Virspusēju limfvadu hiperplāzija
+T01-07 || Tikai proliferācijas ātrums un virsmas krāsa || Vispirms precīzs melanīna daudzums || Rētošanās anamnēze un saules iedarbība
+T01-08 || Virspusēja kapilāra angioma || Vaskulāra malformācija || Lobulāra kapilāra hemangioma
+T01-09 || RICH || Kombinēta infantila hemangioma || Virspusēja infantila hemangioma
+T01-10 || Melanīnu saturošu keratinocītu hiperplāzija || Dermas melanofāgu sakopojums || Fibroblastu lokāla proliferācija
+T01-11 || Virspusēja kapilāra hemangioma || Kombinēta hemangioma || Iedzimta virspusēja hemangioma
+T01-12 || Vispirms novērot līdz simptomu parādīšanās brīdim || Veikt destrukciju, ja nav sāpju || Pārbaudīt tikai veidojuma diametru
+T01-13 || Vienmērīgs tonis un gadiem nemainīgs izmērs || Viegls virsmas raupjums bez dinamikas || Vairāki līdzīgi stabili veidojumi
+T01-14 || Veidojuma estētiskais redzamības pakāpe || Vienīgi virsmas sarkanās krāsas intensitāte || Tikai anatomiskā diametra palielināšanās
+T01-15 || Abiem obligāti ir epitēlija kapsula || Abiem galvenais saturs ir keratīns || Abiem raksturīga tikai nesāpīga norise
+T02-01 || Īslaicīgi saules apdegumi un BCC || Hroniska lokāla berze un keratoakantoma || Melanocītiska displāzija un melanoma
+T02-02 || Plakanšūnu karcinoma || Aktīniskā keratoze || Nodulāra melanoma
+T02-03 || Fotografēt un atlikt vērtēšanu uz sešiem mēnešiem || Veikt krāsu izlīdzinošu procedūru pēc fototipa noteikšanas || Sākt ar bezbiopsijas dermabrāziju un pārbaudīt dinamiku
+T02-04 || Diametrs zem 6 mm nozīmē zemu risku, ja nav čūlošanas || Krāsas maiņa ir nozīmīga tikai pie diametra virs 10 mm || Evolūcija ir svarīga tikai pie iedzimtiem nevusiem
+T02-05 || Čūlas platums uz ādas virsmas || Tumšākās pigmenta zonas diametrs || Dermatoskopā redzamā asinsvadu blīvuma pakāpe
+T02-06 || Galvenokārt paaugstināts melanocītu nevusu recidīvu risks || Imūnsupresija nozīmīgi ietekmē tikai melanomu || SCC risks nav saistīts ar imūno uzraudzību
+T02-07 || Aktīniskā keratoze ar vieglu displāziju || Invazīva plakanšūnu karcinoma || Virspusēja bazālo šūnu karcinoma
+T02-08 || Seborejiskā keratoze || Bovena slimība || Lentigo solaris
+T02-09 || Pirmreizēja pigmentēta melanoma || Krāsu korekcija ar Q-switched lāzeru || Tikai plašāka ekscīzija bez histoloģijas kontroles
+T02-10 || Atkārtota vizuāla pārbaude bez audu parauga || Tikai dziļuma izvērtēšana pēc virsmas krāsas || Virspusēja krioterapija un kontrole, ja izmērs pieaug
+T02-11 || Solāriju lietošana vienatnē bez fenotipa nozīmes || Gaiša āda bez nozīmes no UV ekspozīcijas || Tikai jau esošu nevusu skaits bez UV anamnēzes
+T02-12 || Bazālo šūnu karcinoma || Aktīnisks heilīts bez invāzijas || Keratoakantoma
+T02-13 || Pigmenta noņemšana palīdzēs precīzāk izmērīt audzēja biezumu || Pēc lāzerablācijas audzēja stadiju parasti nosaka tikai pēc fotogrāfijas || Ablācija saglabās neskartu dermas audu bloku histoloģijai
+T02-14 || Mazpigmentēta BCC tiek izslēgta tikai pēc krāsas || Amelanotiska melanoma iespējama tikai uz pēdām || Bezpigmenta mezgli ļaundabīgumu iegūst tikai pēc čūlošanas
+T02-15 || BCC parasti metastazē retāk, un lokāla invāzija nav iespējama || BCC sistēmiskas metastāzes ir tipiskas agrīnā stadijā || BCC prognozi nosaka tikai pigmenta daudzums
+T03-01 || Bojātā audu arhitektūra apgrūtinās robežu izvērtēšanu || Pēc sasaldēšanas nebūs iespējams noteikt sākotnējo dziļumu || Krioterapija izmainīs dermatoskopisko un histoloģisko ainu
+T03-02 || Elektriskās strāvas radīta koagulācija || Lāzera izraisīta selektīva fototermolīze || Ķīmiskā koagulācija ar TCA
+T03-03 || Pārāk dziļas sasaldēšanas dēļ melanīns izdalās dermā || Aukstums veicina neatgriezenisku epidermas hiperkeratozi || Sasaldēšana veicina perifolikulāru eritrocītu hemolīzi
+T03-04 || Jāizvērtē tikai elektroda virsmas laukums || Jāizvērtē elektrokardiostimulatora tips, bet nav jāmaina tehnika || Jāizvēlas pilna laukuma monopolarā koagulācija bez konsultācijas
+T03-05 || Elektrokiretāža bez saglabāta audu bloka || Virspusēja shave biopsija ar termisko destrukciju || Frakcionēta CO₂ ablācija
+T03-06 || Skalpeļa ekscīzija; obligāta histoloģija visām keratozēm || Elektrodesikācija; piemērota dziļām melanomām || Seklā shave ekscīzija; vienmēr nosaka melanomas Breslova biezumu
+T03-07 || Vienkārši iztukšots kapsulas saturs || Izņemts tikai centrālais punctum || Noņemta virsējā epiderma, saglabājot kapsulu
+T03-08 || Vispirms noteikt veidojuma dziļumu, bet ne izcelsmi || Vispirms izvēlēties mazāko rētas risku, neveicot diagnostiku || Vispirms izvēlēties destrukciju ar iespēju atkārtot histoloģiju pēc tam
+T03-09 || Tieša melanocītu selektīva aktivācija ar strāvu || Aukstuma izraisīta pigmentšūnu proliferācija || Mehāniska melanīna pārnešana uz dermu bez iekaisuma
+T03-10 || Shave biopsija vienmēr saglabā pilnu dermas biezumu; krioterapija — nē || Kiretāža vienmēr saglabā audzēja malas; ekscīzija — nē || CO₂ lāzerablācija pilnībā saglabā struktūru; biopsija — nē
+T03-11 || Mikroskopija precizē pigmenta veidu, bet ne audzēja šūnas || Histoloģija var noteikt tikai brūces dzīšanas stadiju || Histoloģija aizstāj klīnisku un dermatoskopisku izvērtēšanu
+T03-12 || Pārejoša perifolikulāra eritēma un tūska || Atgriezeniska virspusēja hiperkeratoze || Īslaicīga sviedru sekrēcijas mazināšanās
+T03-13 || Nepietiekama virsmas epitēlija pārsedze || Nepilnīga koagulācija ap veidojuma malām bez patoloģisko audu atlikuma || Pārmērīga dermas kolagēna remodelācija bez audu atlikuma
+T03-14 || Recidīvs pēc ilga stabila perioda bez jaunām izmaiņām || Tikai neliela nieze pēc dziedēšanas || Vienmērīgs krāsas tonis un maza fibroze rētā
+T03-15 || Elektroķirurģiska izgriešana ar obligātu bojājuma koagulāciju || Nd:YAG selektīva asinsvadu koagulācija || Krioķirurģiska sasaldēšana ar īsiem cikliem
+T04-01 || Tikai augstākas keratinocītu proliferācijas dēļ || Galvenokārt matu folikulu skaita dēļ || Vienīgi lielāka melanīna daudzuma dēļ
+T04-02 || Tās vienmēr raksturo asins pH vērtību || Ādas pH dažādās vietās nosaka tikai dzimums || pH uz ādas nemainās, ja nav ādas slimības
+T04-03 || Tas ir ievērojami skābāks nekā pieaugušajiem || Tas parasti ir ap 4,0–4,5 || Tas parasti ir tāds pats kā pieaugušo padusēs
+T04-04 || Ādas kopšanas līdzekļu lietošana || Mazgāšana ar sārmainām ziepēm || Lokālu antibakteriālu līdzekļu lietošana
+T04-05 || Iekšējs hormonālās regulācijas faktors || Anatomiskās lokalizācijas faktors || Iedzimta ģenētiska nosliece
+T04-06 || Sviedru dziedzeru sekrēcijas daudzums || Raga slāņa korneocītu blīvums || Epidermas melanocītu skaits
+T04-07 || Pārsegs palielina virsmas iztvaikošanu un samazina mitrumu || Oklūzija izolē ādu no visām sekrēcijām || Pārsējs maina pH tikai caur tiešu skābes pievienošanu
+T04-08 || Var sajaukt mērījumu ar dermas pH || Pēc vienas robežvērtības var kļūdaini noteikt ādas hidratāciju || Tiks ignorēts tikai epidermas sabiezējums
+T04-09 || Paaugstināts pH padusē kopā ar strutainu izdalījumu || Ļoti sārmaina virsma pēc stipru ziepju lietošanas || Straujš pH pieaugums akūta dermatīta laikā
+T04-10 || Ādas krokas pH pilnībā nosaka maksts mikrobioms || Maksts pH vienmēr nosaka ārējās ādas pH || Ādas un gļotādas pH vienmēr mērāms identiskā metodē
+T04-11 || Sviedri ietekmē tikai ķermeņa temperatūru, ne virsmas šķīdumu || pH izmaiņas nosaka tikai ūdens pH, ne sekrēti || Sviedri ietekmē tikai sebumu, ne lokālu pH
+T04-12 || Skābā mantija ir saistīta tikai ar dermas kolagēna augšanu || Skābā mantija ir galvenokārt pigmenta aizsardzība || Skābā mantija veidojas tikai uz gļotādām
+T04-13 || Tikai atšķirīgs sebumu daudzums || Vienīgi atšķirīga ādas krāsa || Tikai atšķirīgs seborejisko keratožu skaits
+T04-14 || Iekaisums vienmēr nosaka precīzu mikroorganisma sugu || Iekaisuma laikā pH mainās tikai retikulārajā dermā || pH pieaugums pierāda vienīgi alerģisku, ne infekciozu cēloni
+T04-15 || Mazgāšana ietekmē tikai epidermas biezumu, ne pH || pH mērījumu nosaka tikai cilvēka vecums || pH pēc mazgāšanas uzreiz kļūst neatgriezeniski konstants
+T05-01 || Aizsarglipīdu sintēze paātrinās, bet TEWL nemainās || Raga slāņa proteāžu darbība samazinās un saglabājas ūdens || Ādas hidratācija samazinās tikai sebuma daudzuma dēļ
+T05-02 || Tirozināze un katalāze || Kallikreīns 5 un kallikreīns 7 || Kolagenāze un elastāze
+T05-03 || Samazināta korneodesmosomu noārdīšanās un deskvamācija || Keramīdu sintēzes paātrināšanās bez barjeras izmaiņām || Epidermas proteāžu aktivitātes samazināšanās
+T05-04 || Baktērija labāk aug ļoti skābā pH ap 3,0 || S. aureus kolonizācija nav saistīta ar barjeras stāvokli || Stratum corneum pie augstāka pH kļūst pilnīgi sterils
+T05-05 || Kolonizācija vienmēr nozīmē simptomātisku infekciju || Mikrobiota ir tikai ar antibiotikām iznīcināmi organismi || Normāla āda nesatur dzīvus mikroorganismus
+T05-06 || Mikrobioms apzīmē tikai uz ādas virsmas atrastās sugas || Mikrobiota ietver gēnus, bet mikrobioms tikai šūnu skaitu || Mikrobiota un mikrobioms apzīmē tikai patogēnās sugas
+T05-07 || Dermatīta laikā pH vienmēr pazeminās un normalizē barjeru || pH izmaiņas ir tikai pigmentācijas blakne || Barjeras bojājums nevar ietekmēt iekaisuma atbildi
+T05-08 || Korneocītu proliferācijas palielināšana bez lipīdu ietekmes || Melanocītu enzīmu aktivitātes normalizēšana || Dermas asinsvadu dilatācijas ierobežošana
+T05-09 || Dermas kolagēna šķiedru fragmentācija || Keratinocītu mitotiskā dalīšanās bazālajā slānī || Folikulu keratīna aizsprostojums
+T05-10 || Sārmaina vide palielina keramīdu apstrādi neatkarīgi no enzīmiem || Tiek saglabāts tikai mikrobioma līdzsvars bez barjeras pārmaiņām || Jutīgumu nosaka tikai ādas pigmenta daudzums
+T05-11 || Mikroorganismu kopiena kļūst nemainīga pēc lokālas antibiotikas || Mainās tikai dermas fibroblastu skaits || Lokāli antibakteriālie līdzekļi maina tikai sviedru pH
+T05-12 || Bojāta barjera vienmēr samazina ķīmisku vielu uzsūkšanos || Kairinājums var ietekmēt tikai dermu, ne epidermu || Iekaisums nevar radīt pastiprinātu TEWL
+T05-13 || Kolonizācija viena pati pierāda infekciju bez simptomiem || S. aureus klātbūtne vienmēr norāda uz akūtu sepsi || Ādas pH var atšķirt baktērijas ģenotipu bez analīzēm
+T05-14 || Nozīme ir tikai ādas pH, ne vides faktoriem || Nozīme ir tikai kosmētikai, ne imunitātei || Mikrobioma sastāvs ir nemainīgs pēc bērnības
+T05-15 || Sārmaina vide paātrina keramīdu sintēzi un kavē proteāzes || pH maina tikai melanīna sintēzi, ne barjeras enzīmus || Lipīdu enzīmi darbojas optimāli neatkarīgi no ādas pH

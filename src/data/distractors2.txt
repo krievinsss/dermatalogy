@@ -1,0 +1,75 @@
+T06-01 || Vidēji dziļš TCA pīlings uzreiz || Pilna dziļuma fenola pīlings || Kombinēts Jessner–TCA vidēji dziļš pīlings
+T06-02 || Hidroksilgrupa beta pozīcijā pret karboksilgrupu || Aromātiska hidroksilgrupa fenola gredzenā || Divas karboksilgrupas bez hidroksilgrupas
+T06-03 || Pienskābe || Mandeļskābe || Citronskābe
+T06-04 || Glikolskābe || Mandeļskābe || Citronskābe
+T06-05 || Pienskābe || Glikolskābe || Citronskābe
+T06-06 || AHA ir lipofīlas; salicilskābe pārsvarā hidrofila || AHA un salicilskābe ir vienlīdz lipofīlas || Salicilskābei nav afinitātes pret folikulu lipīdiem
+T06-07 || Korneocītu adhēzijas samazināšanās bez koagulācijas || Brīvo taukskābju šķīdināšana folikulos || Keramīdu hidrolīze bez audu bojājuma
+T06-08 || Pienskābe, salicilskābe un TCA || Glikolskābe, salicilskābe un rezorcīns || Pienskābe, mandeļskābe un rezorcīns
+T06-09 || Augstas koncentrācijas glikolskābes pīlings || TCA vidēji dziļš pīlings || Koncentrēts Jessner pīlings
+T06-10 || Tas aptver visu dzīvo epidermu, bet ne raga slāni || Tas sasniedz papillāro dermu || Tas skar dermas virspusējos kolagēna kūlīšus
+T06-11 || Tas iedarbojas uz rētas iekaisuma fonu, bet neizmaina pigmentu || Tas izraisa vienīgi dermas fibroblastu aktivitāti || Tas samazina rētas elastību, bet ne platumu
+T06-12 || Korneocītu proliferācija tikai dermas retikulārajā slānī || Fibroblastu ekskluzīva reepitelizācija || Epidermas atjaunošanās bez iepriekšēja nolobīšanās procesa
+T06-13 || Tie inhibē fibroblastu aktivitāti bez dzīšanas atbildes || Tie galvenokārt darbojas tikai uz epidermas keratīnu || Tie samazina dermas matricu bez kolagēna remodelācijas
+T06-14 || Melasma pēc viena pīlinga parasti neatkārtojas || Melasmu var ārstēt tikai ar dziļiem pīlingiem || Fotoprotekcija ir nozīmīga tikai aknes gadījumā
+T06-15 || Svarīgākais ir skābes procentuālais daudzums neatkarīgi no pH || Ādas fototips nosaka visu dziļumu neatkarīgi no skābes || Ekspozīcijas laiks viens pats nosaka rezultātu neatkarīgi no preparāta
+T07-01 || Preparāta pH ir nozīmīgs tikai neatšķaidītai skābei || Vienādam procentam vienmēr ir vienāda penetrācija || Iedarbību nosaka tikai šķīduma viskozitāte, ne disociācija
+T07-02 || Slāņi palielina tikai krāsas izmaiņas, ne audu dziļumu || Papildu slānis obligāti neitralizē pirmo || Vairāki slāņi ietekmē tikai atveseļošanās laiku, ne bojājumu
+T07-03 || Samazināt pH, lai kompensētu bojātu barjeru || Izmantot saudzīgāku skābi, bet neņemt vērā iekaisumu || Veikt tikai īsu ekspozīciju, neskatoties uz aktīvo ekzēmu
+T07-04 || PIH anamnēze nozīmē tikai lielāku infekcijas risku || Vēsturiska PIH neietekmē nākamās procedūras pigmenta risku || Dziļāks pīlings samazinās PIH neatkarīgi no fototipa
+T07-05 || Profilaktiska lokāla antibiotika vienmēr aizstāj HSV izvērtēšanu || Pretvīrusu profilakse ir nepieciešama tikai pēc procedūras simptomu rašanās || HSV anamnēze nozīmē tikai pigmentācijas risku, ne reaktivāciju
+T07-06 || Fenols uzlabo miokarda vadīšanu un izslēdz aritmijas || Sirds risks rodas tikai no injekcijas adatas || Fenola risks ir tikai lokāla hiperpigmentācija
+T07-07 || Retinoīdi jāatceļ vienmēr uz obligātiem sešiem mēnešiem || Jāizvēlas zemāka skābes koncentrācija, barjeru neizvērtējot || Jāpārtrauc tikai tajā dienā, kad tiek veikts pīlings
+T07-08 || Galvenais kritērijs ir tikai skābes procentuālā koncentrācija || Vienāds procents nozīmē vienādu brīvās skābes frakciju || Vienāda etiķete nozīmē identisku formulāciju un pKa
+T07-09 || Vispirms nogaidīt līdz standarta ekspozīcijas beigām || Sāpes ir vienīgais nepieciešamais efektivitātes rādītājs || Uzklāt neitralizatoru visām skābēm identiskā veidā
+T07-10 || Frosting vienmēr precīzi norāda retikulāro dermu || TCA frosting nozīmē tikai salicilskābes kristālu izgulsnēšanos || Balta reakcija aizstāj eritēmas un zonas izvērtēšanu
+T07-11 || Jessner pasargā no TCA penetrācijas neatkarīgi no slāņu skaita || TCA pilnībā neitralizē iepriekšējo Jessner kārtu || Kombinēti preparāti vienmēr samazina koagulācijas dziļumu
+T07-12 || Kreveļu noņemšana saīsina iekaisumu bez pigmentācijas riska || Agrīna mehāniska noņemšana uzlabo epidermas barjeru || Kreveļu noņemšana ir nepieciešama, ja ir viegla nieze
+T07-13 || Viegla deskvamācija un ādas savilkuma sajūta || Neliels pārejošs apsārtums bez sāpēm || Neliela ādas lobīšanās un sausums pirmajās dienās
+T07-14 || UV aizsardzība ir vajadzīga tikai procedūras dienā || Aizsardzība nepieciešama tikai tumšiem fototipiem || UV palīdz ātrāk noārdīt dermālo iekaisuma pigmentu
+T07-15 || Dziļāka penetrācija samazina atrofijas risku || Retikulārās dermas bojājums nerada rētu risku || Tikai īslaicīgu, bezpigmenta eritēmu
+T08-01 || Rezonatora spoguļu atstarošanas koeficients || Aktīvās vides spontānā fluorescēšana bez enerģijas ievades || Optiskās šķiedras gala fokusēšana
+T08-02 || Spontāna emisija bez fotonu savstarpējas iedarbības || Gaismas refrakcija starp epidermas slāņiem || Fotonu absorbcija tikai audu ūdenī
+T08-03 || Vienāda enerģija neatkarīgi no izstarojuma viļņa garuma || Stara izkliedes palielināšana rezonatorā || Gaismas viļņu intensitātes nejauša maiņa laikā
+T08-04 || Pigmenta absorbcijas maksimuma izvēle neatkarīgi no asinsvadu absorbcijas || Ūdens absorbcijas izmantošana epidermas iztvaikošanai || Melanīna absorbcijas izmantošana folikulu termiskai destrukcijai
+T08-05 || PDL 595 nm || KTP 532 nm || Aleksandrīta 755 nm
+T08-06 || Izkliede || Absorbcija || Transmisija
+T08-07 || W/cm² || W || J
+T08-08 || Aleksandrīta 755 nm ar augstu epidermālo absorbciju || KTP 532 nm ar optimizētu impulsa platumu || PDL 595 nm ar dziļu folikulāru iedarbību
+T08-09 || Folikula melanīns absorbē tikai infrasarkano ūdens joslu || Pigmenta daudzums matu stumbrā ir par lielu || Matu folikuls atrodas ārpus lāzera sasniedzamā dziļuma
+T08-10 || Plūkšana palielina epidermas melanīna koncentrāciju || Plūkšana saīsina tikai impulsa ilgumu, ne mērķa struktūru || Plūkšana samazina sviedru dziedzeru aktivitāti, ne folikulu pigmentu
+T08-11 || Ilgstoša audu termiska koagulācija ar milisekunžu impulsu || Audu ūdens ablācija ar CO₂ viļņa garumu || Selektīva hemoglobīna koagulācija bez pigmenta fragmentācijas
+T08-12 || IPL izmanto šauru vienu viļņa garumu bez filtra || IPL veido koherentu staru ar rezonatora spoguļiem || IPL starojums vienmēr ir tikai 1064 nm
+T08-13 || Pārbaudīt tikai pigmenta dziļumu, bet ne diagnozi || Izvēlēties impulsu, pamatojoties tikai uz plankuma krāsu || Pirms jebkādas dermatoskopijas veikt mazu lāzera testa laukumu uz veidojuma
+T08-14 || Tikai kopējā enerģija ir svarīga, ne impulsa laiks || Impulsa ilgums nosaka viļņa garumu, ne temperatūras pieaugumu || Impulsa ilgums ir vienlīdzīgs jebkura mērķa termiskās relaksācijas laikam
+T08-15 || Lāzera acs bojājuma risks ir tikai tiešas skatīšanās gadījumā || Vienas universālas brilles aizsargā pret visiem viļņu garumiem || Optiskais blīvums ir svarīgs tikai IPL, ne lāzera procedūrā
+T09-01 || Dermas fibroblastu tieša reepitelizācija bez keratinocītiem || Epidermas atjaunošanās tikai no melanocītiem || Brūces aizvēršanās tikai ar kolagēna koagulāciju
+T09-02 || Samazinās dermas kolagēna sintēze, tādēļ dzīšana ir ātrāka || Termiskā iedarbība neietekmē epidermas integritāti pat pie lielas jaudas || Visi mikrotermiskie bojājumi ir ierobežoti ar raga slāni
+T09-03 || Mikrokolonnas veido vienmērīgu pilna laukuma nekrozi || Frakcionētā tehnikā neveidojas jauni keratinocīti || Frakcionēta ablācija pilnībā aizsargā no rētām
+T09-04 || Pārejoša tūska bez jebkādas pigmentācijas iespējas || Viegla īslaicīga ādas sausuma sajūta bez citām komplikācijām || Pārejošs apsārtums bez infekcijas riska
+T09-05 || Palielināt fluenci, lai destrukturētu vīrusu || Vispirms izvērtēt tikai fototipu, infekciju atstājot bez ārstēšanas || Atlikt procedūru tikai tad, ja izteikta tūska bez HSV simptomiem
+T09-06 || Epidermas pilnīga iztvaikošana katrā seansā || Matu folikula melanīna fragmentācija || Hemoglobīna absorbcijas izraisīta koagulācija bez dermas remodelācijas
+T09-07 || Neablatīva frakcionēta tehnoloģija || KTP selektīva vaskulāra terapija || Garā impulsa Nd:YAG epilācija
+T09-08 || Fototips nosaka tikai melanīna krāsu bez komplikāciju riska || Tumšākai ādai ir mazāks PIH risks pēc vienāda iekaisuma || Fototips aizstāj ādas barjeras un medikamentu anamnēzi
+T09-09 || Ilga dzīšana rodas tikai no pigmentācijas, ne epidermas bojājuma || CO₂ procedūrā epitēlija integritāte vienmēr saglabājas || Dzīšana nav atkarīga no apstrādes intensitātes vai dziļuma
+T09-10 || CO₂ rada tikai termisku dermas bojājumu bez iztvaikošanas || Er:glass 1550 nm galvenokārt iztvaicē epidermu un dermu || Abās sistēmās pigmenta fragmentācija ir galvenais mehānisms
+T09-11 || Viegla tūska vienmēr norāda uz ādas nekrozi || Apsārtums vienmēr ir herpes reaktivācijas pazīme || Jebkura eritēma liecina par neatgriezenisku hipopigmentāciju
+T09-12 || Emolienti nepieciešami tikai pirmajās piecās minūtēs || Saule pēc ablācijas pasargā no PIH || Pēcaprūpe ietekmē tikai niezi, ne barjeras atjaunošanos
+T09-13 || Keloīdi rodas tikai no epidermas pigmenta maiņas || Rētošanās risks pēc dziļa bojājuma nav saistīts ar anamnēzi || Frakcionēta pieeja pilnībā izslēdz keloīdu risku
+T09-14 || Spēcīgāka ablācija vienmēr saīsina atveseļošanos || Neablatīvā pieeja dod identisku dziļu efektu vienā seansā || Visas CO₂ sistēmas vienmēr iedarbojas identiskā dziļumā
+T09-15 || Frakcionēšana pilnībā izslēdz kolagēna remodelāciju || Katrā seansā tiek apstrādāta visa āda vienādā dziļumā || Vairāk seansu nepieciešams tikai lāzera hromofora maiņas dēļ
+T10-01 || SNAP-23 proteīns || Muskuļa nikotīniskais acetilholīna receptors || Vezikulu kalcija kanāls
+T10-02 || Toksīns pastāvīgi bloķē postsinaptiskos nikotīniskos receptorus || Nervgalī tiek pilnīgi apturēta acetilholīna sintēze || Acetilholīns izdalās normāli, bet sabrūk sinaptiskajā spraugā
+T10-03 || Postsinaptiskajā muskuļa membrānā || Sinaptiskajā spraugā uz acetilholīnesterāzes || Muskuļa sarkoplazmatiskajā retikulumā
+T10-04 || Palielinās kontrakciju amplitūda bez izmaiņām frekvencē || Saglabājas identiskas kontrakcijas, bet mainās tikai ādas hidrācija || Samazinās tikai jutīgo nervu impulsi, motora signāls paliek nemainīgs
+T10-05 || Toksīns vispirms saistās ar postsinaptiskajiem receptoriem un tad noārdās || Efekts atkarīgs tikai no tūlītējas lokālas tūskas || Maksimāla relaksācija parādās tikai pēc kolagēna remodelācijas
+T10-06 || Statiskās grumbas, kas redzamas miera stāvoklī || Dziļas atrofiskas rētas bez mīmikas komponentes || Grumbas, ko galvenokārt izraisa elastīna zudums bez muskuļa kontrakcijas
+T10-07 || Frontalis un orbicularis oculi || Depressor anguli oris un masseter || Orbicularis oris un temporalis
+T10-08 || Frontalis || Corrugator supercilii || Procerus
+T10-09 || Efekts saglabājas pastāvīgi, bet kustību pārņem citi mīmikas muskuļi || Kustības atjaunojas tikai, palielinoties postsinaptisko receptoru skaitam || Efekts izzūd, jo injicētā viela tiek neitralizēta ar hialuronidāzi
+T10-10 || Ekrīnajiem dziedzeriem dominē adrenerģiskā inervācija || Toksīns tieši noārda sviedru dziedzera epitēliju || BoNT-A kavē tikai muskuļu, ne autonomo nervgaļu acetilholīnu
+T10-11 || Vezikulu saplūšana kļūst ātrāka un acetilholīna daudzums pieaug || SNARE komplekss veido vairāk nikotīnisko receptoru || SNAP-25 šķelšana uzlabo eksocitozes efektivitāti
+T10-12 || Toksīns tieši saistās ar muskuļa receptoriem un bloķē tos || Toksīns kavē acetilholīnesterāzi sinaptiskajā spraugā || Toksīns samazina tikai acetilholīna sintēzi bez eksocitozes ietekmes
+T10-13 || Miera grumbu dziļums pilnīgi nosaka efektu bez mīmikas novērtējuma || Mīmikas kustības vienmēr ir identiskas abās sejas pusēs || Statiskas grumbas nosaka tikai nervgaļa acetilholīna līmenis
+T10-14 || Viena preparāta vienību skaitu var tieši pārcelt uz citu || Bioloģisko aktivitāti nosaka vienīgi ampulas tilpums || Dažādu preparātu devas vienmēr var noteikt pēc viena universāla koeficienta
+T10-15 || Muskuļu relaksācija vienmēr pilnībā novērš dermas strukturālās izmaiņas || Statiskas grumbas BoNT-A iedarbībā izzūd identiski dinamiskajām || BoNT-A vispirms rekonstruē bojātas kolagēna šķiedras, pēc tam atslābina muskuli

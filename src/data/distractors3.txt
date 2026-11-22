@@ -1,0 +1,75 @@
+T11-01 || Infekcijas zonā izvēlēties mazāku BoNT-A devu || Mainīt tikai injekcijas dziļumu, lai izvairītos no virsējā iekaisuma || Pirms injekcijas lokāli uzklāt antiseptiķi un uzreiz turpināt
+T11-02 || BoNT-A var samazināt vienīgi jutīgo nervu vadītspēju || Myasthenia gravis gadījumā toksīns iedarbojas tikai uz sviedru dziedzeriem || Slimības gadījumā postsinaptiskā muskuļa stimulācija vienmēr ir paaugstināta
+T11-03 || Muskuļa levator palpebrae funkcijas pastiprināšanās || Pārmērīga frontalis kompensatorā aktivācija || Lokāla tūska bez ietekmes uz plakstiņa muskuļu funkciju
+T11-04 || Vai hiperhidroze ir lokalizēta vai difūza, neņemot vērā cēloni || Vai svīšana pastiprinās tikai karstumā, bez citu simptomu izvērtēšanas || Vai pacients izmanto dezodorantu, neizvērtējot sistēmisku slimību
+T11-05 || Toksīns uzlabo mirkšķināšanu neatkarīgi no injekcijas zonas || Acs sausumu pilnībā nosaka tikai asaru dziedzera produkcija || Periorbitālo muskuļu atslābināšana nevar ietekmēt plakstiņa funkciju
+T11-06 || Tikai grumbu dziļuma mērīšana pie aizvērtām acīm || Tikai injekciju punktu simetrisks izvietojums || Tikai pacienta subjektīvais pašvērtējums bez kustību novērtējuma
+T11-07 || Tas nozīmē pilnīgu aizliegumu jebkurā valstī || Off-label preparātu deva ir universāli standartizēta || Off-label lietošanā pacienta piekrišana nav nepieciešama
+T11-08 || Sejas asimetrija pēc muskuļu relaksācijas || Ptoze pēc iedarbības uz blakus muskuli || Izteikts rīšanas vājums toksīna izplatības dēļ
+T11-09 || Frontalis ir galvenais uzacu nolaidējmuskulis || Frontalis relaksācija vienmēr pastiprina uzacu pacelšanu || Uzacu pozīciju nosaka tikai orbicularis oculi
+T11-10 || Vienmēr viens un tas pats intervāls neatkarīgi no preparāta un zonas || Intervālu nosaka tikai iepriekšējās injekcijas tūskas ilgums || Visiem pacientiem obligāti jāatkārto injekcija pēc 14 dienām
+T11-11 || Plānot maksimālu relaksāciju neatkarīgi no anatomijas || Kā vienīgo efektivitātes kritēriju izmantot mīmikas pilnīgu izzušanu || Izvēlēties devu tikai pēc grumbu diametra bez funkcionāla vērtējuma
+T11-12 || Pārejoša periorbitāla tūska bez citām pazīmēm || Vieglas lokālas sāpes pirmajā dienā || Neliela ziluma veidošanās injekcijas vietā
+T11-13 || Grūtniecībā drošība ir pierādīta visiem preparātiem identiski || Estētisku injekciju var veikt bez preparāta drošuma datiem || Neatliekama kosmētiska nepieciešamība atsver ierobežoto drošuma informāciju
+T11-14 || Zāļu mijiedarbība skar tikai ādas pigmentācijas procesu || Tikai lokāli lietoti mitrinātāji var ietekmēt nervu transmisiju || Vienāds BoNT-A efekts ir garantēts neatkarīgi no medikamentiem
+T11-15 || Iepriekšējā injekcijā radies neliels zilums || Jau pastāvošas statiskas grumbas || Viegla sākotnēja sejas asimetrija
+T12-01 || Tā galvenokārt veido dermas šķiedru mehānisko balstu || Tā galvenokārt rada epidermas lipīdu necaurlaidību || Tā galvenokārt kontrolē epidermas pigmentu sadalījumu
+T12-02 || Kolagēna fibrilu iekšējā olbaltumvielu kodolā || Keratinocītu raga aploksnes proteīnu slānī || Tikai dermas asinsvadu endotēlija šūnās
+T12-03 || Tieša keratinocītu pārvēršana fibroblastos || Tūlītēja rētaudu mehāniska noārdīšana || Brūces dzīšanas pilnīga aizstāšana ar ūdens piesaisti
+T12-04 || Galvenais novecošanās faktors ir tikai transepidermāls ūdens zudums || Kolagēna un elastīna maiņa notiek neatkarīgi no laika un UV || HA samazinājums izskaidro tikai pigmentācijas plankumus
+T12-05 || Tā ir ar šķērssaitēm savienota kolagēna olbaltumviela || Tā ir fosfolipīdu membrānas daļa || Tā ir nukleīnskābe ar atkārtotiem nukleotīdiem
+T12-06 || HA veido stingras kolagēna šķiedras bez ūdens piesaistes || HA uzlabo apjomu galvenokārt, samazinot dermas šķidrumu || HA nosaka vienīgi zemādas taukaudu biezumu
+T12-07 || Samazinās dermas kolagēna tūlītēja šķelšana bez hidratācijas izmaiņām || HA izmaiņas ietekmē tikai melanīna sintēzi || HA daudzums ir nemainīgs līdz ļoti vēlīnam vecumam
+T12-08 || HA ir galvenais dermas izturības šķiedru proteīns || Kolagēns tikai piesaista ūdeni, ne nodrošina mehānisku struktūru || HA un kolagēns pēc ķīmiskās struktūras ir identiski
+T12-09 || Krēms uzreiz izveido šķērssaistītu dermas depo || Uzklātā HA visos gadījumos penetrē līdz zemādai || Injekcijas vieta neietekmē HA apjoma efektu
+T12-10 || Hroniska ādas virsmas mitruma palielināšanās || Vienīgi īslaicīgs epidermas pH pazeminājums || Tikai dermas HA molekulmasas pieaugums
+T12-11 || Molekulmasa maina tikai krāsu, ne bioloģisko mijiedarbību || Visu molekulmasu HA saistās ar receptoriem identiski || HA fragmentu izmērs nav saistīts ar signalizācijas atšķirībām
+T12-12 || Brūces dzīšanu nodrošina tikai kolagēna šķiedru mehāniska kontrakcija || HA darbojas vienīgi kā raga slāņa aizsargplēve || HA galvenā funkcija ir eritrocītu agregācija dzīšanas vietā
+T12-13 || Raga slāņa melanīna daudzums || Epidermas keratinizācijas ātrums || Ādas atbildes reakcija tikai uz UV
+T12-14 || HA un lipīdi abi tikai kavē ūdens iztvaikošanu || HA galvenokārt veido necaurlaidīgu epidermas lipīdu slāni || Lipīdu barjera galvenokārt piesaista ūdeni dermas matricā
+T12-15 || Pildviela vienmēr pilnībā atjauno dabisko HA sintēzi || Dabiskā HA nodrošina tikai mehānisku tilpumu, ne šūnu vidi || Injekcijas HA efektu nosaka tikai iekšējā HA daudzums
+T13-01 || Paātrināta enzīmiska noārdīšanās || Samazināta mehāniskā noturība audos || Pilnīga nespēja veidot viskozu gēlu
+T13-02 || Tas vienmēr apzīmē tieši pusi no ķīmiskajām šķērssaitēm || Tas nozīmē tikai atšķaidītu, bet pilnībā nesaistītu HA || Tas garantē identisku struktūru visiem preparātiem
+T13-03 || Virspusēja venozā sastrēguma izraisīta eritēma || Pēciekaisuma hiperpigmentācija || Hialuronskābes lokāla granulomatoza reakcija
+T13-04 || Pārejoša lokāla reakcija bez išēmijas pazīmēm || Neliels hematomas veidojums bez sāpju pieauguma || Lēni attīstošs estētisks apjoma zudums
+T13-05 || Pārejoša mīmikas muskuļa relaksācija || Preparāta migrācija tikai virspusējā dermā || Lokāla tūskas reakcija bez asinsvadu iesaistes
+T13-06 || Tā pastiprina organisma HA sintēzi, līdz pazūd pildviela || Tā mehāniski pārvieto pildvielu uz dziļākiem audiem || Tā selektīvi šķeļ tikai kolagēnu ap pildvielu
+T13-07 || Visus aizkavētos mezglus ārstēt tikai ar hialuronidāzi || Nogaidīt bez izvērtēšanas, ja ir apsārtums un sāpes || Vienmēr veikt papildu injekciju, lai izlīdzinātu reljefu
+T13-08 || Nesaistīta HA parasti saglabā apjomu ilgāk nekā gēls || Abas formas vienmēr noārdās identiskā ātrumā || Šķērssaistītā HA vienmēr noārdās uzreiz pēc injekcijas
+T13-09 || Noturību nosaka tikai ķīmiskās šķērssaistes, ne audi || Visās zonās vienādi ir pildvielas sadalīšanās enzīmi un mehāniskā slodze || Noturību nosaka vienīgi ievadīšanas adatas diametrs
+T13-10 || Tikai vēlīnās granulomas pēc šķērssaistītas HA || Tikai asinsvada oklūzija saistītām pildvielām || Vienīgi preparāta migrācija pēc lūpu apjoma korekcijas
+T13-11 || Hialuronidāze izšķīdina jebkuru iekaisuma mezgliņu neatkarīgi no sastāva || Tā vispirms aizstāj jebkuras infekcijas ārstēšanu || Tā darbojas vienādi uz HA, silikonu un kalcija hidroksiapatītu
+T13-12 || Tikai plānotā estētiskā apjoma samazinājuma procentu || Tikai ādas fototipu, ne alerģijas anamnēzi || Preparātu var lietot bez klīniskas izvērtēšanas, jo tas ir enzīms
+T13-13 || Nesaistīta HA veido vienlīdz noturīgu mehānisku depo || Šķērssaistes nodrošina tikai ātrāku vielas uzsūkšanos || Šķērssaistīšana iznīcina gēla spēju uzturēt formu
+T13-14 || Tūlītēja arteriāla oklūzija bez citām pazīmēm || Pilnīgi paredzams rezultāts neatkarīgi no preparāta izkliedes || Vienmērīga audu atrofija kā obligāts HA efekts
+T13-15 || Estētiskas pārmērīga apjoma korekcijas steidzamība parasti ir lielāka || Oklūzijas gadījumā hialuronidāzei nav nozīmes || Išēmijas ārstēšanu drīkst atlikt, līdz samazinās tūska
+T14-01 || PDRN ir ķīmiski šķērssaistīta HA gēls || PDRN ir visu nukleīnskābju bezizņēmuma sinonīms || PDRN ir proteīnu un lipīdu saturošas vezikulas
+T14-02 || Adenozīna A1 receptoru neatgriezeniska inhibēšana || Adenozīna A2B receptoru specifiska proteolīze || Purīna sintēzes nomākšana, neatkarīgi no adenozīna receptoriem
+T14-03 || Tie primāri tieši aizvieto pilnvērtīgas dzīvas šūnas || Tie nodrošina fibroblastu mehānisku iešūšanu audos || Tie ir ķīmiski identiski saistītai HA pildvielai
+T14-04 || Epidermas melanocītu sintēzes pastiprināšanu || Keratinocītu eksfoliāciju bez dermas remodelācijas || Endotēlija koagulāciju ar termisku iedarbību
+T14-05 || Fibroblastu augšanas faktors || Vaskulārās permeabilitātes inhibitors || Epidermas diferenciācijas transkripcijas faktors
+T14-06 || Rētu dziļums nav saistīts ar izvēlēto preparātu || A2A aktivācija pierāda absolūtu efektu jebkura veida rētai || Īslaicīgs laboratorijas efekts garantē noturīgu klīnisku atbildi
+T14-07 || PN un HA ir dažāda molekulmasa, bet vienāds ķīmiskais skelets || PN ir glikozaminoglikāns ar nukleotīdu sānu ķēdēm || HA ir DNS fragments ar šķērssaistēm
+T14-08 || Šūnas tikai sintezē jaunu DNS no nulles bez atkārtotas izmantošanas || Salvage ceļš ir tikai A2A receptoru bloķēšana || Salvage ceļš galvenokārt noārda ekstracelulāro kolagēnu
+T14-09 || A2A aktivizācija ir tas pats, kas mitotiska dalīšanās || Fibroblastu proliferācija ir tikai membrānas receptoru fosforilācija || Abi procesi nozīmē tikai proteīnu koagulāciju
+T14-10 || Fibroblastu aktivitātes samazināšanos bez šūnu dalīšanās || Tikai ekstracelulārās matricas ūdens piesaisti || Fibroblastu migrāciju bez šūnu skaita palielināšanās
+T14-11 || Eksperimentāls receptors automātiski pierāda klīnisku efektu || Visām estētiskām indikācijām ir vienāda pētījumu kvalitāte || Reģenerācijas signālceļi vienmēr precīzi nosaka individuālu rezultātu
+T14-12 || Keratinocītu melanīna sintēzi || Epidermas raga slāņa keratīna saistību noārdīšanu || Muskuļa acetilholīna receptoru blīvuma palielināšanos
+T14-13 || PN vienmēr satur veselas, dalīties spējīgas cilmes šūnas || PN ir cilmes šūnu izdalītas membrānas vezikulas || PN darbojas tikai transplantējot jaunu šūnu kodolu
+T14-14 || Iekaisuma signalizācija vienmēr tiek pilnībā bloķēta || Tiek nodrošināta sterila brūces dzīšana bez mikrobioma izmaiņām || Jebkura iekaisuma mediatoru samazināšanās garantē pilnīgu rētu izzušanu
+T14-15 || Fragmentu izmērs un formulācija neietekmē iedarbību || Visiem preparātiem ir identiski klīniskie dati || Jebkurš PDRN pierādījums tieši attiecas uz visiem PN produktiem
+T15-01 || Tās veidojas ar tiešu plazmatiskās membrānas ārēju pumpurošanos || Tās rodas apoptotisko šūnu fragmentēšanās laikā || Tās ir tikai šķīstoši proteīnu agregāti bez membrānas
+T15-02 || Lipīdi un proteīni, bet bez nukleīnskābēm || Tikai veselas DNS hromosomas bez membrānas || Tikai brīvi nukleotīdi bez proteīniem
+T15-03 || Tikai membrānas lipīdu mehāniska sadalīšana dermā || Vienīgi vielas difūzija bez šūnu mijiedarbības || Tikai ekstracelulāras DNS hidrolīze
+T15-04 || Eksosomas un PDRN ir vienādas DNS ķēdes ar atšķirīgiem nosaukumiem || PDRN ir ārpusšūnu vezikulas, bet eksosomas — brīvi polinukleotīdi || Abiem obligāti ir identiska lipīdu membrāna
+T15-05 || Izcelsmes šūnas neietekmē vezikulu saturu || Visu šūnu ārpusšūnu vezikulām ir identiska RNS krava || Bioloģisko iedarbību nosaka tikai kopējais vezikulu skaits
+T15-06 || Izolēšana ietekmē tikai iepakojuma izskatu, ne preparāta īpašības || Vezikulu koncentrācija viena pati pilnībā garantē tīrību || Atšķirīgus preparātus drīkst salīdzināt bez sastāva raksturošanas
+T15-07 || Pozitīvu pirmsklīnisku signālu pietiek, lai pierādītu terapeitisku efektu || Pacientu kopskaits vienmēr aizstāj individuālu pētījumu metodoloģijas vērtējumu || Dažādas izolēšanas metodes neietekmē pētījumu salīdzināmību
+T15-08 || Vezikulu saistīšanās tikai ar ādas virsmas keratīnu || Vienīgi vezikulu mehāniska aizķeršanās raga slānī || Šūnas uzņem tikai brīvu DNS, ne membrānas vezikulas
+T15-09 || Eksosomas darbojas tikai caur vienu universālu A2A receptoru signālceļu || Visu eksosomu krava satur vienīgi adenozīnu || Eksosomu transporta krava nevar ietekmēt saņēmējšūnu signalizāciju
+T15-10 || Angioģenēzes marķieris tieši pierāda rētu klīnisku izzušanu || Audu signālu maiņa automātiski pierāda ilgtermiņa drošumu || Pirmsklīnisks angiogēns signāls nosaka vienādu efektu visiem cilvēkiem
+T15-11 || Eksosomas ir pilnvērtīgas šūnas ar kodolu || Eksosomas spēj patstāvīgi dalīties un diferencēties || Eksosomas obligāti satur visu donora šūnas genomu un organellas
+T15-12 || Eksosomas tieši mehāniski aizpilda dermu kā stabils HA gēls || Eksosomas nodrošina audu remodelāciju tikai ar termisku destrukciju || Eksosomas aktivē tikai melanocītus bez citu šūnu iesaistes
+T15-13 || Vienāds vezikulu skaits garantē identisku bioloģisko kravu || Preparāta izcelsme neietekmē signālceļus || Pētījumi ar vienu produktu tieši pierāda visu zīmolu efektivitāti
+T15-14 || PDRN || Nesaistītā hialuronskābe || Fibroblastu sekretēts brīvs DNS fragments
+T15-15 || Bioloģiska ticamība jau ir ekvivalenta lielam randomizētam pētījumam || Eksosomu preparātu klīnisko efektu var droši prognozēt tikai pēc izcelsmes šūnas || Atšķirīgi eksosomu produkti ir pietiekami standartizēti vienādai efektivitātei

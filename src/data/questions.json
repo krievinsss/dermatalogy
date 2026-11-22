@@ -1,0 +1,3827 @@
+[
+  {
+    "id": "T01-01",
+    "topicId": "T01",
+    "topic": "Labdabīgie veidojumi",
+    "source": "2.1. nodarbība · 3.–55. slaids",
+    "question": "Pieaugušajam uz muguras ir vairāki gadiem nemainīgi brūni, kārpaini, it kā pielipuši veidojumi. Kurš slānis un šūnu grupa visvairāk saistīti ar to izcelsmi?",
+    "options": [
+      "Epidermas keratinocīti",
+      "Dermas fibroblasti",
+      "Epidermas melanocīti",
+      "Matu folikulu bazālās šūnas"
+    ],
+    "correctIndex": 0,
+    "theory": "Seborejiskā keratoze ir labdabīgs epidermas keratinocītu veidojums. Tai raksturīga vaskveidīga, virs ādas šķietami pielipusi virsma. Pigmentācija pati par sevi vēl nenozīmē melanocītu izcelsmi.",
+    "takeaway": "Pigmentēts veidojums ne vienmēr ir melanocītu audzējs.",
+    "difficulty": 2
+  },
+  {
+    "id": "T01-02",
+    "topicId": "T01",
+    "topic": "Labdabīgie veidojumi",
+    "source": "2.1. nodarbība · 3.–55. slaids",
+    "question": "Jauns, mīksts, uz kātiņa esošs veidojums parādījies kakla krokā un aizķeras aiz apģērba. Kura diagnoze ir ticamākā?",
+    "options": [
+      "Akrohordons",
+      "Filiforma vīrusu kārpa",
+      "Intradermāls nevuss",
+      "Virspusēja dermatofibroma"
+    ],
+    "correctIndex": 0,
+    "theory": "Akrohordoni jeb mīkstās fibromas ir bieži, labdabīgi, kātiņveida ādas izaugumi. Tos bieži novēro kakla, padušu un cirkšņu krokās. Dermatofibroma parasti ir stingrs, nevis mīksts kātiņveida veidojums.",
+    "takeaway": "Kātiņš un ādas kroka palīdz atpazīt akrohordonu.",
+    "difficulty": 2
+  },
+  {
+    "id": "T01-03",
+    "topicId": "T01",
+    "topic": "Labdabīgie veidojumi",
+    "source": "2.1. nodarbība · 3.–55. slaids",
+    "question": "Uz apakšstilba ir 6 mm stingrs, brūngans mezgliņš; saspiežot no sāniem, centrā veidojas iedobums. Kurš veidojums visvairāk atbilst?",
+    "options": [
+      "Dermatofibroma",
+      "Intradermāls nevuss",
+      "Dermatofibrosarcoma protuberans",
+      "Hipertrofiska rēta"
+    ],
+    "correctIndex": 0,
+    "theory": "Dermatofibromai raksturīgs stingrs dermas mezgliņš un tā sauktais iedobuma simptoms. Šis simptoms ir noderīga klīniskā pazīme, taču diagnoze jāizvērtē kopā ar citām pazīmēm. Netipisku veidojumu gadījumā jāizslēdz arī ļaundabīga patoloģija.",
+    "takeaway": "Iedobuma simptoms ir tipisks, nevis absolūti specifisks.",
+    "difficulty": 2
+  },
+  {
+    "id": "T01-04",
+    "topicId": "T01",
+    "topic": "Labdabīgie veidojumi",
+    "source": "2.1. nodarbība · 3.–55. slaids",
+    "question": "Lēni augošs, mīksts, kustīgs mezgls atrodas zem ādas uz pleca; virsējā āda nav mainīta. Kāda audu izcelsme visdrīzāk?",
+    "options": [
+      "Taukaudi",
+      "Dermas fibroblasti",
+      "Epidermas keratinocīti",
+      "Limfvadu endotēlijs"
+    ],
+    "correctIndex": 0,
+    "theory": "Lipoma ir labdabīgs taukaudu veidojums, kas bieži jūtams kā mīksts un kustīgs zemādas mezgls. Virsējā āda parasti ir normāla. Cista, savukārt, var būt vairāk saistīta ar ādu un ar redzamu atveri.",
+    "takeaway": "Lipoma parasti atrodas zemādā.",
+    "difficulty": 2
+  },
+  {
+    "id": "T01-05",
+    "topicId": "T01",
+    "topic": "Labdabīgie veidojumi",
+    "source": "2.1. nodarbība · 3.–55. slaids",
+    "question": "Uz muguras zem ādas ir gluds mezgliņš ar nelielu centrālu atveri. Kāds ir ticamākais tā saturs?",
+    "options": [
+      "Keratīna masas",
+      "Sebuma un lipīdu sekrēts",
+      "Serozs iekaisuma eksudāts",
+      "Organizēti fibrīna nogulsnējumi"
+    ],
+    "correctIndex": 0,
+    "theory": "Epidermoidālā cista ir ar epitēliju izklāts dobums, kas satur keratīnu. Centrāls punctum jeb atvere ir bieža klīniskā pazīme. Ja cista iekaist, tā var būt sāpīga un atgādināt abscesu.",
+    "takeaway": "Epidermoidālai cistai raksturīgs keratīns un punctum.",
+    "difficulty": 2
+  },
+  {
+    "id": "T01-06",
+    "topicId": "T01",
+    "topic": "Labdabīgie veidojumi",
+    "source": "2.1. nodarbība · 3.–55. slaids",
+    "question": "Vairāki sīki, apaļi, spilgti sarkani papulāri veidojumi pakāpeniski parādās uz pieauguša cilvēka rumpja. Kurš izcelsmes mehānisms ir raksturīgākais?",
+    "options": [
+      "Kapilāru endotēlija proliferācija",
+      "Paplašinātu venulu sieniņu fibroze",
+      "Melanocītu perēkļveida proliferācija",
+      "Virspusēju limfvadu hiperplāzija"
+    ],
+    "correctIndex": 0,
+    "theory": "Ķiršu angiomas ir labdabīgi kapilāru izcelsmes veidojumi. Tās bieži novēro pieaugušajiem un parasti ārstēšanu neprasa. To sarkanā krāsa ir saistīta ar asinsvadu struktūrām.",
+    "takeaway": "Ķiršu angioma ir asinsvadu, nevis pigmentšūnu veidojums.",
+    "difficulty": 3
+  },
+  {
+    "id": "T01-07",
+    "topicId": "T01",
+    "topic": "Labdabīgie veidojumi",
+    "source": "2.1. nodarbība · 3.–55. slaids",
+    "question": "Zīdainim pēc dzimšanas parādās sarkans virspusējs veidojums, kas pirmajās nedēļās strauji aug. Kāda sākotnējā izvērtēšana ir būtiskākā?",
+    "options": [
+      "Lokalizācija, izmērs un funkcionāla riska pazīmes",
+      "Tikai proliferācijas ātrums un virsmas krāsa",
+      "Vispirms precīzs melanīna daudzums",
+      "Rētošanās anamnēze un saules iedarbība"
+    ],
+    "correctIndex": 0,
+    "theory": "Zīdaiņu hemangiomas sākumā var strauji proliferēt. Augsta riska lokalizācija, piemēram, pie acs vai elpceļiem, var radīt funkcionālu apdraudējumu un prasīt agrīnu speciālista izvērtēšanu. Mazus, nekomplicētus veidojumus nereti novēro.",
+    "takeaway": "Hemangiomas risku nosaka arī atrašanās vieta.",
+    "difficulty": 3
+  },
+  {
+    "id": "T01-08",
+    "topicId": "T01",
+    "topic": "Labdabīgie veidojumi",
+    "source": "2.1. nodarbība · 3.–55. slaids",
+    "question": "Veidojums ir sarkans, strauji augošs un viegli asiņo. Kura diferenciāldiagnoze ir īpaši svarīga, pirms to destruktīvi noņem?",
+    "options": [
+      "Amelanotiska melanoma",
+      "Virspusēja kapilāra angioma",
+      "Vaskulāra malformācija",
+      "Lobulāra kapilāra hemangioma"
+    ],
+    "correctIndex": 0,
+    "theory": "Piogēna granuloma klīniski var atgādināt citus asinsvadu vai bezpigmenta audzējus. Daļa ļaundabīgu veidojumu, tostarp amelanotiska melanoma, var būt rozā vai sarkani. Ja diagnoze nav pārliecinoša, jāiegūst audi histoloģijai.",
+    "takeaway": "Sarkana krāsa neizslēdz melanomu.",
+    "difficulty": 3
+  },
+  {
+    "id": "T01-09",
+    "topicId": "T01",
+    "topic": "Labdabīgie veidojumi",
+    "source": "2.1. nodarbība · 3.–55. slaids",
+    "question": "Bērnam piedzimstot jau redzams pilnībā izveidojies asinsvadu veidojums, kas divu gadu laikā nemazinās. Kura iedzimtas hemangiomas forma var atbilst?",
+    "options": [
+      "NICH",
+      "RICH",
+      "Kombinēta infantila hemangioma",
+      "Virspusēja infantila hemangioma"
+    ],
+    "correctIndex": 0,
+    "theory": "Neinvolutējoša iedzimta hemangioma (NICH) jau ir izveidojusies dzimšanas brīdī un parasti spontāni neregresē. RICH formai raksturīga agrīna involūcija. Tas atšķiras no tipiskas zīdaiņu hemangiomas, kas var sākt augt pēc dzimšanas.",
+    "takeaway": "NICH neregresē, RICH regresē.",
+    "difficulty": 3
+  },
+  {
+    "id": "T01-10",
+    "topicId": "T01",
+    "topic": "Labdabīgie veidojumi",
+    "source": "2.1. nodarbība · 3.–55. slaids",
+    "question": "Neliels virspusējs brūns veidojums bērnam gadiem ir stabils, simetrisks un vienmērīgā krāsā. Kāda izcelsme visvairāk atbilst melanocītiskam nevusam?",
+    "options": [
+      "Melanocītu lokāla proliferācija",
+      "Melanīnu saturošu keratinocītu hiperplāzija",
+      "Dermas melanofāgu sakopojums",
+      "Fibroblastu lokāla proliferācija"
+    ],
+    "correctIndex": 0,
+    "theory": "Melanocītisks nevuss ir labdabīga melanocītu proliferācija. Tipiskie nevi mēdz būt simetriski un stabili, tomēr jebkuras izmaiņas jāvērtē dinamikā. Stabilitāte ir noderīga pazīme, bet tā neaizstāj dermatoskopiju netipiska atraduma gadījumā.",
+    "takeaway": "Nevus ir melanocītu veidojums.",
+    "difficulty": 3
+  },
+  {
+    "id": "T01-11",
+    "topicId": "T01",
+    "topic": "Labdabīgie veidojumi",
+    "source": "2.1. nodarbība · 3.–55. slaids",
+    "question": "Pacientam no dermas dziļuma redzams zilgani iekrāsots, mīksts asinsvadu veidojums. Ar kuru hemangiomas tipu tas vairāk sader?",
+    "options": [
+      "Dziļa hemangioma",
+      "Virspusēja kapilāra hemangioma",
+      "Kombinēta hemangioma",
+      "Iedzimta virspusēja hemangioma"
+    ],
+    "correctIndex": 0,
+    "theory": "Dziļas hemangiomas var izskatīties zilganas, jo asinsvadu audi atrodas dziļāk dermā vai zemādā. Virspusēji veidojumi biežāk ir spilgti sarkani. Krāsa palīdz spriest par dziļumu, bet diagnozi nosaka kopējā aina.",
+    "takeaway": "Dziļa vaskulāra struktūra var izskatīties zilgana.",
+    "difficulty": 3
+  },
+  {
+    "id": "T01-12",
+    "topicId": "T01",
+    "topic": "Labdabīgie veidojumi",
+    "source": "2.1. nodarbība · 3.–55. slaids",
+    "question": "Uz augšstilba redzams brūngans mezgliņš, kas nesen strauji pieaudzis un mainījis kontūras. Kā pareizi izmantot iepriekšēju dermatofibromas diagnozi?",
+    "options": [
+      "Pārvērtēt veidojumu un apsvērt dermatoskopiju vai biopsiju",
+      "Vispirms novērot līdz simptomu parādīšanās brīdim",
+      "Veikt destrukciju, ja nav sāpju",
+      "Pārbaudīt tikai veidojuma diametru"
+    ],
+    "correctIndex": 0,
+    "theory": "Pat ja veidojums iepriekš atgādinājis dermatofibromu, jauna dinamika prasa pārvērtēšanu. Diferenciāldiagnozē jāņem vērā citi fibrohistocītiski vai ļaundabīgi audzēji. Vēsture un dermatoskopija palīdz lemt par biopsiju.",
+    "takeaway": "Mainīgs veidojums prasa atkārtotu diagnostiku.",
+    "difficulty": 3
+  },
+  {
+    "id": "T01-13",
+    "topicId": "T01",
+    "topic": "Labdabīgie veidojumi",
+    "source": "2.1. nodarbība · 3.–55. slaids",
+    "question": "Pacientam ir ādas izaugums ar brūnu krāsu, un sākotnēji tas šķiet seborejiska keratoze. Kas maina diagnostikas taktiku?",
+    "options": [
+      "Neregulāra pigmentācija un straujas izmaiņas",
+      "Vienmērīgs tonis un gadiem nemainīgs izmērs",
+      "Viegls virsmas raupjums bez dinamikas",
+      "Vairāki līdzīgi stabili veidojumi"
+    ],
+    "correctIndex": 0,
+    "theory": "Seborejiskā keratoze var būt pigmentēta un imitēt melanomu, un dažreiz pretēji. Neregulāras vai strauji mainīgas pazīmes palielina nepieciešamību pēc dermatoskopijas un, ja vajadzīgs, histoloģijas. Destrukcija bez diagnozes var liegt identificēt malignitāti.",
+    "takeaway": "Pigmentēta keratoze jāatšķir no melanomas.",
+    "difficulty": 3
+  },
+  {
+    "id": "T01-14",
+    "topicId": "T01",
+    "topic": "Labdabīgie veidojumi",
+    "source": "2.1. nodarbība · 3.–55. slaids",
+    "question": "Bērnam asinsvadu veidojums atrodas tieši pie plakstiņa un traucē atvērt aci. Kura pazīme šeit ir noteicošā ārstēšanas nepieciešamībai?",
+    "options": [
+      "Funkcijas apdraudējums",
+      "Veidojuma estētiskais redzamības pakāpe",
+      "Vienīgi virsmas sarkanās krāsas intensitāte",
+      "Tikai anatomiskā diametra palielināšanās"
+    ],
+    "correctIndex": 0,
+    "theory": "Periokulāra hemangioma var ietekmēt redzes attīstību un acu funkciju. Augsta riska veidojumus nevajag vērtēt tikai kosmētiski; svarīga agrīna ārstēšanas iespēju izvērtēšana. Funkcionālā ietekme ir prioritāra.",
+    "takeaway": "Funkcionāls risks ir svarīgāks par estētisku nepatiku.",
+    "difficulty": 3
+  },
+  {
+    "id": "T01-15",
+    "topicId": "T01",
+    "topic": "Labdabīgie veidojumi",
+    "source": "2.1. nodarbība · 3.–55. slaids",
+    "question": "Iekaisis zemādas mezgliņš ir sāpīgs, sarkans un satur keratīna materiālu. Kādēļ diferenciāldiagnozē jāapsver arī abscess?",
+    "options": [
+      "Abiem iespējams sāpīgs, iekaisis zemādas veidojums",
+      "Abiem obligāti ir epitēlija kapsula",
+      "Abiem galvenais saturs ir keratīns",
+      "Abiem raksturīga tikai nesāpīga norise"
+    ],
+    "correctIndex": 0,
+    "theory": "Iekaisusi epidermoidāla cista var kļūt sāpīga, sarkana un atgādināt abscesu. Abscess ir infekciozs strutu dobums, savukārt cista satur keratīnu un var iekaist arī bez primāras infekcijas. Diferencēšana ietekmē ārstēšanu.",
+    "takeaway": "Iekaisums vēl nenozīmē vienādu izcelsmi.",
+    "difficulty": 3
+  },
+  {
+    "id": "T02-01",
+    "topicId": "T02",
+    "topic": "Ļaundabīgie veidojumi",
+    "source": "2.1. nodarbība · 56.–113. slaids",
+    "question": "55 gadus vecam pacientam uz auss ir ciets zvīņains mezgls, kas slikti dzīst. Kurš riska faktoru un diagnozes pāris ir ticamākais?",
+    "options": [
+      "Kumulatīvs UV starojums un SCC",
+      "Īslaicīgi saules apdegumi un BCC",
+      "Hroniska lokāla berze un keratoakantoma",
+      "Melanocītiska displāzija un melanoma"
+    ],
+    "correctIndex": 0,
+    "theory": "Plakanšūnu karcinoma bieži rodas hroniski saules ietekmētās vietās, piemēram, uz ausīm un rokām. Tai raksturīgs keratotisks vai čūlojošs, slikti dzīstošs veidojums. Kumulatīvais UV bojājums ir viens no galvenajiem riskiem.",
+    "takeaway": "Auss, keratoze un slikta dzīšana liek domāt par SCC.",
+    "difficulty": 2
+  },
+  {
+    "id": "T02-02",
+    "topicId": "T02",
+    "topic": "Ļaundabīgie veidojumi",
+    "source": "2.1. nodarbība · 56.–113. slaids",
+    "question": "Pēc ilgstošas saules iedarbības uz sejas parādās lēni augošs rozā, spīdīgs mezgliņš ar centrālu čūliņu. Kura diagnoze visvairāk jāapsver?",
+    "options": [
+      "Bazālo šūnu karcinoma",
+      "Plakanšūnu karcinoma",
+      "Aktīniskā keratoze",
+      "Nodulāra melanoma"
+    ],
+    "correctIndex": 0,
+    "theory": "Bazālo šūnu karcinoma bieži ir spīdīgs, pērļains veidojums ar virspusējiem asinsvadiem; centrā var veidoties čūla. Tas aug galvenokārt lokāli un reti metastazē, bet spēj bojāt audus. Precīzai diagnozei nepieciešama klīniska, dermatoskopiska un bieži histoloģiska izvērtēšana.",
+    "takeaway": "BCC lēni aug, bet var būt lokāli destruktīvs.",
+    "difficulty": 2
+  },
+  {
+    "id": "T02-03",
+    "topicId": "T02",
+    "topic": "Ļaundabīgie veidojumi",
+    "source": "2.1. nodarbība · 56.–113. slaids",
+    "question": "Pacients norāda uz jaunu asimetrisku tumšu plankumu uz pēdas, kas palielinās. Kāda ir prioritārā rīcība?",
+    "options": [
+      "Dermatoskopiska izvērtēšana ar biopsijas plānu, ja aizdomas saglabājas",
+      "Fotografēt un atlikt vērtēšanu uz sešiem mēnešiem",
+      "Veikt krāsu izlīdzinošu procedūru pēc fototipa noteikšanas",
+      "Sākt ar bezbiopsijas dermabrāziju un pārbaudīt dinamiku"
+    ],
+    "correctIndex": 0,
+    "theory": "Akrāla melanoma var attīstīties uz plaukstām un pēdām. Jauna vai mainīga pigmentācija šajā zonā prasa rūpīgu izvērtēšanu. Aizdomīgu pigmentētu bojājumu nedrīkst iznīcināt pirms diagnostikas, jo zūd histoloģijas iespēja.",
+    "takeaway": "Akrāls pigmentēts bojājums nav automātiski nekaitīgs.",
+    "difficulty": 2
+  },
+  {
+    "id": "T02-04",
+    "topicId": "T02",
+    "topic": "Ļaundabīgie veidojumi",
+    "source": "2.1. nodarbība · 56.–113. slaids",
+    "question": "Vīrietim uz muguras ir 5 mm jauns plankums, kas pēdējo mēnešu laikā maina formu. Kā interpretēt to, ka diametrs nesasniedz 6 mm?",
+    "options": [
+      "Melanoma joprojām ir iespējama, jo svarīga arī evolūcija",
+      "Diametrs zem 6 mm nozīmē zemu risku, ja nav čūlošanas",
+      "Krāsas maiņa ir nozīmīga tikai pie diametra virs 10 mm",
+      "Evolūcija ir svarīga tikai pie iedzimtiem nevusiem"
+    ],
+    "correctIndex": 0,
+    "theory": "ABCDE kritērijs E apzīmē izmaiņas laikā, kas var būt svarīgāks par absolūtu diametru. Melanomas var būt arī mazākas par 6 mm. Jāvērtē asimetrija, malas, krāsa un jauna dinamika.",
+    "takeaway": "Mazs izmērs neizslēdz melanomu.",
+    "difficulty": 2
+  },
+  {
+    "id": "T02-05",
+    "topicId": "T02",
+    "topic": "Ļaundabīgie veidojumi",
+    "source": "2.1. nodarbība · 56.–113. slaids",
+    "question": "Pacientam histoloģiski apstiprināta melanoma. Kurš parametrs ir īpaši nozīmīgs agrīnas invazīvas melanomas prognozes izvērtēšanā?",
+    "options": [
+      "Breslova biezums",
+      "Čūlas platums uz ādas virsmas",
+      "Tumšākās pigmenta zonas diametrs",
+      "Dermatoskopā redzamā asinsvadu blīvuma pakāpe"
+    ],
+    "correctIndex": 0,
+    "theory": "Breslova biezums raksturo melanomas invāzijas dziļumu milimetros. Tas ir svarīgs prognozes un turpmākās taktikas parametrs kopā ar citām histoloģiskām un klīniskām pazīmēm. Ādas pH vai sebums šo stadijas informāciju neaizstāj.",
+    "takeaway": "Melanomas dziļums ir prognostiski nozīmīgs.",
+    "difficulty": 2
+  },
+  {
+    "id": "T02-06",
+    "topicId": "T02",
+    "topic": "Ļaundabīgie veidojumi",
+    "source": "2.1. nodarbība · 56.–113. slaids",
+    "question": "Pacientam ar orgāna transplantāciju ilgstoši nepieciešama imūnsupresija. Kurš secinājums par ādas audzējiem ir vispamatotākais?",
+    "options": [
+      "Paaugstināts keratinocītu audzēju, īpaši SCC, risks",
+      "Galvenokārt paaugstināts melanocītu nevusu recidīvu risks",
+      "Imūnsupresija nozīmīgi ietekmē tikai melanomu",
+      "SCC risks nav saistīts ar imūno uzraudzību"
+    ],
+    "correctIndex": 0,
+    "theory": "Imūnsupresija ir riska faktors plakanšūnu un citiem ādas audzējiem. UV bojājums joprojām ir būtisks, un nepieciešama regulāra ādas kontrole. SCC šiem pacientiem var noritēt agresīvāk.",
+    "takeaway": "Imūnsupresija pastiprina ādas vēža risku.",
+    "difficulty": 3
+  },
+  {
+    "id": "T02-07",
+    "topicId": "T02",
+    "topic": "Ļaundabīgie veidojumi",
+    "source": "2.1. nodarbība · 56.–113. slaids",
+    "question": "Uz sejas ir ilgstošs, neregulārs, zvīņains plankums, kura biopsijā atypiskas šūnas ir visā epidermas biezumā, bet nav dermas invāzijas. Kāda diagnoze atbilst?",
+    "options": [
+      "Bovena slimība jeb SCC in situ",
+      "Aktīniskā keratoze ar vieglu displāziju",
+      "Invazīva plakanšūnu karcinoma",
+      "Virspusēja bazālo šūnu karcinoma"
+    ],
+    "correctIndex": 0,
+    "theory": "Bovena slimība ir plakanšūnu karcinoma in situ: atypiskie keratinocīti aptver epidermu, bet nav ieauguši dermā. Tā ir pirmsinvazīva vēža forma ar progresēšanas iespēju. Histoloģija palīdz atšķirt no invazīvas SCC.",
+    "takeaway": "In situ nozīmē bez invāzijas dermā.",
+    "difficulty": 3
+  },
+  {
+    "id": "T02-08",
+    "topicId": "T02",
+    "topic": "Ļaundabīgie veidojumi",
+    "source": "2.1. nodarbība · 56.–113. slaids",
+    "question": "Pacientam pēc atkārtotiem saules apdegumiem ir vairākas raupjas, zvīņainas vietas uz plikpaurainas galvas. Ar kādu pirmsvēža stāvokli tas visvairāk sader?",
+    "options": [
+      "Aktīniskā keratoze",
+      "Seborejiskā keratoze",
+      "Bovena slimība",
+      "Lentigo solaris"
+    ],
+    "correctIndex": 0,
+    "theory": "Aktīniskā keratoze ir UV saistīts keratinocītu bojājums, kas veido raupjus, zvīņainus plankumus. Daļa var progresēt līdz SCC. Vērtēšana ir svarīga, jo atsevišķi veidojumi var jau būt invazīvi.",
+    "takeaway": "Aktīniskā keratoze ir UV izraisīts priekšvēža bojājums.",
+    "difficulty": 3
+  },
+  {
+    "id": "T02-09",
+    "topicId": "T02",
+    "topic": "Ļaundabīgie veidojumi",
+    "source": "2.1. nodarbība · 56.–113. slaids",
+    "question": "Pacientam ir BCC uz deguna anatomiski sarežģītā vietā. Kāpēc dažkārt izvēlas Mohsa mikrogrāfisko ķirurģiju?",
+    "options": [
+      "Precīzai audzēja robežu kontrolei, saglabājot veselus audus",
+      "Pirmreizēja pigmentēta melanoma",
+      "Krāsu korekcija ar Q-switched lāzeru",
+      "Tikai plašāka ekscīzija bez histoloģijas kontroles"
+    ],
+    "correctIndex": 0,
+    "theory": "Mohsa ķirurģijā audzēja malas tiek histoloģiski kontrolētas pa posmiem. Tas var palīdzēt panākt pilnīgu izņemšanu un vienlaikus saudzēt veselus audus, īpaši svarīgās sejas zonās. Metodi izvēlas atbilstoši indikācijai un riskam.",
+    "takeaway": "Mohsa metode apvieno ekscīziju un malu kontroli.",
+    "difficulty": 3
+  },
+  {
+    "id": "T02-10",
+    "topicId": "T02",
+    "topic": "Ļaundabīgie veidojumi",
+    "source": "2.1. nodarbība · 56.–113. slaids",
+    "question": "Pacientam uz deguna ādas ir pigmentēts mezgliņš; dermatoskopijā neskaidrs, vai tā ir BCC vai melanoma. Kāda turpmākā pieeja ir korekta?",
+    "options": [
+      "Histoloģiska diagnozes precizēšana",
+      "Atkārtota vizuāla pārbaude bez audu parauga",
+      "Tikai dziļuma izvērtēšana pēc virsmas krāsas",
+      "Virspusēja krioterapija un kontrole, ja izmērs pieaug"
+    ],
+    "correctIndex": 0,
+    "theory": "Pigmentēta BCC un melanoma dažkārt var klīniski līdzināties. Ja nav pārliecinošas diagnostikas, nepieciešams atbilstošs histoloģisks izmeklējums. Destruktīva kosmētiska procedūra nedrīkst aizkavēt vēža diagnostiku.",
+    "takeaway": "Neskaidrai pigmentācijai jāprecizē diagnoze.",
+    "difficulty": 3
+  },
+  {
+    "id": "T02-11",
+    "topicId": "T02",
+    "topic": "Ļaundabīgie veidojumi",
+    "source": "2.1. nodarbība · 56.–113. slaids",
+    "question": "Cilvēks gadiem izmanto solāriju un viņam ir gaiša āda. Kura kombinācija vislabāk raksturo melanomas risku?",
+    "options": [
+      "UV iedarbība kopā ar uzņēmīgu fenotipu",
+      "Solāriju lietošana vienatnē bez fenotipa nozīmes",
+      "Gaiša āda bez nozīmes no UV ekspozīcijas",
+      "Tikai jau esošu nevusu skaits bez UV anamnēzes"
+    ],
+    "correctIndex": 0,
+    "theory": "Melanomas risku palielina UV starojums un iedzimta uzņēmība, piemēram, gaiša āda un apdegumu tendence. Solārijs ir nozīmīgs mākslīga UV avots. Riska faktoru summa ir svarīga arī profilaksei.",
+    "takeaway": "UV ekspozīcija un fenotips darbojas kopā.",
+    "difficulty": 3
+  },
+  {
+    "id": "T02-12",
+    "topicId": "T02",
+    "topic": "Ļaundabīgie veidojumi",
+    "source": "2.1. nodarbība · 56.–113. slaids",
+    "question": "Pacientam uz lūpas ir ilgstoši zvīņains, sāpīgs apvidus, kas kļūst par čūlu. Kura ļaundabīga audzēja iespēja jāizslēdz?",
+    "options": [
+      "Plakanšūnu karcinoma",
+      "Bazālo šūnu karcinoma",
+      "Aktīnisks heilīts bez invāzijas",
+      "Keratoakantoma"
+    ],
+    "correctIndex": 0,
+    "theory": "SCC var skart arī lūpu un izpausties kā keratotisks, čūlojošs vai slikti dzīstošs bojājums. Hronisks aktīnisks heilīts var būt priekšvēža stāvoklis. Nepieciešama klīniska izvērtēšana un piemērota biopsija.",
+    "takeaway": "Hroniski čūlojoša lūpa jāizvērtē onkoloģiski.",
+    "difficulty": 3
+  },
+  {
+    "id": "T02-13",
+    "topicId": "T02",
+    "topic": "Ļaundabīgie veidojumi",
+    "source": "2.1. nodarbība · 56.–113. slaids",
+    "question": "Klīniski aizdomīgai melanomai plānots noņemt tikai virspusējo pigmentu ar lāzeru. Kāds ir būtiskākais risks?",
+    "options": [
+      "Tiks zaudēts materiāls precīzai histoloģiskai un invāzijas dziļuma noteikšanai",
+      "Pigmenta noņemšana palīdzēs precīzāk izmērīt audzēja biezumu",
+      "Pēc lāzerablācijas audzēja stadiju parasti nosaka tikai pēc fotogrāfijas",
+      "Ablācija saglabās neskartu dermas audu bloku histoloģijai"
+    ],
+    "correctIndex": 0,
+    "theory": "Melanomai histoloģija nepieciešama ne tikai diagnozei, bet arī invāzijas dziļuma un citu prognostisku pazīmju noteikšanai. Destruktīva ablācija šādu materiālu var iznīcināt. Tāpēc aizdomīgi pigmentēti veidojumi jādiagnosticē pirms destrukcijas.",
+    "takeaway": "Melanomas diagnostikai jāsaudzē audu struktūra.",
+    "difficulty": 3
+  },
+  {
+    "id": "T02-14",
+    "topicId": "T02",
+    "topic": "Ļaundabīgie veidojumi",
+    "source": "2.1. nodarbība · 56.–113. slaids",
+    "question": "Pacients pamana uz ādas jaunu rozā, pigmentu nesaturošu mezglu, kas strauji aug. Kāds secinājums vispareizākais?",
+    "options": [
+      "Bezpigmenta izskats neizslēdz melanomu",
+      "Mazpigmentēta BCC tiek izslēgta tikai pēc krāsas",
+      "Amelanotiska melanoma iespējama tikai uz pēdām",
+      "Bezpigmenta mezgli ļaundabīgumu iegūst tikai pēc čūlošanas"
+    ],
+    "correctIndex": 0,
+    "theory": "Amelanotiska melanoma var būt rozā vai sarkana, jo tai nav tipiskā tumšā pigmenta. Strauja augšana ir iemesls izvērtēt ļaundabīguma iespēju. Nepieciešama dermatoskopiska un dažkārt histoloģiska diagnostika.",
+    "takeaway": "Melanoma var būt arī bez pigmenta.",
+    "difficulty": 3
+  },
+  {
+    "id": "T02-15",
+    "topicId": "T02",
+    "topic": "Ļaundabīgie veidojumi",
+    "source": "2.1. nodarbība · 56.–113. slaids",
+    "question": "Pacientam biopsijā apstiprināta BCC. Kura prognozes īpatnība ir visraksturīgākā salīdzinājumā ar melanomu?",
+    "options": [
+      "Metastāzes ir retas, bet lokāla audu destrukcija iespējama",
+      "BCC parasti metastazē retāk, un lokāla invāzija nav iespējama",
+      "BCC sistēmiskas metastāzes ir tipiskas agrīnā stadijā",
+      "BCC prognozi nosaka tikai pigmenta daudzums"
+    ],
+    "correctIndex": 0,
+    "theory": "Bazālo šūnu karcinoma parasti aug lokāli un metastazē ļoti reti. Neārstēta tā var bojāt dziļākus un apkārtējos audus, tāpēc atbilstoša terapija ir nepieciešama. Melanomai ir ievērojami lielāks sistēmiskas izplatības potenciāls.",
+    "takeaway": "Reta metastazēšanās nenozīmē nekaitīgumu.",
+    "difficulty": 3
+  },
+  {
+    "id": "T03-01",
+    "topicId": "T03",
+    "topic": "Noņemšanas metodes",
+    "source": "2.2. nodarbība · 2.–14. slaids",
+    "question": "Pirms kosmētiskas veidojuma kriodestrukcijas dermatologs nav pārliecināts, vai veidojums ir labdabīgs. Kāds ir galvenais iemesls atlikt sasaldēšanu?",
+    "options": [
+      "Sasaldētais audums nepaliks pilnvērtīgi pieejams histoloģijai",
+      "Bojātā audu arhitektūra apgrūtinās robežu izvērtēšanu",
+      "Pēc sasaldēšanas nebūs iespējams noteikt sākotnējo dziļumu",
+      "Krioterapija izmainīs dermatoskopisko un histoloģisko ainu"
+    ],
+    "correctIndex": 0,
+    "theory": "Krioterapija izraisa audu destrukciju ar aukstuma palīdzību, tāpēc netiek saglabāts pilnvērtīgs histoloģisks paraugs. Ja diagnoze nav skaidra, vispirms nepieciešama atbilstoša klīniskā un, ja indicēts, histoloģiskā izmeklēšana.",
+    "takeaway": "Destruktīva ārstēšana nav diagnostikas aizstājējs.",
+    "difficulty": 2
+  },
+  {
+    "id": "T03-02",
+    "topicId": "T03",
+    "topic": "Noņemšanas metodes",
+    "source": "2.2. nodarbība · 2.–14. slaids",
+    "question": "Pacientam ir vairākas virspusējas vīrusu kārpas un nav aizdomu par ļaundabīgumu. Kura metodes darbība raksturīga krioterapijai?",
+    "options": [
+      "Sasaldēšanas un atkušanas izraisīts šūnu bojājums",
+      "Elektriskās strāvas radīta koagulācija",
+      "Lāzera izraisīta selektīva fototermolīze",
+      "Ķīmiskā koagulācija ar TCA"
+    ],
+    "correctIndex": 0,
+    "theory": "Krioterapija izmanto ļoti zemu temperatūru, kas bojā šūnas un mikrocirkulāciju. Tā ir piemērota atsevišķiem labdabīgiem virspusējiem veidojumiem, piemēram, kārpām. Iespējami pūšļi, sāpes un pigmentācijas izmaiņas.",
+    "takeaway": "Krioterapija iznīcina ar aukstumu.",
+    "difficulty": 2
+  },
+  {
+    "id": "T03-03",
+    "topicId": "T03",
+    "topic": "Noņemšanas metodes",
+    "source": "2.2. nodarbība · 2.–14. slaids",
+    "question": "Kādēļ krioterapija uz pigmentētas ādas var radīt ilgstošu gaišāku laukumu?",
+    "options": [
+      "Aukstuma bojājums var skart melanocītus",
+      "Pārāk dziļas sasaldēšanas dēļ melanīns izdalās dermā",
+      "Aukstums veicina neatgriezenisku epidermas hiperkeratozi",
+      "Sasaldēšana veicina perifolikulāru eritrocītu hemolīzi"
+    ],
+    "correctIndex": 0,
+    "theory": "Hipopigmentācija ir iespējama krioterapijas komplikācija, jo aukstums var bojāt pigmenta šūnas. Risks ir atkarīgs no apstrādes intensitātes, lokalizācijas un individuālās reakcijas. Pigmenta atjaunošanās ne vienmēr ir pilnīga.",
+    "takeaway": "Sasaldēšana var ietekmēt melanocītus.",
+    "difficulty": 2
+  },
+  {
+    "id": "T03-04",
+    "topicId": "T03",
+    "topic": "Noņemšanas metodes",
+    "source": "2.2. nodarbība · 2.–14. slaids",
+    "question": "Paciente ar elektrokardiostimulatoru jautā par elektrodestrukciju. Kā jāvērtē šis apstāklis?",
+    "options": [
+      "Jāizvērtē ierīces veids un elektroķirurģijas drošība, izvēloties piemērotu taktiku",
+      "Jāizvērtē tikai elektroda virsmas laukums",
+      "Jāizvērtē elektrokardiostimulatora tips, bet nav jāmaina tehnika",
+      "Jāizvēlas pilna laukuma monopolarā koagulācija bez konsultācijas"
+    ],
+    "correctIndex": 0,
+    "theory": "Elektroķirurģiska strāva var mijiedarboties ar implantētām elektroniskām ierīcēm. Ierobežojumi atkarīgi no ierīces, elektroķirurģijas sistēmas un drošības pasākumiem. Pirms procedūras jāveic individuāla riska izvērtēšana.",
+    "takeaway": "Implantētas ierīces prasa piesardzību elektroķirurģijā.",
+    "difficulty": 2
+  },
+  {
+    "id": "T03-05",
+    "topicId": "T03",
+    "topic": "Noņemšanas metodes",
+    "source": "2.2. nodarbība · 2.–14. slaids",
+    "question": "Kura noņemšanas metode parasti ļauj patologam pārbaudīt veidojumu pilnā struktūrā ar audu malām?",
+    "options": [
+      "Ķirurģiska ekscīzija",
+      "Elektrokiretāža bez saglabāta audu bloka",
+      "Virspusēja shave biopsija ar termisko destrukciju",
+      "Frakcionēta CO₂ ablācija"
+    ],
+    "correctIndex": 0,
+    "theory": "Ekscīzijā veidojums tiek izņemts ar skalpeli un saglabāts histoloģiskai izmeklēšanai. Tas ļauj pārbaudīt audzēja tipu un noteiktos gadījumos arī izgriešanas malas. Tīri destruktīvas procedūras šo priekšrocību nenodrošina.",
+    "takeaway": "Ekscīzija saglabā audus patologam.",
+    "difficulty": 2
+  },
+  {
+    "id": "T03-06",
+    "topicId": "T03",
+    "topic": "Noņemšanas metodes",
+    "source": "2.2. nodarbība · 2.–14. slaids",
+    "question": "Kura metode izmanto mehānisku virspusēju audu nokasīšanu un kāds tai raksturīgs ierobežojums?",
+    "options": [
+      "Kiretāža; nav piemērota dziļiem vai aizdomīgiem pigmentētiem veidojumiem",
+      "Skalpeļa ekscīzija; obligāta histoloģija visām keratozēm",
+      "Elektrodesikācija; piemērota dziļām melanomām",
+      "Seklā shave ekscīzija; vienmēr nosaka melanomas Breslova biezumu"
+    ],
+    "correctIndex": 0,
+    "theory": "Kiretāža ar speciālu instrumentu mehāniski noņem virspusējus audus. Tā var būt piemērota atlasītiem veidojumiem, taču nav piemērota dziļi lokalizētu vai aizdomīgu melanocītisku bojājumu diagnostikai. Atsevišķos gadījumos nokasītie audi var tikt sūtīti histoloģijai, bet informācija par dziļumu var būt ierobežota.",
+    "takeaway": "Kiretāža ir virspusēja metode.",
+    "difficulty": 3
+  },
+  {
+    "id": "T03-07",
+    "topicId": "T03",
+    "topic": "Noņemšanas metodes",
+    "source": "2.2. nodarbība · 2.–14. slaids",
+    "question": "Kura pazīme visvairāk palīdz atšķirt epidermoidālas cistas pilnīgu izņemšanu no satura vienkāršas iztukšošanas?",
+    "options": [
+      "Izņemta arī cistas kapsula",
+      "Vienkārši iztukšots kapsulas saturs",
+      "Izņemts tikai centrālais punctum",
+      "Noņemta virsējā epiderma, saglabājot kapsulu"
+    ],
+    "correctIndex": 0,
+    "theory": "Ja paliek cistas kapsula, tā var atkal piepildīties ar keratīnu. Pilnīgā ekscīzijā parasti cenšas izņemt arī sieniņu, lai mazinātu recidīva risku. Ja cista ir stipri iekaisusi, ārstēšanas laiku un metodi izvērtē atsevišķi.",
+    "takeaway": "Cistas kapsula ir svarīga recidīvam.",
+    "difficulty": 3
+  },
+  {
+    "id": "T03-08",
+    "topicId": "T03",
+    "topic": "Noņemšanas metodes",
+    "source": "2.2. nodarbība · 2.–14. slaids",
+    "question": "Pacientam uz deguna atrodas kosmētiski traucējošs, bet klīniski neskaidrs mezgliņš. Kura izvēle vislabāk saskaņo estētiku un drošību?",
+    "options": [
+      "Vispirms noteikt diagnozi, tikai pēc tam izvēlēties saudzīgu noņemšanas metodi",
+      "Vispirms noteikt veidojuma dziļumu, bet ne izcelsmi",
+      "Vispirms izvēlēties mazāko rētas risku, neveicot diagnostiku",
+      "Vispirms izvēlēties destrukciju ar iespēju atkārtot histoloģiju pēc tam"
+    ],
+    "correctIndex": 0,
+    "theory": "Kosmētisks mērķis nedrīkst aizstāt diagnostiku. Pēc klīniskas izvērtēšanas var izvēlēties metodi, kas nodrošina vajadzīgo estētisko rezultātu un, ja nepieciešams, histoloģiju. Sejas anatomija nosaka arī rētošanās risku.",
+    "takeaway": "Vispirms diagnoze, tad procedūra.",
+    "difficulty": 3
+  },
+  {
+    "id": "T03-09",
+    "topicId": "T03",
+    "topic": "Noņemšanas metodes",
+    "source": "2.2. nodarbība · 2.–14. slaids",
+    "question": "Kāpēc elektroķirurģija var izraisīt pigmentācijas traucējumus arī tad, ja mērķis nav melanīns?",
+    "options": [
+      "Termisks iekaisums var izraisīt pēciekaisuma pigmentācijas izmaiņas",
+      "Tieša melanocītu selektīva aktivācija ar strāvu",
+      "Aukstuma izraisīta pigmentšūnu proliferācija",
+      "Mehāniska melanīna pārnešana uz dermu bez iekaisuma"
+    ],
+    "correctIndex": 0,
+    "theory": "Termisks audu bojājums var izraisīt iekaisumu, kas ietekmē melanocītu darbību un melanīna izvietojumu. Tāpēc pēc elektroķirurģijas iespējama gan hiperpigmentācija, gan hipopigmentācija. Ādas fototips un dzīšanas īpatnības ietekmē risku.",
+    "takeaway": "PIH var rasties pēc dažāda veida traumām.",
+    "difficulty": 3
+  },
+  {
+    "id": "T03-10",
+    "topicId": "T03",
+    "topic": "Noņemšanas metodes",
+    "source": "2.2. nodarbība · 2.–14. slaids",
+    "question": "Kura metožu kombinācija visprecīzāk raksturo iespēju iegūt histoloģisku materiālu?",
+    "options": [
+      "Ekscīzija saglabā audus; tīra lāzerablācija parasti tos iznīcina",
+      "Shave biopsija vienmēr saglabā pilnu dermas biezumu; krioterapija — nē",
+      "Kiretāža vienmēr saglabā audzēja malas; ekscīzija — nē",
+      "CO₂ lāzerablācija pilnībā saglabā struktūru; biopsija — nē"
+    ],
+    "correctIndex": 0,
+    "theory": "Histoloģijai vajadzīgs audu paraugs ar iespējami saglabātu struktūru. Ekscīzija to nodrošina, bet lāzerablācija vai kriodestrukcija audus iznīcina. Ar shave vai kiretāžu dažreiz iegūst paraugu, tomēr to piemērotība atkarīga no aizdomu veida.",
+    "takeaway": "Ne katra noņemšana dod histoloģiju.",
+    "difficulty": 3
+  },
+  {
+    "id": "T03-11",
+    "topicId": "T03",
+    "topic": "Noņemšanas metodes",
+    "source": "2.2. nodarbība · 2.–14. slaids",
+    "question": "Pēc veidojuma izņemšanas pacients jautā, kāpēc ārsts nosūtīja materiālu histoloģijai, lai gan veidojums šķita labdabīgs. Kura atbilde ir precīzākā?",
+    "options": [
+      "Mikroskopija var apstiprināt diagnozi un atklāt netipiskas izmaiņas",
+      "Mikroskopija precizē pigmenta veidu, bet ne audzēja šūnas",
+      "Histoloģija var noteikt tikai brūces dzīšanas stadiju",
+      "Histoloģija aizstāj klīnisku un dermatoskopisku izvērtēšanu"
+    ],
+    "correctIndex": 0,
+    "theory": "Histoloģiskā izmeklēšana mikroskopiski izvērtē audu uzbūvi un šūnas. Tā var apstiprināt labdabīgumu vai atklāt displāziju un malignitāti. Histoloģijas nepieciešamību nosaka diagnozes nenoteiktība un klīniskās indikācijas.",
+    "takeaway": "Histoloģija pārbauda audus, nevis tikai virsmu.",
+    "difficulty": 3
+  },
+  {
+    "id": "T03-12",
+    "topicId": "T03",
+    "topic": "Noņemšanas metodes",
+    "source": "2.2. nodarbība · 2.–14. slaids",
+    "question": "Kura komplikācija visvairāk raksturīga pārāk dziļai krioterapijas iedarbībai matainā zonā?",
+    "options": [
+      "Lokāla alopēcija un rēta",
+      "Pārejoša perifolikulāra eritēma un tūska",
+      "Atgriezeniska virspusēja hiperkeratoze",
+      "Īslaicīga sviedru sekrēcijas mazināšanās"
+    ],
+    "correctIndex": 0,
+    "theory": "Pārmērīgi dziļa sasaldēšana var bojāt matu folikulus un dermas struktūras. Tāpēc iespējama lokāla alopēcija, atrofija un rētas. Procedūras dziļums un atrašanās vieta jāņem vērā jau plānošanā.",
+    "takeaway": "Matu folikuli var tikt bojāti ar aukstumu.",
+    "difficulty": 3
+  },
+  {
+    "id": "T03-13",
+    "topicId": "T03",
+    "topic": "Noņemšanas metodes",
+    "source": "2.2. nodarbība · 2.–14. slaids",
+    "question": "Uz virspusējas kārpas veikta elektrodestrukcija, bet daļa veidojuma saglabājusies. Kurš mehānisms visvairāk izskaidro recidīvu?",
+    "options": [
+      "Nepilnīga patoloģisko audu noņemšana",
+      "Nepietiekama virsmas epitēlija pārsedze",
+      "Nepilnīga koagulācija ap veidojuma malām bez patoloģisko audu atlikuma",
+      "Pārmērīga dermas kolagēna remodelācija bez audu atlikuma"
+    ],
+    "correctIndex": 0,
+    "theory": "Ja daļa patoloģisko audu paliek, veidojums var atjaunoties. Recidīva risks atkarīgs no veidojuma veida un izvēlētās tehnikas. Tas atšķiras no iespējamām dzīšanas komplikācijām, piemēram, rētām vai pigmentācijas traucējumiem.",
+    "takeaway": "Nepilnīga destrukcija var radīt recidīvu.",
+    "difficulty": 3
+  },
+  {
+    "id": "T03-14",
+    "topicId": "T03",
+    "topic": "Noņemšanas metodes",
+    "source": "2.2. nodarbība · 2.–14. slaids",
+    "question": "Kura pazīme ir indikācija veikt histoloģisku izmeklēšanu pēc sākotnēji labdabīga veidojuma recidīva?",
+    "options": [
+      "Netipiska atkārtota augšana vai čūlošana",
+      "Recidīvs pēc ilga stabila perioda bez jaunām izmaiņām",
+      "Tikai neliela nieze pēc dziedēšanas",
+      "Vienmērīgs krāsas tonis un maza fibroze rētā"
+    ],
+    "correctIndex": 0,
+    "theory": "Atkārtota augšana, asiņošana, čūlošana vai citas netipiskas pazīmes ir iemesls pārskatīt sākotnējo diagnozi. Histoloģija var palīdzēt atšķirt labdabīgu recidīvu no cita procesa. Procedūras izvēli nosaka diagnostiskā nepieciešamība.",
+    "takeaway": "Netipisks recidīvs jāizmeklē.",
+    "difficulty": 3
+  },
+  {
+    "id": "T03-15",
+    "topicId": "T03",
+    "topic": "Noņemšanas metodes",
+    "source": "2.2. nodarbība · 2.–14. slaids",
+    "question": "Kura metode ir īpaši piemērota precīzai neliela virspusēja labdabīga veidojuma ablācijai, ja histoloģija nav nepieciešama?",
+    "options": [
+      "CO₂ lāzerablācija",
+      "Elektroķirurģiska izgriešana ar obligātu bojājuma koagulāciju",
+      "Nd:YAG selektīva asinsvadu koagulācija",
+      "Krioķirurģiska sasaldēšana ar īsiem cikliem"
+    ],
+    "correctIndex": 0,
+    "theory": "CO₂ lāzers spēcīgi absorbējas audu ūdenī, ļaujot kontrolēti iztvaicēt virspusējus audus. Tas var dot precīzu rezultātu izvēlētiem labdabīgiem bojājumiem. Metodes ierobežojums ir histoloģijas materiāla trūkums, ja veidojums pilnībā iztvaicēts.",
+    "takeaway": "CO₂ ablācija ir precīza, bet destruktīva.",
+    "difficulty": 3
+  },
+  {
+    "id": "T04-01",
+    "topicId": "T04",
+    "topic": "Ādas pH un zonas",
+    "source": "3. nodarbība · 2.–4. slaids",
+    "question": "Kāpēc padusēs pH var būt augstāks nekā uz apakšdelma ādas?",
+    "options": [
+      "Anatomisko kroku mitruma un lokālās vides īpatnību dēļ",
+      "Tikai augstākas keratinocītu proliferācijas dēļ",
+      "Galvenokārt matu folikulu skaita dēļ",
+      "Vienīgi lielāka melanīna daudzuma dēļ"
+    ],
+    "correctIndex": 0,
+    "theory": "Ādas pH nav identisks visā ķermenī. Padusēs, ģenitāliju un perianālajā apvidū bieži ir mazāk skāba vide, ko ietekmē lokāls mitrums, sekrēcijas un kroku apstākļi. Tas var saistīties ar atšķirīgu mikrobiomu un iekaisuma risku.",
+    "takeaway": "Ādas krokas veido īpašu mikrovidi.",
+    "difficulty": 2
+  },
+  {
+    "id": "T04-02",
+    "topicId": "T04",
+    "topic": "Ādas pH un zonas",
+    "source": "3. nodarbība · 2.–4. slaids",
+    "question": "Kurš apgalvojums par ādas virsmas pH ir precīzākais?",
+    "options": [
+      "Vienam cilvēkam tas var atšķirties dažādās anatomiskās vietās",
+      "Tās vienmēr raksturo asins pH vērtību",
+      "Ādas pH dažādās vietās nosaka tikai dzimums",
+      "pH uz ādas nemainās, ja nav ādas slimības"
+    ],
+    "correctIndex": 0,
+    "theory": "Ādas pH mainās atkarībā no anatomiskās zonas un ārējas iedarbības. Vidējā vērtība neapraksta visas vietas vienādi. Asins pH regulācijas sistēma ir atšķirīga no ādas virsmas skābās mantijas.",
+    "takeaway": "Vidējais pH nav universāls katrai zonai.",
+    "difficulty": 2
+  },
+  {
+    "id": "T04-03",
+    "topicId": "T04",
+    "topic": "Ādas pH un zonas",
+    "source": "3. nodarbība · 2.–4. slaids",
+    "question": "Jaundzimušā ādas pH ir ap 6,0. Kā tas salīdzināms ar tipisku pieauguša cilvēka ādas virsmu?",
+    "options": [
+      "Tas parasti ir mazāk skābs",
+      "Tas ir ievērojami skābāks nekā pieaugušajiem",
+      "Tas parasti ir ap 4,0–4,5",
+      "Tas parasti ir tāds pats kā pieaugušo padusēs"
+    ],
+    "correctIndex": 0,
+    "theory": "Jaundzimušo ādas pH sākotnēji parasti ir augstāks nekā pieaugušajiem. Pēc dzimšanas veidojas izteiktāka skābā mantija. Vecums ir endogēns faktors, kas ietekmē pH.",
+    "takeaway": "Jaundzimušo āda sākotnēji ir mazāk skāba.",
+    "difficulty": 2
+  },
+  {
+    "id": "T04-04",
+    "topicId": "T04",
+    "topic": "Ādas pH un zonas",
+    "source": "3. nodarbība · 2.–4. slaids",
+    "question": "Kurš no faktoriem tiek uzskatīts par endogēnu ādas pH ietekmētāju?",
+    "options": [
+      "Sebuma izdalīšanās",
+      "Ādas kopšanas līdzekļu lietošana",
+      "Mazgāšana ar sārmainām ziepēm",
+      "Lokālu antibakteriālu līdzekļu lietošana"
+    ],
+    "correctIndex": 0,
+    "theory": "Sebums ir paša organisma tauku dziedzeru sekrēts, kas ietekmē virsmas vidi. Ziepes, lokāli līdzekļi un pārsēji ir eksogēni faktori. Ādas pH veidojas vairāku procesu mijiedarbībā.",
+    "takeaway": "Sebums ir iekšējas izcelsmes faktors.",
+    "difficulty": 2
+  },
+  {
+    "id": "T04-05",
+    "topicId": "T04",
+    "topic": "Ādas pH un zonas",
+    "source": "3. nodarbība · 2.–4. slaids",
+    "question": "Pēc spēcīga sārmaina mazgāšanas līdzekļa ādas pH uz laiku paaugstinās. Kā klasificē šo cēloni?",
+    "options": [
+      "Eksogēns faktors",
+      "Iekšējs hormonālās regulācijas faktors",
+      "Anatomiskās lokalizācijas faktors",
+      "Iedzimta ģenētiska nosliece"
+    ],
+    "correctIndex": 0,
+    "theory": "Mazgāšanas līdzekļi iedarbojas no ārpuses, tāpēc tie ir eksogēni faktori. To sastāvs un pH var īslaicīgi mainīt ādas virsmas skābo vidi. Atjaunošanās atkarīga no ādas stāvokļa un atkārtotas iedarbības.",
+    "takeaway": "Ādas kopšanas līdzekļi ir eksogēni.",
+    "difficulty": 2
+  },
+  {
+    "id": "T04-06",
+    "topicId": "T04",
+    "topic": "Ādas pH un zonas",
+    "source": "3. nodarbība · 2.–4. slaids",
+    "question": "Klīniskā izvērtēšanā salīdzina galvas mataino daļu un apakšdelmu. Kurš vietējais faktors lekcijā īpaši minēts galvas ādas pH kontekstā?",
+    "options": [
+      "Sebuma daudzums",
+      "Sviedru dziedzeru sekrēcijas daudzums",
+      "Raga slāņa korneocītu blīvums",
+      "Epidermas melanocītu skaits"
+    ],
+    "correctIndex": 0,
+    "theory": "Galvas matainajā daļā tauku dziedzeru aktivitāte un sebums ir nozīmīgi lokālās vides faktori. Lekcija atzīmē, ka sebums var paaugstināt galvas ādas pH. Tas nav vienīgais ietekmējošais mehānisms.",
+    "takeaway": "Galvas ādā nozīme ir sebumam.",
+    "difficulty": 3
+  },
+  {
+    "id": "T04-07",
+    "topicId": "T04",
+    "topic": "Ādas pH un zonas",
+    "source": "3. nodarbība · 2.–4. slaids",
+    "question": "Ādas pH mainās pēc ilgstošas oklūzijas. Kāds ir ticamākais skaidrojums?",
+    "options": [
+      "Pārsegs maina mitruma un sekrēciju apstākļus pie virsmas",
+      "Pārsegs palielina virsmas iztvaikošanu un samazina mitrumu",
+      "Oklūzija izolē ādu no visām sekrēcijām",
+      "Pārsējs maina pH tikai caur tiešu skābes pievienošanu"
+    ],
+    "correctIndex": 0,
+    "theory": "Oklūzija maina ādas virsmas mitrumu un lokālo mikrovidi, tāpēc var ietekmēt pH un barjeras stāvokli. Iedarbība ir atkarīga no ilguma un ādas veselības. Okluzīvi pārsēji lekcijā minēti kā ārējs faktors.",
+    "takeaway": "Oklūzija ietekmē lokālo mikrovidi.",
+    "difficulty": 3
+  },
+  {
+    "id": "T04-08",
+    "topicId": "T04",
+    "topic": "Ādas pH un zonas",
+    "source": "3. nodarbība · 2.–4. slaids",
+    "question": "Kāda ir svarīgākā metodoloģiskā problēma, ja visām ķermeņa zonām izmanto vienu pH robežvērtību?",
+    "options": [
+      "Var nepamanīt fizioloģiskas atšķirības starp anatomiskām zonām",
+      "Var sajaukt mērījumu ar dermas pH",
+      "Pēc vienas robežvērtības var kļūdaini noteikt ādas hidratāciju",
+      "Tiks ignorēts tikai epidermas sabiezējums"
+    ],
+    "correctIndex": 0,
+    "theory": "Anatomiskā zona ir viens no pH noteicošajiem faktoriem. Piemēram, ādas krokās raksturīgais diapazons var būt augstāks nekā daudzās atklātās vietās. Viena robežvērtība bez lokalizācijas konteksta var maldināt.",
+    "takeaway": "Ādas pH interpretē pēc lokalizācijas.",
+    "difficulty": 3
+  },
+  {
+    "id": "T04-09",
+    "topicId": "T04",
+    "topic": "Ādas pH un zonas",
+    "source": "3. nodarbība · 2.–4. slaids",
+    "question": "Kurš piemērs vislabāk raksturo ādas pH fizioloģisko variabilitāti?",
+    "options": [
+      "Mazāk skābs pH padusē bez iekaisuma pazīmēm",
+      "Paaugstināts pH padusē kopā ar strutainu izdalījumu",
+      "Ļoti sārmaina virsma pēc stipru ziepju lietošanas",
+      "Straujš pH pieaugums akūta dermatīta laikā"
+    ],
+    "correctIndex": 0,
+    "theory": "Veselā ādā pH var variēt starp zonām, un krokās iespējams relatīvi augstāks pH. Šāds atradums bez citām izmaiņām ne vienmēr nozīmē slimību. Svarīga ir klīniskā aina un lokalizācija.",
+    "takeaway": "Fizioloģiska variācija nav automātiski patoloģija.",
+    "difficulty": 3
+  },
+  {
+    "id": "T04-10",
+    "topicId": "T04",
+    "topic": "Ādas pH un zonas",
+    "source": "3. nodarbība · 2.–4. slaids",
+    "question": "Kurš apgalvojums par dzimumorgānu apvidus pH ir precīzākais?",
+    "options": [
+      "Ģenitāliju apvidus ādas pH nedrīkst automātiski pielīdzināt maksts iekšējās vides pH",
+      "Ādas krokas pH pilnībā nosaka maksts mikrobioms",
+      "Maksts pH vienmēr nosaka ārējās ādas pH",
+      "Ādas un gļotādas pH vienmēr mērāms identiskā metodē"
+    ],
+    "correctIndex": 0,
+    "theory": "Ādas virsmai un gļotādu iekšējai videi ir atšķirīga fizioloģija. Lekcijā minētais relatīvi augstākais pH attiecas uz ģenitāliju apvidus ādu. Tāpēc zonu interpretācijā jāprecizē, kas tieši mērīts.",
+    "takeaway": "Ādas un gļotādu pH nav viens jēdziens.",
+    "difficulty": 3
+  },
+  {
+    "id": "T04-11",
+    "topicId": "T04",
+    "topic": "Ādas pH un zonas",
+    "source": "3. nodarbība · 2.–4. slaids",
+    "question": "Pacientam vienā un tajā pašā dienā pH mērījumi atšķiras pēc intensīvas svīšanas. Kāpēc tas iespējams?",
+    "options": [
+      "Sviedri maina ādas virsmas sekrēciju un mitruma apstākļus",
+      "Sviedri ietekmē tikai ķermeņa temperatūru, ne virsmas šķīdumu",
+      "pH izmaiņas nosaka tikai ūdens pH, ne sekrēti",
+      "Sviedri ietekmē tikai sebumu, ne lokālu pH"
+    ],
+    "correctIndex": 0,
+    "theory": "Sviedri ir viens no endogēnajiem faktoriem, kas ietekmē ādas virsmas pH. Mērījumu var ietekmēt mitrums, sekrēti un nesena fiziska aktivitāte. Tādēļ pH vērtība jāinterpretē mērījuma apstākļu kontekstā.",
+    "takeaway": "Svīšana var mainīt pH mērījumu.",
+    "difficulty": 3
+  },
+  {
+    "id": "T04-12",
+    "topicId": "T04",
+    "topic": "Ādas pH un zonas",
+    "source": "3. nodarbība · 2.–4. slaids",
+    "question": "Pieauguša pacienta ādas virsma ir vāji skāba. Kas vislabāk apraksta šo fizioloģisko stāvokli?",
+    "options": [
+      "Skābā mantija ir daļa no epidermas aizsargfunkcijas",
+      "Skābā mantija ir saistīta tikai ar dermas kolagēna augšanu",
+      "Skābā mantija ir galvenokārt pigmenta aizsardzība",
+      "Skābā mantija veidojas tikai uz gļotādām"
+    ],
+    "correctIndex": 0,
+    "theory": "Vāji skābā ādas virsma palīdz uzturēt mikrobioma līdzsvaru un barjeras enzīmu darbību. Tā veido aizsargājošu mikrovidi, kas atšķiras no dziļāku audu pH. Tāpēc ārējo līdzekļu izvēle var būt nozīmīga.",
+    "takeaway": "Skābā mantija piedalās ādas aizsardzībā.",
+    "difficulty": 3
+  },
+  {
+    "id": "T04-13",
+    "topicId": "T04",
+    "topic": "Ādas pH un zonas",
+    "source": "3. nodarbība · 2.–4. slaids",
+    "question": "Kurš faktoru kopums vislabāk izskaidro, kāpēc identisks līdzeklis dažādiem cilvēkiem var izraisīt atšķirīgas pH izmaiņas?",
+    "options": [
+      "Vecums, ģenētika, ādas mitrums un anatomiskā zona",
+      "Tikai atšķirīgs sebumu daudzums",
+      "Vienīgi atšķirīga ādas krāsa",
+      "Tikai atšķirīgs seborejisko keratožu skaits"
+    ],
+    "correctIndex": 0,
+    "theory": "Ādas pH ietekmē gan endogēnie faktori, piemēram, vecums un ģenētika, gan lokālā vide. Līdz ar to atbilde uz vienu līdzekli dažādiem cilvēkiem nav identiska. Vērtē individuālu ādas stāvokli.",
+    "takeaway": "pH veidojas no vairāku faktoru mijiedarbības.",
+    "difficulty": 3
+  },
+  {
+    "id": "T04-14",
+    "topicId": "T04",
+    "topic": "Ādas pH un zonas",
+    "source": "3. nodarbība · 2.–4. slaids",
+    "question": "Pēc lokāla iekaisuma pH kļūst augstāks. Kāds secinājums ir pamatots?",
+    "options": [
+      "Iekaisums var mainīt ādas skābo vidi",
+      "Iekaisums vienmēr nosaka precīzu mikroorganisma sugu",
+      "Iekaisuma laikā pH mainās tikai retikulārajā dermā",
+      "pH pieaugums pierāda vienīgi alerģisku, ne infekciozu cēloni"
+    ],
+    "correctIndex": 0,
+    "theory": "Iekaisuma procesi un bakteriālas infekcijas bieži ir saistīti ar paaugstinātu ādas pH. Tomēr viens pH mērījums pats par sevi nenosaka cēloni vai mikroorganismu. Klīniskā izvērtēšana ir būtiska.",
+    "takeaway": "pH izmaiņas ir pazīme, nevis galīgā diagnoze.",
+    "difficulty": 3
+  },
+  {
+    "id": "T04-15",
+    "topicId": "T04",
+    "topic": "Ādas pH un zonas",
+    "source": "3. nodarbība · 2.–4. slaids",
+    "question": "Kāpēc pH mērīšana uzreiz pēc mazgāšanas var neatspoguļot stabilu ādas stāvokli?",
+    "options": [
+      "Nesen lietots līdzeklis īslaicīgi maina virsmas pH",
+      "Mazgāšana ietekmē tikai epidermas biezumu, ne pH",
+      "pH mērījumu nosaka tikai cilvēka vecums",
+      "pH pēc mazgāšanas uzreiz kļūst neatgriezeniski konstants"
+    ],
+    "correctIndex": 0,
+    "theory": "Mazgāšanas līdzekļa sastāvs, ūdens un mehāniska iedarbība var īslaicīgi ietekmēt ādas pH. Tāpēc, salīdzinot mērījumus, svarīgi vienādi sagatavošanas apstākļi. Tas palīdz atšķirt īslaicīgu ārēju ietekmi no noturīgām pārmaiņām.",
+    "takeaway": "Mērījuma apstākļi ietekmē rezultātu.",
+    "difficulty": 3
+  },
+  {
+    "id": "T05-01",
+    "topicId": "T05",
+    "topic": "pH un barjerfunkcija",
+    "source": "3. nodarbība · 2.–7. slaids",
+    "question": "Pacientam pēc atkārtotas mazgāšanas ar sārmainām ziepēm attīstās izteikts sausums. Kurš mehānisms to vislabāk izskaidro?",
+    "options": [
+      "Traucēta raga slāņa lipīdu apstrāde un palielināts transepidermāls ūdens zudums",
+      "Aizsarglipīdu sintēze paātrinās, bet TEWL nemainās",
+      "Raga slāņa proteāžu darbība samazinās un saglabājas ūdens",
+      "Ādas hidratācija samazinās tikai sebuma daudzuma dēļ"
+    ],
+    "correctIndex": 0,
+    "theory": "Paaugstināts ādas pH var traucēt enzīmu darbību, kas veido epidermas barjeras lipīdus. Vājāka barjera ļauj ūdenim vieglāk iztvaikot, radot sausumu un jutīgumu. To apzīmē kā palielinātu transepidermālo ūdens zudumu (TEWL).",
+    "takeaway": "Sārmaina vide var palielināt TEWL.",
+    "difficulty": 2
+  },
+  {
+    "id": "T05-02",
+    "topicId": "T05",
+    "topic": "pH un barjerfunkcija",
+    "source": "3. nodarbība · 2.–7. slaids",
+    "question": "Kurš enzīmu kopums palīdz veidot keramīdus skābā ādas vidē?",
+    "options": [
+      "β-glikocerebrozidāze un skābā sfingomielināze",
+      "Tirozināze un katalāze",
+      "Kallikreīns 5 un kallikreīns 7",
+      "Kolagenāze un elastāze"
+    ],
+    "correctIndex": 0,
+    "theory": "β-glikocerebrozidāze un skābā sfingomielināze ir svarīgas epidermas keramīdu veidošanā. Tām vajadzīga piemērota skāba vide, tādēļ pH paaugstināšanās var kavēt barjeras lipīdu apstrādi. Keramīdi būtiski ierobežo ūdens zudumu.",
+    "takeaway": "Skāba vide atbalsta keramīdu metabolismu.",
+    "difficulty": 2
+  },
+  {
+    "id": "T05-03",
+    "topicId": "T05",
+    "topic": "pH un barjerfunkcija",
+    "source": "3. nodarbība · 2.–7. slaids",
+    "question": "Ādas pH paaugstināšanās var palielināt kallikreīnu aktivitāti. Kāds ir iespējamais rezultāts?",
+    "options": [
+      "Pastiprināta korneodesmosomu noārdīšanās un barjeras vājums",
+      "Samazināta korneodesmosomu noārdīšanās un deskvamācija",
+      "Keramīdu sintēzes paātrināšanās bez barjeras izmaiņām",
+      "Epidermas proteāžu aktivitātes samazināšanās"
+    ],
+    "correctIndex": 0,
+    "theory": "Kallikreīni ir proteāzes, kas piedalās raga slāņa šūnu savienojumu noārdīšanā. Pārmērīga aktivitāte var veicināt dezorganizētu deskvamāciju un barjeras bojājumu. Šis mehānisms palīdz izskaidrot, kāpēc nepiemērots pH var pastiprināt jutīgumu.",
+    "takeaway": "Kallikreīni piedalās deskvamācijā.",
+    "difficulty": 2
+  },
+  {
+    "id": "T05-04",
+    "topicId": "T05",
+    "topic": "pH un barjerfunkcija",
+    "source": "3. nodarbība · 2.–7. slaids",
+    "question": "Kādēļ Staphylococcus aureus biežāk kolonizē ādu ar traucētu skābo barjeru?",
+    "options": [
+      "Mazāk skāba vide var atvieglot šīs baktērijas augšanu",
+      "Baktērija labāk aug ļoti skābā pH ap 3,0",
+      "S. aureus kolonizācija nav saistīta ar barjeras stāvokli",
+      "Stratum corneum pie augstāka pH kļūst pilnīgi sterils"
+    ],
+    "correctIndex": 0,
+    "theory": "Skābā mantija ir viena no pretmikrobu aizsardzības sastāvdaļām. Ja pH paaugstinās un barjera ir bojāta, noteiktiem patogēniem var būt labvēlīgāki apstākļi. Tomēr kolonizācija nav automātiski infekcija.",
+    "takeaway": "Kolonizācija un infekcija nav sinonīmi.",
+    "difficulty": 2
+  },
+  {
+    "id": "T05-05",
+    "topicId": "T05",
+    "topic": "pH un barjerfunkcija",
+    "source": "3. nodarbība · 2.–7. slaids",
+    "question": "Ādas uztriepē konstatētas baktērijas, bet nav iekaisuma pazīmju. Kurš secinājums ir precīzs?",
+    "options": [
+      "Kolonizācija pati par sevi vēl nav infekcija",
+      "Kolonizācija vienmēr nozīmē simptomātisku infekciju",
+      "Mikrobiota ir tikai ar antibiotikām iznīcināmi organismi",
+      "Normāla āda nesatur dzīvus mikroorganismus"
+    ],
+    "correctIndex": 0,
+    "theory": "Veselas ādas virsmu apdzīvo dažādi mikroorganismi. Mikrobiota ir mikroorganismu kopums, savukārt mikrobioms ietver arī to gēnus un ekoloģisko kontekstu. Baktēriju klātbūtne bez slimības pazīmēm ne vienmēr ir infekcija.",
+    "takeaway": "Baktērija uz ādas var būt normāla mikrobiota.",
+    "difficulty": 2
+  },
+  {
+    "id": "T05-06",
+    "topicId": "T05",
+    "topic": "pH un barjerfunkcija",
+    "source": "3. nodarbība · 2.–7. slaids",
+    "question": "Kāda atšķirība vispareizāk raksturo mikrobiotu un mikrobiomu?",
+    "options": [
+      "Mikrobiota ir organismi; mikrobioms ietver arī to gēnus un vidi",
+      "Mikrobioms apzīmē tikai uz ādas virsmas atrastās sugas",
+      "Mikrobiota ietver gēnus, bet mikrobioms tikai šūnu skaitu",
+      "Mikrobiota un mikrobioms apzīmē tikai patogēnās sugas"
+    ],
+    "correctIndex": 0,
+    "theory": "Mikrobiota apzīmē mikroorganismus, kas dzīvo noteiktā vietā. Mikrobioms plašāk raksturo mikroorganismu kopumu, tā gēnus un ekoloģisko kontekstu. Šī atšķirība ir būtiska, interpretējot ādas ekosistēmu.",
+    "takeaway": "Mikrobioms ir plašāks jēdziens par mikrobiotu.",
+    "difficulty": 3
+  },
+  {
+    "id": "T05-07",
+    "topicId": "T05",
+    "topic": "pH un barjerfunkcija",
+    "source": "3. nodarbība · 2.–7. slaids",
+    "question": "Pacientam ar aktīvu dermatītu ir sausums un palielināts ūdens zudums. Kura mijiedarbība ir ticamākā?",
+    "options": [
+      "Iekaisums maina pH, un pH pārmaiņas savukārt var pasliktināt barjeru",
+      "Dermatīta laikā pH vienmēr pazeminās un normalizē barjeru",
+      "pH izmaiņas ir tikai pigmentācijas blakne",
+      "Barjeras bojājums nevar ietekmēt iekaisuma atbildi"
+    ],
+    "correctIndex": 0,
+    "theory": "Iekaisīga āda bieži ir ar izmainītu pH un barjeras funkciju. Sārmaināka vide var traucēt lipīdu enzīmu un proteāžu līdzsvaru, veicinot sausumu un kairinājumu. Var veidoties pašuzturošs iekaisuma un barjeras bojājuma cikls.",
+    "takeaway": "Barjera un iekaisums ietekmē viens otru.",
+    "difficulty": 3
+  },
+  {
+    "id": "T05-08",
+    "topicId": "T05",
+    "topic": "pH un barjerfunkcija",
+    "source": "3. nodarbība · 2.–7. slaids",
+    "question": "Kura ādas funkcija visvairāk saistīta ar stratum corneum lipīdu slāņa integritāti?",
+    "options": [
+      "Ūdens zuduma ierobežošana",
+      "Korneocītu proliferācijas palielināšana bez lipīdu ietekmes",
+      "Melanocītu enzīmu aktivitātes normalizēšana",
+      "Dermas asinsvadu dilatācijas ierobežošana"
+    ],
+    "correctIndex": 0,
+    "theory": "Raga slāņa starpšūnu lipīdi, tostarp keramīdi, palīdz ierobežot ūdens iztvaikošanu. Šo struktūru darbība ir cieši saistīta ar epidermas barjerfunkciju. Barjeras bojājums var veicināt sausumu un kairinājumu.",
+    "takeaway": "Raga slāņa lipīdi saglabā mitrumu.",
+    "difficulty": 3
+  },
+  {
+    "id": "T05-09",
+    "topicId": "T05",
+    "topic": "pH un barjerfunkcija",
+    "source": "3. nodarbība · 2.–7. slaids",
+    "question": "Pēc atkārtota kairinājuma ādas pH paaugstinās un mainās deskvamācija. Kas šeit ir deskvamācija?",
+    "options": [
+      "Raga slāņa atmirušo šūnu nolobīšanās",
+      "Dermas kolagēna šķiedru fragmentācija",
+      "Keratinocītu mitotiskā dalīšanās bazālajā slānī",
+      "Folikulu keratīna aizsprostojums"
+    ],
+    "correctIndex": 0,
+    "theory": "Deskvamācija ir fizioloģiska atmirušo korneocītu atdalīšanās no ādas virsmas. To regulē proteāzes un korneodesmosomu noārdīšanās. Nepiemērots pH var radīt pārmērīgu vai traucētu nolobīšanos.",
+    "takeaway": "Deskvamācija ir raga slāņa šūnu atdalīšanās.",
+    "difficulty": 3
+  },
+  {
+    "id": "T05-10",
+    "topicId": "T05",
+    "topic": "pH un barjerfunkcija",
+    "source": "3. nodarbība · 2.–7. slaids",
+    "question": "Kāpēc bieža stipri sārmainu mazgāšanas līdzekļu lietošana var pastiprināt ādas jutīgumu?",
+    "options": [
+      "Tā var izjaukt skābo mantiju un barjeras darbību",
+      "Sārmaina vide palielina keramīdu apstrādi neatkarīgi no enzīmiem",
+      "Tiek saglabāts tikai mikrobioma līdzsvars bez barjeras pārmaiņām",
+      "Jutīgumu nosaka tikai ādas pigmenta daudzums"
+    ],
+    "correctIndex": 0,
+    "theory": "Stipri sārmaini līdzekļi var īslaicīgi paaugstināt virsmas pH un bojāt raga slāņa lipīdu organizāciju. Ilgstošas iedarbības gadījumā āda var kļūt sausāka un jutīgāka. Svarīga ir saudzīga attīrīšana un ādas barjeras saudzēšana.",
+    "takeaway": "Mazgāšanas režīms ietekmē skābo mantiju.",
+    "difficulty": 3
+  },
+  {
+    "id": "T05-11",
+    "topicId": "T05",
+    "topic": "pH un barjerfunkcija",
+    "source": "3. nodarbība · 2.–7. slaids",
+    "question": "Mikrobioma izmaiņas pēc ilgstošas lokālu antibakteriālu līdzekļu lietošanas skaidro ar ko?",
+    "options": [
+      "Selektīvu ietekmi uz mikroorganismu kopienas sastāvu",
+      "Mikroorganismu kopiena kļūst nemainīga pēc lokālas antibiotikas",
+      "Mainās tikai dermas fibroblastu skaits",
+      "Lokāli antibakteriālie līdzekļi maina tikai sviedru pH"
+    ],
+    "correctIndex": 0,
+    "theory": "Lokāli antibakteriāli līdzekļi var mainīt ādas mikrobiotas sastāvu un attiecības starp sugām. Mikrobioma līdzsvars ir atkarīgs arī no pH, mitruma un anatomiskās zonas. Ne visas mikrobu izmaiņas nozīmē slimību.",
+    "takeaway": "Mikrobioms ir mainīga ekosistēma.",
+    "difficulty": 3
+  },
+  {
+    "id": "T05-12",
+    "topicId": "T05",
+    "topic": "pH un barjerfunkcija",
+    "source": "3. nodarbība · 2.–7. slaids",
+    "question": "Kāds ir galvenais risks, ja barjeru bojātai ādai nekontrolēti lieto spēcīgi kairinošus preparātus?",
+    "options": [
+      "Var pastiprināties iekaisums un ūdens zudums",
+      "Bojāta barjera vienmēr samazina ķīmisku vielu uzsūkšanos",
+      "Kairinājums var ietekmēt tikai dermu, ne epidermu",
+      "Iekaisums nevar radīt pastiprinātu TEWL"
+    ],
+    "correctIndex": 0,
+    "theory": "Bojātā ādā kairinošas vielas var iekļūt vieglāk un izraisīt izteiktāku reakciju. Tas var pasliktināt iekaisumu un pH regulāciju. Pirms estētiskām procedūrām ir svarīgi izvērtēt ādas barjeras stāvokli.",
+    "takeaway": "Bojāta barjera paaugstina kairinājuma risku.",
+    "difficulty": 3
+  },
+  {
+    "id": "T05-13",
+    "topicId": "T05",
+    "topic": "pH un barjerfunkcija",
+    "source": "3. nodarbība · 2.–7. slaids",
+    "question": "Pacientam ir palielināta S. aureus kolonizācija, bet nav izteiktu infekcijas pazīmju. Kāda ir korektākā interpretācija?",
+    "options": [
+      "Kolonizācija jāvērtē kopā ar klīnisko ainu un ādas barjeru",
+      "Kolonizācija viena pati pierāda infekciju bez simptomiem",
+      "S. aureus klātbūtne vienmēr norāda uz akūtu sepsi",
+      "Ādas pH var atšķirt baktērijas ģenotipu bez analīzēm"
+    ],
+    "correctIndex": 0,
+    "theory": "S. aureus kolonizācija biežāk saistās ar bojātu ādas barjeru, tomēr mikroba atrašana ne vienmēr nozīmē klīnisku infekciju. Jāņem vērā iekaisums, simptomi un ādas stāvoklis. Šis princips novērš pārmērīgu interpretāciju.",
+    "takeaway": "Klīniskā aina nosaka atradnes nozīmi.",
+    "difficulty": 3
+  },
+  {
+    "id": "T05-14",
+    "topicId": "T05",
+    "topic": "pH un barjerfunkcija",
+    "source": "3. nodarbība · 2.–7. slaids",
+    "question": "Kāpēc ādas pH nav vienīgais faktors, kas nosaka mikrobioma sastāvu?",
+    "options": [
+      "Nozīme ir arī vecumam, sebumam, videi un imunitātei",
+      "Nozīme ir tikai ādas pH, ne vides faktoriem",
+      "Nozīme ir tikai kosmētikai, ne imunitātei",
+      "Mikrobioma sastāvs ir nemainīgs pēc bērnības"
+    ],
+    "correctIndex": 0,
+    "theory": "Ādas mikrobiomu ietekmē daudzi iekšēji un ārēji faktori. Vecums, sekrēcijas, imunitāte, kosmētika un vide darbojas kopā ar pH. Tāpēc viena parametra izmaiņa nepaskaidro visu mikroorganismu kopienu.",
+    "takeaway": "Mikrobiomu nosaka vairāki faktori.",
+    "difficulty": 3
+  },
+  {
+    "id": "T05-15",
+    "topicId": "T05",
+    "topic": "pH un barjerfunkcija",
+    "source": "3. nodarbība · 2.–7. slaids",
+    "question": "Kurš piemērs vislabāk parāda epidermas barjeras un enzīmu darbības saikni ar pH?",
+    "options": [
+      "Pārāk sārmaina vide traucē lipīdu enzīmus un var pastiprināt proteāžu aktivitāti",
+      "Sārmaina vide paātrina keramīdu sintēzi un kavē proteāzes",
+      "pH maina tikai melanīna sintēzi, ne barjeras enzīmus",
+      "Lipīdu enzīmi darbojas optimāli neatkarīgi no ādas pH"
+    ],
+    "correctIndex": 0,
+    "theory": "Dažādu epidermas enzīmu optimālās darbības vides atšķiras. Skābā vide palīdz veidot barjeras lipīdus, bet augstāks pH var pastiprināt atsevišķu proteāžu aktivitāti. Rezultāts var būt barjeras nestabilitāte.",
+    "takeaway": "pH ietekmē gan lipīdu enzīmus, gan proteāzes.",
+    "difficulty": 3
+  },
+  {
+    "id": "T06-01",
+    "topicId": "T06",
+    "topic": "Ķīmiskie pīlingi",
+    "source": "3. nodarbība · 9.–28. slaids",
+    "question": "Paciente vēlas mazināt virspusēju epidermālu pigmentāciju, saglabājot nelielu atveseļošanās laiku. Kura pīlingu grupa šim mērķim biežāk ir piemērota?",
+    "options": [
+      "Virspusēji AHA pīlingi",
+      "Vidēji dziļš TCA pīlings uzreiz",
+      "Pilna dziļuma fenola pīlings",
+      "Kombinēts Jessner–TCA vidēji dziļš pīlings"
+    ],
+    "correctIndex": 0,
+    "theory": "AHA preparāti, piemēram, glikolskābe, var veicināt epidermas deskvamāciju un uzlabot virspusēju pigmentāciju. Dziļāki pīlingi dod intensīvāku audu bojājumu un prasa ilgāku dzīšanu. Metodes izvēle ir atkarīga arī no fototipa un pigmentācijas cēloņa.",
+    "takeaway": "Virspusējai pigmentācijai bieži pietiek ar virspusēju iedarbību.",
+    "difficulty": 2
+  },
+  {
+    "id": "T06-02",
+    "topicId": "T06",
+    "topic": "Ķīmiskie pīlingi",
+    "source": "3. nodarbība · 9.–28. slaids",
+    "question": "Kura strukturālā pazīme ir raksturīga alfa hidroksiskābēm jeb AHA?",
+    "options": [
+      "Hidroksilgrupa pie alfa oglekļa attiecībā pret karboksilgrupu",
+      "Hidroksilgrupa beta pozīcijā pret karboksilgrupu",
+      "Aromātiska hidroksilgrupa fenola gredzenā",
+      "Divas karboksilgrupas bez hidroksilgrupas"
+    ],
+    "correctIndex": 0,
+    "theory": "AHA ir organiskas karbonskābes ar hidroksilgrupu pie alfa oglekļa. Glikolskābe, pienskābe un mandeļskābe ietilpst šajā grupā. To eksfoliējošā iedarbība atkarīga no preparāta koncentrācijas, pH un formulācijas.",
+    "takeaway": "AHA raksturo ķīmiskā struktūra, nevis tikai zīmols.",
+    "difficulty": 2
+  },
+  {
+    "id": "T06-03",
+    "topicId": "T06",
+    "topic": "Ķīmiskie pīlingi",
+    "source": "3. nodarbība · 9.–28. slaids",
+    "question": "Kura AHA molekula no minētajām ir vismazākā un bieži lietota virspusējai eksfoliācijai?",
+    "options": [
+      "Glikolskābe",
+      "Pienskābe",
+      "Mandeļskābe",
+      "Citronskābe"
+    ],
+    "correctIndex": 0,
+    "theory": "Glikolskābe ir mazākā AHA molekula, taču faktisko penetrāciju ietekmē arī pH, nesējviela un ādas stāvoklis. Tā lietota virspusējai pigmentācijai, tekstūrai un aknes papildterapijai. Molekulas lielums vien nenosaka procedūras drošību.",
+    "takeaway": "Mazākā AHA ir glikolskābe.",
+    "difficulty": 2
+  },
+  {
+    "id": "T06-04",
+    "topicId": "T06",
+    "topic": "Ķīmiskie pīlingi",
+    "source": "3. nodarbība · 9.–28. slaids",
+    "question": "Pacientam ir sausa āda un viegla tekstūras nevienmērība. Kura AHA vienlaikus ietilpst dabīgajā mitrinošajā faktorā?",
+    "options": [
+      "Pienskābe",
+      "Glikolskābe",
+      "Mandeļskābe",
+      "Citronskābe"
+    ],
+    "correctIndex": 0,
+    "theory": "Pienskābe ir AHA ar eksfoliējošām un humektantām īpašībām. Tā piedalās ādas dabīgā mitrinošā faktora sastāvā. Tomēr bojātas barjeras gadījumā arī pienskābe var kairināt un jāizvērtē piesardzīgi.",
+    "takeaway": "Pienskābe saistīta arī ar hidratāciju.",
+    "difficulty": 2
+  },
+  {
+    "id": "T06-05",
+    "topicId": "T06",
+    "topic": "Ķīmiskie pīlingi",
+    "source": "3. nodarbība · 9.–28. slaids",
+    "question": "Kura AHA atšķiras ar lielāku molekulmasu nekā glikolskābei un bieži izmantota saudzīgai virspusējai eksfoliācijai?",
+    "options": [
+      "Mandeļskābe",
+      "Pienskābe",
+      "Glikolskābe",
+      "Citronskābe"
+    ],
+    "correctIndex": 0,
+    "theory": "Mandeļskābe ir aromātiska AHA ar lielāku molekulmasu nekā glikolskābei. To mēdz izvēlēties virspusējai eksfoliācijai, tostarp aknes vai PIH papildterapijā. Drošību tomēr nosaka konkrētais pH, koncentrācija un ādas stāvoklis.",
+    "takeaway": "Mandeļskābe ir lielākas molekulas AHA.",
+    "difficulty": 2
+  },
+  {
+    "id": "T06-06",
+    "topicId": "T06",
+    "topic": "Ķīmiskie pīlingi",
+    "source": "3. nodarbība · 9.–28. slaids",
+    "question": "Kura darbības atšķirība pareizi salīdzina AHA un salicilskābes pīlingus?",
+    "options": [
+      "AHA pārsvarā hidrofilas; salicilskābe lipofīla",
+      "AHA ir lipofīlas; salicilskābe pārsvarā hidrofila",
+      "AHA un salicilskābe ir vienlīdz lipofīlas",
+      "Salicilskābei nav afinitātes pret folikulu lipīdiem"
+    ],
+    "correctIndex": 0,
+    "theory": "AHA ir ūdenī šķīstošas skābes, savukārt salicilskābei piemīt lipofīlas īpašības. Tas ietekmē to izmantošanu dažādos ādas stāvokļos, piemēram, komedonālai aknei. Preparātu efekts atkarīgs arī no devas un formulācijas.",
+    "takeaway": "Hidrofilitāte un lipofilitāte palīdz izvēlēties pīlingu.",
+    "difficulty": 3
+  },
+  {
+    "id": "T06-07",
+    "topicId": "T06",
+    "topic": "Ķīmiskie pīlingi",
+    "source": "3. nodarbība · 9.–28. slaids",
+    "question": "Pacientam plānots TCA pīlings. Kāda ķīmiskā reakcija galvenokārt rada redzamo audu iedarbību?",
+    "options": [
+      "Audu proteīnu koagulācija",
+      "Korneocītu adhēzijas samazināšanās bez koagulācijas",
+      "Brīvo taukskābju šķīdināšana folikulos",
+      "Keramīdu hidrolīze bez audu bojājuma"
+    ],
+    "correctIndex": 0,
+    "theory": "TCA izraisa epidermas un noteiktos apstākļos dermas proteīnu koagulāciju. Iedarbības dziļums atkarīgs no koncentrācijas, slāņiem un ādas sagatavošanas. Pārāk dziļa penetrācija var radīt rētas un pigmentācijas traucējumus.",
+    "takeaway": "TCA pamatā ir proteīnu koagulācija.",
+    "difficulty": 3
+  },
+  {
+    "id": "T06-08",
+    "topicId": "T06",
+    "topic": "Ķīmiskie pīlingi",
+    "source": "3. nodarbība · 9.–28. slaids",
+    "question": "Kuras trīs sastāvdaļas raksturīgas klasiskajam Jessner pīlingam?",
+    "options": [
+      "Pienskābe, salicilskābe un rezorcīns",
+      "Pienskābe, salicilskābe un TCA",
+      "Glikolskābe, salicilskābe un rezorcīns",
+      "Pienskābe, mandeļskābe un rezorcīns"
+    ],
+    "correctIndex": 0,
+    "theory": "Klasiskā Jessner formula apvieno pienskābi, salicilskābi un rezorcīnu. Tā darbojas kā kombinēts virspusējs pīlings; iespējamas arī modificētas formulas bez rezorcīna. Kombinācijas ar TCA var pastiprināt penetrāciju, tāpēc svarīgi zināt precīzu sastāvu.",
+    "takeaway": "Jessner ir kombinēta formula.",
+    "difficulty": 3
+  },
+  {
+    "id": "T06-09",
+    "topicId": "T06",
+    "topic": "Ķīmiskie pīlingi",
+    "source": "3. nodarbība · 9.–28. slaids",
+    "question": "Pacientam ir izteikta fotonovecošanās un dziļākas grumbas. Kurš pīlings saistīts ar dziļāku remodelāciju, bet arī sistēmisku toksicitātes risku?",
+    "options": [
+      "Fenola pīlings",
+      "Augstas koncentrācijas glikolskābes pīlings",
+      "TCA vidēji dziļš pīlings",
+      "Koncentrēts Jessner pīlings"
+    ],
+    "correctIndex": 0,
+    "theory": "Fenols var nodrošināt dziļāku audu iedarbību un remodelāciju. Taču tas prasa īpaši rūpīgu pacienta atlasi sistēmiskas toksicitātes, tostarp kardiālu risku, dēļ. Tāpēc to izmanto ļoti selektīvi medicīniskā uzraudzībā.",
+    "takeaway": "Fenola dziļums saistīts ar sistēmisku risku.",
+    "difficulty": 3
+  },
+  {
+    "id": "T06-10",
+    "topicId": "T06",
+    "topic": "Ķīmiskie pīlingi",
+    "source": "3. nodarbība · 9.–28. slaids",
+    "question": "Kurš apgalvojums par ļoti virspusēju pīlingu ir precīzākais?",
+    "options": [
+      "Tas galvenokārt iedarbojas uz epidermas raga slāni",
+      "Tas aptver visu dzīvo epidermu, bet ne raga slāni",
+      "Tas sasniedz papillāro dermu",
+      "Tas skar dermas virspusējos kolagēna kūlīšus"
+    ],
+    "correctIndex": 0,
+    "theory": "Ļoti virspusējs pīlings galvenokārt skar stratum corneum. Virspusējs pīlings sasniedz epidermu, vidēji dziļš — papillāro dermu, bet dziļš — retikulāro dermu. Bojājuma dziļums nosaka arī dzīšanu un komplikāciju risku.",
+    "takeaway": "Pīlingus klasificē pēc iedarbības anatomiskā dziļuma.",
+    "difficulty": 3
+  },
+  {
+    "id": "T06-11",
+    "topicId": "T06",
+    "topic": "Ķīmiskie pīlingi",
+    "source": "3. nodarbība · 9.–28. slaids",
+    "question": "Kāpēc virspusējs pīlings parasti neizlīdzina dziļu ice-pick tipa aknes rētu?",
+    "options": [
+      "Tas neiedarbojas pietiekami dziļi rētas anatomiskajā struktūrā",
+      "Tas iedarbojas uz rētas iekaisuma fonu, bet neizmaina pigmentu",
+      "Tas izraisa vienīgi dermas fibroblastu aktivitāti",
+      "Tas samazina rētas elastību, bet ne platumu"
+    ],
+    "correctIndex": 0,
+    "theory": "Ice-pick rētas ir dziļas un šauras, tāpēc vispārējs virspusējs pīlings galvenokārt uzlabo krāsu un virsmu. Dziļāku rētu terapijai var būt vajadzīgas specializētas procedūras, piemēram, fokāla TCA tehnika. Rētu veids jānovērtē pirms terapijas.",
+    "takeaway": "Rētas morfoloģija nosaka ārstēšanas dziļumu.",
+    "difficulty": 3
+  },
+  {
+    "id": "T06-12",
+    "topicId": "T06",
+    "topic": "Ķīmiskie pīlingi",
+    "source": "3. nodarbība · 9.–28. slaids",
+    "question": "Kāda ir galvenā epidermas reakcija pēc atbilstoši veikta virspusēja pīlinga?",
+    "options": [
+      "Deskvamācija un reepitelizācija",
+      "Korneocītu proliferācija tikai dermas retikulārajā slānī",
+      "Fibroblastu ekskluzīva reepitelizācija",
+      "Epidermas atjaunošanās bez iepriekšēja nolobīšanās procesa"
+    ],
+    "correctIndex": 0,
+    "theory": "Pīlings rada kontrolētu bojājumu, pēc kura notiek atmirušo šūnu atdalīšanās un epidermas atjaunošanās. Keratinocīti migrē un proliferē, palīdzot noslēgt ādas virsmu. Dziļāku bojājumu gadījumā papildus notiek dermas remodelācija.",
+    "takeaway": "Epidermas atjaunošanos nodrošina keratinocīti.",
+    "difficulty": 3
+  },
+  {
+    "id": "T06-13",
+    "topicId": "T06",
+    "topic": "Ķīmiskie pīlingi",
+    "source": "3. nodarbība · 9.–28. slaids",
+    "question": "Kāpēc vidēji dziļi pīlingi var ietekmēt arī dermas kolagēna struktūru?",
+    "options": [
+      "Kontrolētais bojājums izraisa dzīšanas reakciju ar fibroblastu aktivāciju",
+      "Tie inhibē fibroblastu aktivitāti bez dzīšanas atbildes",
+      "Tie galvenokārt darbojas tikai uz epidermas keratīnu",
+      "Tie samazina dermas matricu bez kolagēna remodelācijas"
+    ],
+    "correctIndex": 0,
+    "theory": "Kad bojājums sasniedz papillāro dermu, brūces dzīšanas procesā iesaistās fibroblasti un ekstracelulārā matrica. Var notikt kolagēna remodelācija un tekstūras uzlabošanās. Dziļāka iedarbība vienlaikus palielina rētu risku.",
+    "takeaway": "Dermas remodelācija ir dzīšanas reakcijas daļa.",
+    "difficulty": 3
+  },
+  {
+    "id": "T06-14",
+    "topicId": "T06",
+    "topic": "Ķīmiskie pīlingi",
+    "source": "3. nodarbība · 9.–28. slaids",
+    "question": "Pacientam ar melasmu vēlas ķīmisko pīlingu izmantot kā vienīgo terapiju. Kāds ir svarīgākais ierobežojums?",
+    "options": [
+      "Melasma ir recidivējoša un prasa arī fotoprotekciju un citu ārstēšanu",
+      "Melasma pēc viena pīlinga parasti neatkārtojas",
+      "Melasmu var ārstēt tikai ar dziļiem pīlingiem",
+      "Fotoprotekcija ir nozīmīga tikai aknes gadījumā"
+    ],
+    "correctIndex": 0,
+    "theory": "Melasma ir hroniska un bieži recidivējoša pigmentācijas slimība. Pīlingi var būt papildterapija, bet fotoprotekcija un atbilstoša lokāla ārstēšana ir būtiska. Agresīva eksfoliācija pati var izraisīt PIH un pasliktināt melasmu.",
+    "takeaway": "Melasmai pīlings nav universāla monoterapija.",
+    "difficulty": 3
+  },
+  {
+    "id": "T06-15",
+    "topicId": "T06",
+    "topic": "Ķīmiskie pīlingi",
+    "source": "3. nodarbība · 9.–28. slaids",
+    "question": "Kurš pīlinga izvēles princips vislabāk atbilst dermatoloģiskai praksei?",
+    "options": [
+      "Indikācija, ādas stāvoklis un vēlamais bojājuma dziļums jāvērtē kopā",
+      "Svarīgākais ir skābes procentuālais daudzums neatkarīgi no pH",
+      "Ādas fototips nosaka visu dziļumu neatkarīgi no skābes",
+      "Ekspozīcijas laiks viens pats nosaka rezultātu neatkarīgi no preparāta"
+    ],
+    "correctIndex": 0,
+    "theory": "Pīlinga efektu nosaka ķīmija, koncentrācija, pH, kontakta laiks un ādas individuālās īpašības. Tāpēc pirms procedūras jānosaka problēma un drošākais iedarbības dziļums. Pārmērīgs bojājums var nodarīt vairāk kaitējuma nekā labuma.",
+    "takeaway": "Optimāls pīlings nav automātiski dziļākais.",
+    "difficulty": 3
+  },
+  {
+    "id": "T07-01",
+    "topicId": "T07",
+    "topic": "Pīlingu drošība",
+    "source": "3. nodarbība · 14., 20.–23., 29.–38. slaids",
+    "question": "Tiek salīdzināti divi vienas skābes preparāti ar vienādu procentu koncentrāciju, bet atšķirīgu pH. Kāpēc to iedarbība var atšķirties?",
+    "options": [
+      "Atšķiras brīvās skābes frakcija un penetrācijas spēja",
+      "Preparāta pH ir nozīmīgs tikai neatšķaidītai skābei",
+      "Vienādam procentam vienmēr ir vienāda penetrācija",
+      "Iedarbību nosaka tikai šķīduma viskozitāte, ne disociācija"
+    ],
+    "correctIndex": 0,
+    "theory": "Skābes disociācijas pakāpe ir atkarīga no preparāta pH attiecībā pret pKa. Pie piemērotiem apstākļiem zemāks pH palielina nedisociētās jeb brīvās skābes frakciju, kas ietekmē penetrāciju. Tāpēc vienāds procents negarantē vienādu iedarbību.",
+    "takeaway": "Svarīga gan koncentrācija, gan pH un pKa.",
+    "difficulty": 2
+  },
+  {
+    "id": "T07-02",
+    "topicId": "T07",
+    "topic": "Pīlingu drošība",
+    "source": "3. nodarbība · 14., 20.–23., 29.–38. slaids",
+    "question": "Pie vienādas skābes koncentrācijas un pH kosmetologs uzklāj vairākus slāņus. Kas var notikt ar pīlinga dziļumu?",
+    "options": [
+      "Tas var palielināties",
+      "Slāņi palielina tikai krāsas izmaiņas, ne audu dziļumu",
+      "Papildu slānis obligāti neitralizē pirmo",
+      "Vairāki slāņi ietekmē tikai atveseļošanās laiku, ne bojājumu"
+    ],
+    "correctIndex": 0,
+    "theory": "Slāņu skaits ietekmē kopējo ķīmisko ekspozīciju un bojājuma dziļumu. To nozīme atkarīga no skābes veida, formulācijas un protokola. Pārāk liela penetrācija palielina komplikāciju risku.",
+    "takeaway": "Vairāki slāņi var pastiprināt iedarbību.",
+    "difficulty": 2
+  },
+  {
+    "id": "T07-03",
+    "topicId": "T07",
+    "topic": "Pīlingu drošība",
+    "source": "3. nodarbība · 14., 20.–23., 29.–38. slaids",
+    "question": "Pacientam ir aktīva ekzēma paredzētajā pīlinga zonā. Kura izvēle ir drošākā?",
+    "options": [
+      "Atlikt pīlingu līdz iekaisuma un barjeras stāvokļa normalizācijai",
+      "Samazināt pH, lai kompensētu bojātu barjeru",
+      "Izmantot saudzīgāku skābi, bet neņemt vērā iekaisumu",
+      "Veikt tikai īsu ekspozīciju, neskatoties uz aktīvo ekzēmu"
+    ],
+    "correctIndex": 0,
+    "theory": "Aktīvs dermatīts un bojāta barjera ir nozīmīgi pīlinga ierobežojumi. Kairināta āda var reaģēt ar pārmērīgu penetrāciju, apdegumu un ilgstošu iekaisumu. Vispirms jāstabilizē ādas stāvoklis.",
+    "takeaway": "Aktīvs iekaisums ir iemesls atlikt pīlingu.",
+    "difficulty": 2
+  },
+  {
+    "id": "T07-04",
+    "topicId": "T07",
+    "topic": "Pīlingu drošība",
+    "source": "3. nodarbība · 14., 20.–23., 29.–38. slaids",
+    "question": "Pacientam iepriekš pēc neliela iekaisuma radusies izteikta PIH. Kas jāņem vērā pirms pīlinga?",
+    "options": [
+      "Paaugstināts pigmentācijas komplikāciju risks un saudzīgāka taktika",
+      "PIH anamnēze nozīmē tikai lielāku infekcijas risku",
+      "Vēsturiska PIH neietekmē nākamās procedūras pigmenta risku",
+      "Dziļāks pīlings samazinās PIH neatkarīgi no fototipa"
+    ],
+    "correctIndex": 0,
+    "theory": "Iepriekšēja pēciekaisuma hiperpigmentācija norāda uz ādas reakcijas tendenci. Pīlings pats rada kontrolētu iekaisumu, tāpēc var izraisīt jaunu PIH. Fotoprotekcija un mazākais efektīvais dziļums samazina risku.",
+    "takeaway": "PIH anamnēze palīdz prognozēt risku.",
+    "difficulty": 2
+  },
+  {
+    "id": "T07-05",
+    "topicId": "T07",
+    "topic": "Pīlingu drošība",
+    "source": "3. nodarbība · 14., 20.–23., 29.–38. slaids",
+    "question": "Pacientam paredzēts vidēji dziļš pīlings, bet nesen bijušas atkārtotas herpes infekcijas epizodes sejā. Kāds ir svarīgs sagatavošanās aspekts?",
+    "options": [
+      "HSV reaktivācijas riska izvērtēšana un iespējama profilakse",
+      "Profilaktiska lokāla antibiotika vienmēr aizstāj HSV izvērtēšanu",
+      "Pretvīrusu profilakse ir nepieciešama tikai pēc procedūras simptomu rašanās",
+      "HSV anamnēze nozīmē tikai pigmentācijas risku, ne reaktivāciju"
+    ],
+    "correctIndex": 0,
+    "theory": "Ādas bojājums pēc pīlinga var provocēt herpes simplex reaktivāciju. Pacientiem ar atbilstošu anamnēzi, īpaši dziļāku procedūru gadījumā, ārsts var apsvērt pretvīrusu profilaksi. Aktīvas infekcijas laikā procedūru neveic.",
+    "takeaway": "Herpes anamnēze ir drošības faktors.",
+    "difficulty": 2
+  },
+  {
+    "id": "T07-06",
+    "topicId": "T07",
+    "topic": "Pīlingu drošība",
+    "source": "3. nodarbība · 14., 20.–23., 29.–38. slaids",
+    "question": "Kāpēc fenola pīlingam nepieciešama īpaša sirds veselības izvērtēšana?",
+    "options": [
+      "Iespējama sistēmiska fenola toksicitāte ar kardiālu iedarbību",
+      "Fenols uzlabo miokarda vadīšanu un izslēdz aritmijas",
+      "Sirds risks rodas tikai no injekcijas adatas",
+      "Fenola risks ir tikai lokāla hiperpigmentācija"
+    ],
+    "correctIndex": 0,
+    "theory": "Fenola pīlingam var būt sistēmiskas blakusparādības, tostarp sirds ritma traucējumi. Tas ir dziļš un potenciāli toksisks paņēmiens, kam nepieciešama atbilstoša medicīniska uzraudzība. Jāvērtē arī aknu un nieru funkcija.",
+    "takeaway": "Fenols var iedarboties arī ārpus ādas.",
+    "difficulty": 3
+  },
+  {
+    "id": "T07-07",
+    "topicId": "T07",
+    "topic": "Pīlingu drošība",
+    "source": "3. nodarbība · 14., 20.–23., 29.–38. slaids",
+    "question": "Pacients lieto lokālus retinoīdus un viņam ir izteikts kairinājums. Kā tas ietekmē pīlinga plānu?",
+    "options": [
+      "Jāizvērtē barjera un iespējama kairinošo līdzekļu pauze pēc individuāla plāna",
+      "Retinoīdi jāatceļ vienmēr uz obligātiem sešiem mēnešiem",
+      "Jāizvēlas zemāka skābes koncentrācija, barjeru neizvērtējot",
+      "Jāpārtrauc tikai tajā dienā, kad tiek veikts pīlings"
+    ],
+    "correctIndex": 0,
+    "theory": "Retinoīdi var mainīt ādas jutīgumu un barjeras stāvokli. Pirms pīlinga vērtē konkrēto preparātu, iekaisumu un procedūras dziļumu. Nav vienas universālas pauzes visiem līdzekļiem un pīlingiem.",
+    "takeaway": "Medikamentu anamnēze ir būtiska.",
+    "difficulty": 3
+  },
+  {
+    "id": "T07-08",
+    "topicId": "T07",
+    "topic": "Pīlingu drošība",
+    "source": "3. nodarbība · 14., 20.–23., 29.–38. slaids",
+    "question": "Kāpēc pīlinga preparātu nevar droši salīdzināt tikai pēc uzraksta “30% skābe”?",
+    "options": [
+      "Nozīme ir pH, formulācijai, skābes veidam un kontakta laikam",
+      "Galvenais kritērijs ir tikai skābes procentuālā koncentrācija",
+      "Vienāds procents nozīmē vienādu brīvās skābes frakciju",
+      "Vienāda etiķete nozīmē identisku formulāciju un pKa"
+    ],
+    "correctIndex": 0,
+    "theory": "Ķīmiskā iedarbība atkarīga no daudz vairāk parametriem nekā tikai skābes koncentrācijas. Šķīdinātājs, pH, pKa un ekspozīcijas apstākļi maina pieejamās aktīvās skābes daudzumu un penetrāciju. Procedūras drošībai jāzina pilns preparāta protokols.",
+    "takeaway": "Koncentrācija viena pati nav pietiekama.",
+    "difficulty": 3
+  },
+  {
+    "id": "T07-09",
+    "topicId": "T07",
+    "topic": "Pīlingu drošība",
+    "source": "3. nodarbība · 14., 20.–23., 29.–38. slaids",
+    "question": "Procedūras laikā āda reaģē ar neparasti stiprām sāpēm un netipisku strauju bojājumu. Kura rīcība ir pareizākā?",
+    "options": [
+      "Nekavējoties pārtraukt procedūru un izvērtēt bojājumu saskaņā ar protokolu",
+      "Vispirms nogaidīt līdz standarta ekspozīcijas beigām",
+      "Sāpes ir vienīgais nepieciešamais efektivitātes rādītājs",
+      "Uzklāt neitralizatoru visām skābēm identiskā veidā"
+    ],
+    "correctIndex": 0,
+    "theory": "Neparasta reakcija var liecināt par pārmērīgu ķīmisku iedarbību. Procedūra nekavējoties jāpārtrauc, jāveic konkrētajam preparātam atbilstošas darbības un medicīniska izvērtēšana. Universāls neitralizators visiem pīlingiem nepastāv.",
+    "takeaway": "Reakcija ir svarīgāka par formālu taimeri.",
+    "difficulty": 3
+  },
+  {
+    "id": "T07-10",
+    "topicId": "T07",
+    "topic": "Pīlingu drošība",
+    "source": "3. nodarbība · 14., 20.–23., 29.–38. slaids",
+    "question": "Kāpēc TCA “frosting” nevar izmantot kā vienīgo noteicošo kritēriju pīlinga dziļumam?",
+    "options": [
+      "Balta krāsa jāvērtē kopā ar eritēmu, lokalizāciju un kopējo reakciju",
+      "Frosting vienmēr precīzi norāda retikulāro dermu",
+      "TCA frosting nozīmē tikai salicilskābes kristālu izgulsnēšanos",
+      "Balta reakcija aizstāj eritēmas un zonas izvērtēšanu"
+    ],
+    "correctIndex": 0,
+    "theory": "TCA frosting ir proteīnu koagulācijas redzama pazīme. Tā izskats nav absolūts dziļuma mērītājs, tāpēc jāvērtē arī eritēma, preparāts un ādas zona. Pārmērīga apstrāde var veicināt rētas.",
+    "takeaway": "Redzama balta reakcija nav absolūts dziļuma rādītājs.",
+    "difficulty": 3
+  },
+  {
+    "id": "T07-11",
+    "topicId": "T07",
+    "topic": "Pīlingu drošība",
+    "source": "3. nodarbība · 14., 20.–23., 29.–38. slaids",
+    "question": "Pacientam tiek plānota Jessner šķīduma kombinācija ar TCA. Kāds ir galvenais risks?",
+    "options": [
+      "Kombinācija var palielināt TCA penetrāciju un bojājuma dziļumu",
+      "Jessner pasargā no TCA penetrācijas neatkarīgi no slāņu skaita",
+      "TCA pilnībā neitralizē iepriekšējo Jessner kārtu",
+      "Kombinēti preparāti vienmēr samazina koagulācijas dziļumu"
+    ],
+    "correctIndex": 0,
+    "theory": "Jessner šķīdums var sagatavot epidermu un palielināt sekojošā TCA penetrāciju. Tas var pastiprināt procedūru, taču paaugstina arī rētošanās un pigmentācijas traucējumu risku. Precīzs protokols un pacienta atlase ir obligāta.",
+    "takeaway": "Kombinēti pīlingi var būt stiprāki nekā atsevišķi.",
+    "difficulty": 3
+  },
+  {
+    "id": "T07-12",
+    "topicId": "T07",
+    "topic": "Pīlingu drošība",
+    "source": "3. nodarbība · 14., 20.–23., 29.–38. slaids",
+    "question": "Pēc pīlinga veidojas kreveles, un pacients tās aktīvi noplēš. Kura komplikācija var kļūt ticamāka?",
+    "options": [
+      "Rētošanās un pēciekaisuma pigmentācija",
+      "Kreveļu noņemšana saīsina iekaisumu bez pigmentācijas riska",
+      "Agrīna mehāniska noņemšana uzlabo epidermas barjeru",
+      "Kreveļu noņemšana ir nepieciešama, ja ir viegla nieze"
+    ],
+    "correctIndex": 0,
+    "theory": "Priekšlaicīga kreveļu noņemšana traumē dziedējošo epidermu. Tas var pagarināt iekaisumu un palielināt pigmentācijas un rētošanās risku. Pēcaprūpē iesaka maigu kopšanu un kreveļu neplēšanu.",
+    "takeaway": "Kreveles jāļauj nokrist pašām.",
+    "difficulty": 3
+  },
+  {
+    "id": "T07-13",
+    "topicId": "T07",
+    "topic": "Pīlingu drošība",
+    "source": "3. nodarbība · 14., 20.–23., 29.–38. slaids",
+    "question": "Kura ir svarīgākā agrīnā pazīme, ka pēc pīlinga nepieciešama medicīniska izvērtēšana?",
+    "options": [
+      "Pastiprinātas sāpes kopā ar strutainiem izdalījumiem",
+      "Viegla deskvamācija un ādas savilkuma sajūta",
+      "Neliels pārejošs apsārtums bez sāpēm",
+      "Neliela ādas lobīšanās un sausums pirmajās dienās"
+    ],
+    "correctIndex": 0,
+    "theory": "Pastiprinātas sāpes, strutas, drudzis vai neparasti ilgstoša eritēma var norādīt uz infekciju vai komplikāciju. Tas atšķiras no paredzamas nelielas deskvamācijas. Jāizvērtē savlaicīgi, lai mazinātu turpmāku bojājumu.",
+    "takeaway": "Infekcijas pazīmes nav parasta dzīšana.",
+    "difficulty": 3
+  },
+  {
+    "id": "T07-14",
+    "topicId": "T07",
+    "topic": "Pīlingu drošība",
+    "source": "3. nodarbība · 14., 20.–23., 29.–38. slaids",
+    "question": "Kāpēc pēc ķīmiskā pīlinga nepieciešama regulāra fotoprotekcija?",
+    "options": [
+      "UV var veicināt pēciekaisuma pigmentāciju atjaunošanās laikā",
+      "UV aizsardzība ir vajadzīga tikai procedūras dienā",
+      "Aizsardzība nepieciešama tikai tumšiem fototipiem",
+      "UV palīdz ātrāk noārdīt dermālo iekaisuma pigmentu"
+    ],
+    "correctIndex": 0,
+    "theory": "Dzīšanas laikā āda var būt jutīgāka pret UV un pigmentācijas pārmaiņām. Regulāra plaša spektra aizsardzība palīdz mazināt PIH risku un īpaši svarīga melasmas gadījumā. Fotoprotekcija ir daļa no ārstēšanas, nevis tikai kosmētiska izvēle.",
+    "takeaway": "UV kontrole ir svarīga pēcprocedūras aprūpē.",
+    "difficulty": 3
+  },
+  {
+    "id": "T07-15",
+    "topicId": "T07",
+    "topic": "Pīlingu drošība",
+    "source": "3. nodarbība · 14., 20.–23., 29.–38. slaids",
+    "question": "Kuru komplikāciju risku īpaši palielina pārāk dziļa pīlinga penetrācija retikulārajā dermā?",
+    "options": [
+      "Rētošanos un paliekošas pigmentācijas pārmaiņas",
+      "Dziļāka penetrācija samazina atrofijas risku",
+      "Retikulārās dermas bojājums nerada rētu risku",
+      "Tikai īslaicīgu, bezpigmenta eritēmu"
+    ],
+    "correctIndex": 0,
+    "theory": "Dziļāks kontrolētais bojājums var dot izteiktāku remodelāciju, bet tas vairāk bojā dermas struktūras. Pieaug ilgstošas eritēmas, rētošanās un dishromijas risks. Tāpēc jāizvēlas mazākais efektīvais dziļums.",
+    "takeaway": "Dziļumam pieaugot, risks parasti pieaug.",
+    "difficulty": 3
+  },
+  {
+    "id": "T08-01",
+    "topicId": "T08",
+    "topic": "Lāzeru principi",
+    "source": "4. nodarbība · 4.–12., 22.–26. slaids",
+    "question": "Lāzera rezonatorā atrodas aktīvā vide un divi spoguļi. Kurš elements parasti nodrošina atomu ierosināšanu?",
+    "options": [
+      "Enerģijas padeves jeb sūknēšanas avots",
+      "Rezonatora spoguļu atstarošanas koeficients",
+      "Aktīvās vides spontānā fluorescēšana bez enerģijas ievades",
+      "Optiskās šķiedras gala fokusēšana"
+    ],
+    "correctIndex": 0,
+    "theory": "Lāzera ierīces enerģijas avots ierosina aktīvās vides daļiņas. Stimulētā emisija un rezonators pastiprina gaismu, ko izvada kā lāzera staru. Ādas hromofors ir mērķis audos, nevis ierīces sūknēšanas avots.",
+    "takeaway": "Lāzeru ierosina enerģijas avots.",
+    "difficulty": 2
+  },
+  {
+    "id": "T08-02",
+    "topicId": "T08",
+    "topic": "Lāzeru principi",
+    "source": "4. nodarbība · 4.–12., 22.–26. slaids",
+    "question": "Kāda parādība ir pamatā lāzera gaismas pastiprināšanai?",
+    "options": [
+      "Stimulētā emisija",
+      "Spontāna emisija bez fotonu savstarpējas iedarbības",
+      "Gaismas refrakcija starp epidermas slāņiem",
+      "Fotonu absorbcija tikai audu ūdenī"
+    ],
+    "correctIndex": 0,
+    "theory": "Stimulētā emisijā fotons ierosina citu daļiņu izstarot līdzīgu fotonu. Rezonators ļauj procesam atkārtoties un pastiprina starojumu. Tā veidojas intensīvs, virzienā sakārtots lāzera gaismas kūlis.",
+    "takeaway": "Stimulētā emisija ir lāzera pamatprincips.",
+    "difficulty": 2
+  },
+  {
+    "id": "T08-03",
+    "topicId": "T08",
+    "topic": "Lāzeru principi",
+    "source": "4. nodarbība · 4.–12., 22.–26. slaids",
+    "question": "Kas precīzāk raksturo lāzera stara koherenci?",
+    "options": [
+      "Gaismas viļņu fāžu saskaņotība laikā vai telpā",
+      "Vienāda enerģija neatkarīgi no izstarojuma viļņa garuma",
+      "Stara izkliedes palielināšana rezonatorā",
+      "Gaismas viļņu intensitātes nejauša maiņa laikā"
+    ],
+    "correctIndex": 0,
+    "theory": "Koherence raksturo viļņu procesu savstarpēju saskaņotību. Tipiskam lāzera staram ir arī maza izkliede un šaurs spektrs. IPL sistēmas savukārt rada plašāka spektra nekoherentu gaismu.",
+    "takeaway": "Koherence ir viļņu saskaņotība.",
+    "difficulty": 2
+  },
+  {
+    "id": "T08-04",
+    "topicId": "T08",
+    "topic": "Lāzeru principi",
+    "source": "4. nodarbība · 4.–12., 22.–26. slaids",
+    "question": "Kāpēc asinsvadu lāzeram izvēlas viļņa garumu, ko absorbē hemoglobīns?",
+    "options": [
+      "Lai enerģija koncentrētos asinsvada struktūrās",
+      "Pigmenta absorbcijas maksimuma izvēle neatkarīgi no asinsvadu absorbcijas",
+      "Ūdens absorbcijas izmantošana epidermas iztvaikošanai",
+      "Melanīna absorbcijas izmantošana folikulu termiskai destrukcijai"
+    ],
+    "correctIndex": 0,
+    "theory": "Selektīvas fototermolīzes principā viļņa garumu izvēlas pēc mērķa hromofora absorbcijas. Hemoglobīna absorbētais starojums rada siltumu asinsvada zonā. Impulsa ilgumu un enerģijas blīvumu pielāgo, lai mazinātu apkārtējo audu bojājumu.",
+    "takeaway": "Hromofors nosaka viļņa garuma izvēli.",
+    "difficulty": 2
+  },
+  {
+    "id": "T08-05",
+    "topicId": "T08",
+    "topic": "Lāzeru principi",
+    "source": "4. nodarbība · 4.–12., 22.–26. slaids",
+    "question": "Pacientam ir dziļākas kāju teleangiektāzijas, kurām vajadzīga lielāka penetrācija. Kura sistēma var būt piemērota atlasītām indikācijām?",
+    "options": [
+      "Garā impulsa Nd:YAG 1064 nm",
+      "PDL 595 nm",
+      "KTP 532 nm",
+      "Aleksandrīta 755 nm"
+    ],
+    "correctIndex": 0,
+    "theory": "Garāka viļņa garuma Nd:YAG 1064 nm var sasniegt dziļākus asinsvadus nekā dažas virspusējās vaskulārās sistēmas. Izvēle atkarīga no asinsvada izmēra, dziļuma un ādas fototipa. Jāievēro termisko komplikāciju risks.",
+    "takeaway": "Dziļākiem asinsvadiem var izmantot 1064 nm.",
+    "difficulty": 2
+  },
+  {
+    "id": "T08-06",
+    "topicId": "T08",
+    "topic": "Lāzeru principi",
+    "source": "4. nodarbība · 4.–12., 22.–26. slaids",
+    "question": "Kurš optiskās mijiedarbības process nozīmē, ka daļa lāzera enerģijas atgriežas no ādas virsmas, nenonākot mērķaudos?",
+    "options": [
+      "Atstarošana",
+      "Izkliede",
+      "Absorbcija",
+      "Transmisija"
+    ],
+    "correctIndex": 0,
+    "theory": "Atstarošanas laikā daļa gaismas maina virzienu pie virsmas. Absorbcija nozīmē enerģijas uzņemšanu audos, transmisija — iekļūšanu dziļāk, bet izkliede — virziena maiņu audos. Aizsargbrilles vajadzīgas arī atstarotā starojuma riska dēļ.",
+    "takeaway": "Atstarošana nenozīmē absorbciju.",
+    "difficulty": 3
+  },
+  {
+    "id": "T08-07",
+    "topicId": "T08",
+    "topic": "Lāzeru principi",
+    "source": "4. nodarbība · 4.–12., 22.–26. slaids",
+    "question": "Kura lāzera parametru mērvienība pareizi raksturo enerģijas blīvumu jeb fluenci?",
+    "options": [
+      "J/cm²",
+      "W/cm²",
+      "W",
+      "J"
+    ],
+    "correctIndex": 0,
+    "theory": "Fluence ir enerģija uz apstarotā laukuma vienību, un to izsaka džoulos uz kvadrātcentimetru. Viļņa garumu mēra nanometros, jaudu vatos, bet impulsa ilgumu sekundēs. Visi šie parametri ietekmē audu reakciju.",
+    "takeaway": "Fluence ir J/cm².",
+    "difficulty": 3
+  },
+  {
+    "id": "T08-08",
+    "topicId": "T08",
+    "topic": "Lāzeru principi",
+    "source": "4. nodarbība · 4.–12., 22.–26. slaids",
+    "question": "Pacientam ar tumšāku ādas fototipu plānota lāzerepilācija. Kurš parametrs palīdz samazināt epidermas melanīna absorbcijas risku?",
+    "options": [
+      "Garāks viļņa garums, piemēram, Nd:YAG 1064 nm",
+      "Aleksandrīta 755 nm ar augstu epidermālo absorbciju",
+      "KTP 532 nm ar optimizētu impulsa platumu",
+      "PDL 595 nm ar dziļu folikulāru iedarbību"
+    ],
+    "correctIndex": 0,
+    "theory": "Garāka viļņa garuma Nd:YAG 1064 nm epilācijā mazāk absorbējas epidermas melanīnā un var būt drošāka izvēle tumšākai ādai. Joprojām vajadzīga pareiza dzesēšana un parametri. Melanīns folikulā paliek mērķa hromofors.",
+    "takeaway": "Tumšākai ādai epilācijā bieži izvēlas 1064 nm.",
+    "difficulty": 3
+  },
+  {
+    "id": "T08-09",
+    "topicId": "T08",
+    "topic": "Lāzeru principi",
+    "source": "4. nodarbība · 4.–12., 22.–26. slaids",
+    "question": "Kāpēc lāzerepilācija ir mazefektīva baltiem matiem?",
+    "options": [
+      "Matu folikulā trūkst pietiekama melanīna mērķa",
+      "Folikula melanīns absorbē tikai infrasarkano ūdens joslu",
+      "Pigmenta daudzums matu stumbrā ir par lielu",
+      "Matu folikuls atrodas ārpus lāzera sasniedzamā dziļuma"
+    ],
+    "correctIndex": 0,
+    "theory": "Lāzerepilācijā gaismu galvenokārt absorbē melanīns matu struktūrās. Baltiem vai ļoti gaišiem matiem mērķa pigmenta ir maz, tāpēc termiskā bojājuma efektivitāte samazinās. Šis ierobežojums nav atrisināms tikai ar augstāku enerģiju.",
+    "takeaway": "Bez melanīna nav pietiekama epilācijas mērķa.",
+    "difficulty": 3
+  },
+  {
+    "id": "T08-10",
+    "topicId": "T08",
+    "topic": "Lāzeru principi",
+    "source": "4. nodarbība · 4.–12., 22.–26. slaids",
+    "question": "Lāzerepilācijas kursa laikā paciente regulāri plūc matus ar pinceti. Kāds ir būtiskākais iemesls to neieteikt?",
+    "options": [
+      "Tiek izņemta pigmentētā matu struktūra, kas kalpo par mērķi",
+      "Plūkšana palielina epidermas melanīna koncentrāciju",
+      "Plūkšana saīsina tikai impulsa ilgumu, ne mērķa struktūru",
+      "Plūkšana samazina sviedru dziedzeru aktivitāti, ne folikulu pigmentu"
+    ],
+    "correctIndex": 0,
+    "theory": "Epilācijas lāzeram vajadzīga pigmentētā matu folikulārā vienība, kas absorbē gaismu. Plūkšana un vaksācija izņem šo mērķi; pirms procedūras parasti iesaka skūšanu. Tas palīdz nodrošināt efektīvāku un drošāku procedūru.",
+    "takeaway": "Epilācijā mērķa pigments jāatstāj folikulā.",
+    "difficulty": 3
+  },
+  {
+    "id": "T08-11",
+    "topicId": "T08",
+    "topic": "Lāzeru principi",
+    "source": "4. nodarbība · 4.–12., 22.–26. slaids",
+    "question": "Pacientam jānoņem tetovējums, kura pigmenta daļiņas atrodas dermā. Kurš iedarbības princips ir raksturīgs īsu impulsu Q-switched lāzeriem?",
+    "options": [
+      "Fotoakustiska pigmenta daļiņu fragmentācija",
+      "Ilgstoša audu termiska koagulācija ar milisekunžu impulsu",
+      "Audu ūdens ablācija ar CO₂ viļņa garumu",
+      "Selektīva hemoglobīna koagulācija bez pigmenta fragmentācijas"
+    ],
+    "correctIndex": 0,
+    "theory": "Ļoti īsi augstas enerģijas lāzera impulsi rada pigmenta daļiņās strauju enerģijas pārvadi un fotoakustiskus efektus. Tas var palīdzēt tās sašķelt. Lāzera viļņa garumu izvēlas pēc pigmenta absorbcijas, un procedūrai var būt vajadzīgi vairāki seansi.",
+    "takeaway": "Q-switched un pikosekunžu lāzeri izmanto pigmentam.",
+    "difficulty": 3
+  },
+  {
+    "id": "T08-12",
+    "topicId": "T08",
+    "topic": "Lāzeru principi",
+    "source": "4. nodarbība · 4.–12., 22.–26. slaids",
+    "question": "Klīnikā reklāmā tiek apgalvots, ka IPL ir monohromatisks lāzers. Kura korekcija ir precīza?",
+    "options": [
+      "IPL ir plaša spektra nekoherenta gaismas sistēma, nevis lāzers",
+      "IPL izmanto šauru vienu viļņa garumu bez filtra",
+      "IPL veido koherentu staru ar rezonatora spoguļiem",
+      "IPL starojums vienmēr ir tikai 1064 nm"
+    ],
+    "correctIndex": 0,
+    "theory": "IPL izmanto zibspuldzi un optiskos filtrus, lai atlasītu viļņu garuma diapazonu. Tā starojums ir nekoherents un plaša spektra, atšķirībā no tipiska lāzera. IPL var izmantot dažādām asinsvadu, pigmentācijas un matu indikācijām.",
+    "takeaway": "IPL nav lāzers.",
+    "difficulty": 3
+  },
+  {
+    "id": "T08-13",
+    "topicId": "T08",
+    "topic": "Lāzeru principi",
+    "source": "4. nodarbība · 4.–12., 22.–26. slaids",
+    "question": "Pacientam plānota pigmentētu saules plankumu apstrāde. Kurš solis ir svarīgs pirms pigmenta lāzerterapijas?",
+    "options": [
+      "Pārliecināties, ka veidojums nav aizdomīgs par ļaundabīgumu",
+      "Pārbaudīt tikai pigmenta dziļumu, bet ne diagnozi",
+      "Izvēlēties impulsu, pamatojoties tikai uz plankuma krāsu",
+      "Pirms jebkādas dermatoskopijas veikt mazu lāzera testa laukumu uz veidojuma"
+    ],
+    "correctIndex": 0,
+    "theory": "Daudzi labdabīgi pigmentācijas bojājumi ir piemēroti lāzerterapijai, bet melanoma vai citi audzēji var līdzināties pigmentācijas plankumiem. Pirms destruktīvas procedūras jāpārliecinās par diagnozi. Šaubu gadījumā nepieciešama dermatologa izvērtēšana un histoloģija.",
+    "takeaway": "Pirms pigmenta noņemšanas jāizslēdz audzējs.",
+    "difficulty": 3
+  },
+  {
+    "id": "T08-14",
+    "topicId": "T08",
+    "topic": "Lāzeru principi",
+    "source": "4. nodarbība · 4.–12., 22.–26. slaids",
+    "question": "Kā impulsa ilgums var ietekmēt lāzera termisko bojājumu?",
+    "options": [
+      "Tas kopā ar enerģiju un viļņa garumu nosaka audu uzsilšanu",
+      "Tikai kopējā enerģija ir svarīga, ne impulsa laiks",
+      "Impulsa ilgums nosaka viļņa garumu, ne temperatūras pieaugumu",
+      "Impulsa ilgums ir vienlīdzīgs jebkura mērķa termiskās relaksācijas laikam"
+    ],
+    "correctIndex": 0,
+    "theory": "Audu termiskā reakcija atkarīga no viļņa garuma, enerģijas blīvuma un impulsa ilguma. Mērķa struktūras izmērs un termiskās relaksācijas laiks palīdz izvēlēties parametrus. Neatbilstoši iestatījumi var bojāt apkārtējo ādu.",
+    "takeaway": "Impulsa ilgums ir būtisks drošībai.",
+    "difficulty": 3
+  },
+  {
+    "id": "T08-15",
+    "topicId": "T08",
+    "topic": "Lāzeru principi",
+    "source": "4. nodarbība · 4.–12., 22.–26. slaids",
+    "question": "Kāpēc lāzera procedūru telpā vajadzīgas konkrētajam viļņa garumam atbilstošas aizsargbrilles?",
+    "options": [
+      "Atstarots vai tiešs stars var bojāt acs struktūras",
+      "Lāzera acs bojājuma risks ir tikai tiešas skatīšanās gadījumā",
+      "Vienas universālas brilles aizsargā pret visiem viļņu garumiem",
+      "Optiskais blīvums ir svarīgs tikai IPL, ne lāzera procedūrā"
+    ],
+    "correctIndex": 0,
+    "theory": "Lāzera starojums var radīt nopietnus acu bojājumus arī atstarošanas ceļā. Aizsargbrillēm jāatbilst viļņa garumam un nepieciešamajam optiskajam blīvumam. Aizsardzība jānodrošina visiem telpā esošajiem.",
+    "takeaway": "Acu aizsardzība ir viļņa garumam specifiska.",
+    "difficulty": 3
+  },
+  {
+    "id": "T09-01",
+    "topicId": "T09",
+    "topic": "Lāzeru veidi",
+    "source": "4. nodarbība · 13.–21., 27.–28. slaids",
+    "question": "Pēc CO₂ ādas atjaunošanas apstrādātajā zonā ir atvērta virspusēja brūce. Kāds dzīšanas mehānisms nepieciešams epidermas atjaunošanai?",
+    "options": [
+      "Keratinocītu migrācija un reepitelizācija",
+      "Dermas fibroblastu tieša reepitelizācija bez keratinocītiem",
+      "Epidermas atjaunošanās tikai no melanocītiem",
+      "Brūces aizvēršanās tikai ar kolagēna koagulāciju"
+    ],
+    "correctIndex": 0,
+    "theory": "Ablatīvā lāzerterapija iztvaicē epidermas audus. Dzīšanas laikā keratinocīti migrē un vairojas, atjaunojot epidermu, bet dermā aktivizējas kolagēna remodelācija. Tāpēc nepieciešama pareiza brūces kopšana.",
+    "takeaway": "Ablācija prasa reepitelizāciju.",
+    "difficulty": 2
+  },
+  {
+    "id": "T09-02",
+    "topicId": "T09",
+    "topic": "Lāzeru veidi",
+    "source": "4. nodarbība · 13.–21., 27.–28. slaids",
+    "question": "Neablatīvā frakcionētā procedūrā dermā konstatē termiskus bojājumus, bet epidermas virsma lielākoties saglabāta. Kas izskaidro īsāku atveseļošanos?",
+    "options": [
+      "Nav plašas atvērtas epidermas brūces",
+      "Samazinās dermas kolagēna sintēze, tādēļ dzīšana ir ātrāka",
+      "Termiskā iedarbība neietekmē epidermas integritāti pat pie lielas jaudas",
+      "Visi mikrotermiskie bojājumi ir ierobežoti ar raga slāni"
+    ],
+    "correctIndex": 0,
+    "theory": "Neablatīvs lāzers ierosina dermas remodelāciju ar relatīvi saglabātu epidermu. Tas parasti samazina brūču aprūpes apjomu un atveseļošanās laiku. Taču rezultāts mēdz būt pakāpeniskāks, un vajadzīgas vairākas procedūras.",
+    "takeaway": "Neablācija saglabā virsmas integritāti.",
+    "difficulty": 2
+  },
+  {
+    "id": "T09-03",
+    "topicId": "T09",
+    "topic": "Lāzeru veidi",
+    "source": "4. nodarbība · 13.–21., 27.–28. slaids",
+    "question": "Kāpēc frakcionēta ablācija parasti dzīst ātrāk par pilna laukuma ablāciju ar līdzīgu iedarbības dziļumu?",
+    "options": [
+      "Starp bojājumu kolonnām saglabājas veseli audi",
+      "Mikrokolonnas veido vienmērīgu pilna laukuma nekrozi",
+      "Frakcionētā tehnikā neveidojas jauni keratinocīti",
+      "Frakcionēta ablācija pilnībā aizsargā no rētām"
+    ],
+    "correctIndex": 0,
+    "theory": "Frakcionēšana rada mikroskopiskas apstrādes zonas, starp kurām paliek neskarti audi. Tie veicina reepitelizāciju un saīsina rehabilitāciju. Efekts un risks tomēr atkarīgs arī no kopējā apstrādātā laukuma blīvuma un parametriem.",
+    "takeaway": "Neskartie audi palīdz dzīšanai.",
+    "difficulty": 2
+  },
+  {
+    "id": "T09-04",
+    "topicId": "T09",
+    "topic": "Lāzeru veidi",
+    "source": "4. nodarbība · 13.–21., 27.–28. slaids",
+    "question": "Kura komplikāciju kombinācija jāapsver pēc intensīvas ablatīvas ādas atjaunošanas?",
+    "options": [
+      "Ilgstoša eritēma, infekcija un rētošanās",
+      "Pārejoša tūska bez jebkādas pigmentācijas iespējas",
+      "Viegla īslaicīga ādas sausuma sajūta bez citām komplikācijām",
+      "Pārejošs apsārtums bez infekcijas riska"
+    ],
+    "correctIndex": 0,
+    "theory": "Ablatīvas procedūras bojā epidermu un dermu, tāpēc iespējamās komplikācijas ir ilgstošs apsārtums, infekcija, pigmentācijas izmaiņas un rētas. Risks pieaug, ja bojājums ir dziļš vai dzīšana traucēta. Tāpēc svarīga pacienta atlase un pēcaprūpe.",
+    "takeaway": "Ablācija nozīmē arī brūces komplikāciju risku.",
+    "difficulty": 2
+  },
+  {
+    "id": "T09-05",
+    "topicId": "T09",
+    "topic": "Lāzeru veidi",
+    "source": "4. nodarbība · 13.–21., 27.–28. slaids",
+    "question": "Pacientam pirms ablatīvas CO₂ procedūras ir aktīvs herpes simplex bojājums uz lūpas. Kāda taktika ir pamatota?",
+    "options": [
+      "Atlikt procedūru un ārstēt infekciju",
+      "Palielināt fluenci, lai destrukturētu vīrusu",
+      "Vispirms izvērtēt tikai fototipu, infekciju atstājot bez ārstēšanas",
+      "Atlikt procedūru tikai tad, ja izteikta tūska bez HSV simptomiem"
+    ],
+    "correctIndex": 0,
+    "theory": "Aktīva HSV infekcija ir nozīmīgs šķērslis ablatīvai lāzerprocedūrai. Termisks bojājums un atklāta brūce var veicināt infekcijas izplatību. Herpes anamnēze jāņem vērā arī profilaktiskās terapijas plānošanā.",
+    "takeaway": "Aktīva infekcija nav piemērota procedūras zona.",
+    "difficulty": 2
+  },
+  {
+    "id": "T09-06",
+    "topicId": "T09",
+    "topic": "Lāzeru veidi",
+    "source": "4. nodarbība · 13.–21., 27.–28. slaids",
+    "question": "Kam galvenokārt piedēvē kolagēna pārveidošanos pēc neablatīvas ādas atjaunošanas?",
+    "options": [
+      "Dermas termiskai stimulācijai un fibroblastu aktivācijai",
+      "Epidermas pilnīga iztvaikošana katrā seansā",
+      "Matu folikula melanīna fragmentācija",
+      "Hemoglobīna absorbcijas izraisīta koagulācija bez dermas remodelācijas"
+    ],
+    "correctIndex": 0,
+    "theory": "Neablatīvas sistēmas silda dermas audus un ierosina dzīšanas signālus, nebojājot epidermas virsmu tik izteikti kā ablācija. Fibroblasti var piedalīties jauna kolagēna veidošanā un matricas remodelācijā. Klīniskais uzlabojums attīstās pakāpeniski.",
+    "takeaway": "Dermas termiska stimulācija var veicināt kolagēnu.",
+    "difficulty": 3
+  },
+  {
+    "id": "T09-07",
+    "topicId": "T09",
+    "topic": "Lāzeru veidi",
+    "source": "4. nodarbība · 13.–21., 27.–28. slaids",
+    "question": "Kura tehnoloģija nodrošina pilna laukuma epidermas iztvaikošanu apstrādes zonā?",
+    "options": [
+      "Nefrakcionēta ablatīva lāzerapstrāde",
+      "Neablatīva frakcionēta tehnoloģija",
+      "KTP selektīva vaskulāra terapija",
+      "Garā impulsa Nd:YAG epilācija"
+    ],
+    "correctIndex": 0,
+    "theory": "Nefrakcionētā pilna laukuma ablācijā audi tiek apstrādāti nepārtraukti izvēlētajā zonā. Tā rada plašāku brūces virsmu nekā frakcionēta apstrāde. Rezultāts var būt intensīvāks, bet dzīšana ilgāka.",
+    "takeaway": "Pilna laukuma ablācija nav frakcionēšana.",
+    "difficulty": 3
+  },
+  {
+    "id": "T09-08",
+    "topicId": "T09",
+    "topic": "Lāzeru veidi",
+    "source": "4. nodarbība · 13.–21., 27.–28. slaids",
+    "question": "Pacients ar Fitzpatrick V fototipu vēlas intensīvu resurfacing procedūru. Kādēļ nepieciešama īpaša piesardzība?",
+    "options": [
+      "Palielināts pēciekaisuma pigmentācijas traucējumu risks",
+      "Fototips nosaka tikai melanīna krāsu bez komplikāciju riska",
+      "Tumšākai ādai ir mazāks PIH risks pēc vienāda iekaisuma",
+      "Fototips aizstāj ādas barjeras un medikamentu anamnēzi"
+    ],
+    "correctIndex": 0,
+    "theory": "Tumšākos fototipos iekaisums pēc lāzera var izraisīt PIH vai hipopigmentāciju. Riski atkarīgi no procedūras veida, dziļuma un parametriem. Fototips nav universāla kontrindikācija visām neablatīvām vai frakcionētām procedūrām.",
+    "takeaway": "Tumšākiem fototipiem īpaši jāvērtē pigmentācijas risks.",
+    "difficulty": 3
+  },
+  {
+    "id": "T09-09",
+    "topicId": "T09",
+    "topic": "Lāzeru veidi",
+    "source": "4. nodarbība · 13.–21., 27.–28. slaids",
+    "question": "Kāpēc pēc CO₂ ādas atjaunošanas var būt nepieciešama aptuveni divu nedēļu rehabilitācija?",
+    "options": [
+      "Epidermas bojājumam nepieciešama reepitelizācija un brūces aprūpe",
+      "Ilga dzīšana rodas tikai no pigmentācijas, ne epidermas bojājuma",
+      "CO₂ procedūrā epitēlija integritāte vienmēr saglabājas",
+      "Dzīšana nav atkarīga no apstrādes intensitātes vai dziļuma"
+    ],
+    "correctIndex": 0,
+    "theory": "Ablatīvs CO₂ lāzers rada virspusēju audu zudumu un termisku iedarbību. Epidermas atjaunošanās prasa laiku, un šajā posmā nepieciešama saudzīga aprūpe. Atveseļošanās ilgums variē pēc apstrādes dziļuma un platības.",
+    "takeaway": "Ablatīvai apstrādei ir dzīšanas periods.",
+    "difficulty": 3
+  },
+  {
+    "id": "T09-10",
+    "topicId": "T09",
+    "topic": "Lāzeru veidi",
+    "source": "4. nodarbība · 13.–21., 27.–28. slaids",
+    "question": "Kura atšķirība vislabāk raksturo frakcionētu CO₂ un frakcionētu 1550 nm Er:glass lāzeru?",
+    "options": [
+      "CO₂ var veidot ablācijas kanālus, bet Er:glass pārsvarā termiskas neablatīvas zonas",
+      "CO₂ rada tikai termisku dermas bojājumu bez iztvaikošanas",
+      "Er:glass 1550 nm galvenokārt iztvaicē epidermu un dermu",
+      "Abās sistēmās pigmenta fragmentācija ir galvenais mehānisms"
+    ],
+    "correctIndex": 0,
+    "theory": "Frakcionēts CO₂ ir ablatīvs, jo iztvaicē mikroskopiskus audu kanālus. Frakcionēts 1550 nm Er:glass ir neablatīvs un vairāk silda dermu. Abas metodes var veicināt remodelāciju, bet atkopšanās un riski atšķiras.",
+    "takeaway": "Frakcionēts nav sinonīms ablatīvam.",
+    "difficulty": 3
+  },
+  {
+    "id": "T09-11",
+    "topicId": "T09",
+    "topic": "Lāzeru veidi",
+    "source": "4. nodarbība · 13.–21., 27.–28. slaids",
+    "question": "Pēc frakcionētas lāzerprocedūras pacients sūdzas par apsārtumu un vieglu tūsku pirmajā dienā. Kā vērtēt šo reakciju?",
+    "options": [
+      "Tā var būt paredzama pārejoša iekaisuma atbilde, ja nav brīdinājuma pazīmju",
+      "Viegla tūska vienmēr norāda uz ādas nekrozi",
+      "Apsārtums vienmēr ir herpes reaktivācijas pazīme",
+      "Jebkura eritēma liecina par neatgriezenisku hipopigmentāciju"
+    ],
+    "correctIndex": 0,
+    "theory": "Pārejoša eritēma un tūska pēc lāzerterapijas ir biežas reakcijas. Jāvērtē intensitāte, ilgums un tādas brīdinājuma pazīmes kā pieaugošas sāpes vai infekcijas simptomi. Ne katrs apsārtums ir komplikācija.",
+    "takeaway": "Paredzama reakcija jāatšķir no komplikācijas.",
+    "difficulty": 3
+  },
+  {
+    "id": "T09-12",
+    "topicId": "T09",
+    "topic": "Lāzeru veidi",
+    "source": "4. nodarbība · 13.–21., 27.–28. slaids",
+    "question": "Kāpēc pēc ablatīvas procedūras bieži izmanto maigus emolientus un fotoprotekciju?",
+    "options": [
+      "Lai atbalstītu barjeras atjaunošanos un mazinātu PIH risku",
+      "Emolienti nepieciešami tikai pirmajās piecās minūtēs",
+      "Saule pēc ablācijas pasargā no PIH",
+      "Pēcaprūpe ietekmē tikai niezi, ne barjeras atjaunošanos"
+    ],
+    "correctIndex": 0,
+    "theory": "Emolienti palīdz uzturēt mitru, aizsargātu brūces vidi. Fotoprotekcija samazina risku, ka iekaisuma laikā veidojas pigmentācijas traucējumi. Konkrēta aprūpe atkarīga no lāzera un procedūras dziļuma.",
+    "takeaway": "Pēcaprūpe ietekmē dzīšanas kvalitāti.",
+    "difficulty": 3
+  },
+  {
+    "id": "T09-13",
+    "topicId": "T09",
+    "topic": "Lāzeru veidi",
+    "source": "4. nodarbība · 13.–21., 27.–28. slaids",
+    "question": "Kāpēc intensīvas ablatīvas lāzerterapijas gadījumā būtiska ir nosliece uz keloīdiem?",
+    "options": [
+      "Dziļāks bojājums var provocēt patoloģisku rētošanos",
+      "Keloīdi rodas tikai no epidermas pigmenta maiņas",
+      "Rētošanās risks pēc dziļa bojājuma nav saistīts ar anamnēzi",
+      "Frakcionēta pieeja pilnībā izslēdz keloīdu risku"
+    ],
+    "correctIndex": 0,
+    "theory": "Keloīdi ir pārmērīgas rētaudu veidošanās rezultāts. Dziļāka procedūra var palielināt rētu risku cilvēkiem ar šādu noslieci. Anamnēze un izvēlētā anatomiskā zona ir svarīgas pirms procedūras.",
+    "takeaway": "Keloīdu nosliece ietekmē procedūras izvēli.",
+    "difficulty": 3
+  },
+  {
+    "id": "T09-14",
+    "topicId": "T09",
+    "topic": "Lāzeru veidi",
+    "source": "4. nodarbība · 13.–21., 27.–28. slaids",
+    "question": "Pacients vēlas pēc iespējas izteiktāku grumbu mazināšanu vienā seansā, bet vēlas arī ātru atgriešanos ikdienā. Kādēļ nepieciešams skaidrot kompromisu?",
+    "options": [
+      "Lielāka audu iedarbība parasti saistīta ar ilgāku dzīšanu un komplikāciju risku",
+      "Spēcīgāka ablācija vienmēr saīsina atveseļošanos",
+      "Neablatīvā pieeja dod identisku dziļu efektu vienā seansā",
+      "Visas CO₂ sistēmas vienmēr iedarbojas identiskā dziļumā"
+    ],
+    "correctIndex": 0,
+    "theory": "Ablatīvās tehnoloģijas parasti sniedz intensīvāku resurfacing efektu, bet prasa ilgāku atkopšanos. Neablatīvās ir saudzīgākas, taču rezultāts var būt pakāpeniskāks. Reālistiskas gaidas ir svarīga pacienta atlases daļa.",
+    "takeaway": "Efekts un atveseļošanās ir savstarpēji saistīti.",
+    "difficulty": 3
+  },
+  {
+    "id": "T09-15",
+    "topicId": "T09",
+    "topic": "Lāzeru veidi",
+    "source": "4. nodarbība · 13.–21., 27.–28. slaids",
+    "question": "Kāpēc frakcionētas procedūras biežāk jāatkārto vairākos seansos?",
+    "options": [
+      "Vienā reizē tiek apstrādāta tikai daļa ādas virsmas",
+      "Frakcionēšana pilnībā izslēdz kolagēna remodelāciju",
+      "Katrā seansā tiek apstrādāta visa āda vienādā dziļumā",
+      "Vairāk seansu nepieciešams tikai lāzera hromofora maiņas dēļ"
+    ],
+    "correctIndex": 0,
+    "theory": "Frakcionēšana sadala iedarbību mikroskopiskos laukos un saglabā apkārtējos audus. Tas samazina atkopšanās slodzi, bet daļai klīnisko mērķu vajadzīgs vairāku procedūru kurss. Precīzu reižu skaitu nosaka indikācija un iekārta.",
+    "takeaway": "Saudzīgāka iedarbība var prasīt vairāk seansu.",
+    "difficulty": 3
+  },
+  {
+    "id": "T10-01",
+    "topicId": "T10",
+    "topic": "Botulīntoksīna mehānisms",
+    "source": "4. nodarbība · 29.–35. slaids",
+    "question": "Kas tieši ir A tipa botulīntoksīna molekulārais mērķis motorā nervgaļa sekretorajā aparātā?",
+    "options": [
+      "SNAP-25 proteīns",
+      "SNAP-23 proteīns",
+      "Muskuļa nikotīniskais acetilholīna receptors",
+      "Vezikulu kalcija kanāls"
+    ],
+    "correctIndex": 0,
+    "theory": "BoNT-A šķeļ SNAP-25, kas piedalās SNARE kompleksa darbībā. Tas kavē acetilholīna saturošo vezikulu saplūšanu ar presinaptisko membrānu. Rezultāts ir muskuļa kontrakcijas samazināšanās.",
+    "takeaway": "BoNT-A mērķē presinaptisko SNAP-25.",
+    "difficulty": 2
+  },
+  {
+    "id": "T10-02",
+    "topicId": "T10",
+    "topic": "Botulīntoksīna mehānisms",
+    "source": "4. nodarbība · 29.–35. slaids",
+    "question": "Kāpēc pēc botulīntoksīna injekcijas nervs nespēj efektīvi atbrīvot acetilholīnu, lai gan tas joprojām to var sintezēt?",
+    "options": [
+      "Sinaptisko vezikulu saplūšana ar membrānu ir traucēta",
+      "Toksīns pastāvīgi bloķē postsinaptiskos nikotīniskos receptorus",
+      "Nervgalī tiek pilnīgi apturēta acetilholīna sintēze",
+      "Acetilholīns izdalās normāli, bet sabrūk sinaptiskajā spraugā"
+    ],
+    "correctIndex": 0,
+    "theory": "BoNT-A traucē vezikulu eksocitozi presinaptiskajā nervgalī, nevis tieši aptur acetilholīna sintēzi. SNAP-25 šķelšana neļauj vezikulām normāli izdalīt mediatoru. Muskuļa šķiedra nesaņem pietiekamu aktivācijas signālu.",
+    "takeaway": "Bloķēta ir izdalīšanās, nevis obligāti sintēze.",
+    "difficulty": 2
+  },
+  {
+    "id": "T10-03",
+    "topicId": "T10",
+    "topic": "Botulīntoksīna mehānisms",
+    "source": "4. nodarbība · 29.–35. slaids",
+    "question": "Kurā neiromuskulārās sinapses vietā A tipa botulīntoksīna galvenā iedarbība notiek?",
+    "options": [
+      "Presinaptiskajā nervgalī",
+      "Postsinaptiskajā muskuļa membrānā",
+      "Sinaptiskajā spraugā uz acetilholīnesterāzes",
+      "Muskuļa sarkoplazmatiskajā retikulumā"
+    ],
+    "correctIndex": 0,
+    "theory": "BoNT-A iekļūst holīnerģiskajā nervgalī un šķeļ SNAP-25. Tas kavē acetilholīna izdalīšanos sinaptiskajā spraugā. Muskuļa postsinaptiskie receptori netiek tieši iznīcināti.",
+    "takeaway": "BoNT-A ir presinaptisks.",
+    "difficulty": 2
+  },
+  {
+    "id": "T10-04",
+    "topicId": "T10",
+    "topic": "Botulīntoksīna mehānisms",
+    "source": "4. nodarbība · 29.–35. slaids",
+    "question": "Kādas pārmaiņas notiek muskuļa šķiedrā pēc efektīvas BoNT-A injekcijas?",
+    "options": [
+      "Samazinās nervu izraisītas kontrakcijas",
+      "Palielinās kontrakciju amplitūda bez izmaiņām frekvencē",
+      "Saglabājas identiskas kontrakcijas, bet mainās tikai ādas hidrācija",
+      "Samazinās tikai jutīgo nervu impulsi, motora signāls paliek nemainīgs"
+    ],
+    "correctIndex": 0,
+    "theory": "Samazinoties acetilholīna pieejamībai, muskuļu šķiedras tiek mazāk aktivētas un kontrakcijas vājinās. Tas nav tas pats, kas ķirurģiska muskuļa izņemšana. Iedarbība ir pārejoša un pakāpeniski atgriezeniska.",
+    "takeaway": "Mazāk mediatora nozīmē mazāku kontrakciju.",
+    "difficulty": 2
+  },
+  {
+    "id": "T10-05",
+    "topicId": "T10",
+    "topic": "Botulīntoksīna mehānisms",
+    "source": "4. nodarbība · 29.–35. slaids",
+    "question": "Kāpēc botulīntoksīna estētiskais efekts parasti nav maksimāls jau injekcijas brīdī?",
+    "options": [
+      "Toksīnam jāiekļūst nervgaļos un jāiedarbojas uz SNAP-25",
+      "Toksīns vispirms saistās ar postsinaptiskajiem receptoriem un tad noārdās",
+      "Efekts atkarīgs tikai no tūlītējas lokālas tūskas",
+      "Maksimāla relaksācija parādās tikai pēc kolagēna remodelācijas"
+    ],
+    "correctIndex": 0,
+    "theory": "BoNT-A efekts attīstās dažu dienu laikā, jo nepieciešams laiks šūnu uzņemšanai un presinaptiskās funkcijas traucēšanai. Maksimālais efekts parādās vēlāk nekā pati injekcija. To ņem vērā rezultāta novērtēšanā.",
+    "takeaway": "Toksīna iedarbība attīstās pakāpeniski.",
+    "difficulty": 2
+  },
+  {
+    "id": "T10-06",
+    "topicId": "T10",
+    "topic": "Botulīntoksīna mehānisms",
+    "source": "4. nodarbība · 29.–35. slaids",
+    "question": "Kura grumbu grupa vislabāk reaģē uz mīmikas muskuļu aktivitātes samazināšanu?",
+    "options": [
+      "Kustībā veidojošās dinamiskās grumbas",
+      "Statiskās grumbas, kas redzamas miera stāvoklī",
+      "Dziļas atrofiskas rētas bez mīmikas komponentes",
+      "Grumbas, ko galvenokārt izraisa elastīna zudums bez muskuļa kontrakcijas"
+    ],
+    "correctIndex": 0,
+    "theory": "Dinamiskās grumbas veidojas atkārtotu muskuļu kontrakciju rezultātā. BoNT-A mazina šo kustību radīto ādas krokošanos. Statiskām grumbām, kas redzamas miera stāvoklī, var būt vajadzīgas citas vai kombinētas metodes.",
+    "takeaway": "BoNT-A vislabāk iedarbojas uz muskuļu komponenti.",
+    "difficulty": 3
+  },
+  {
+    "id": "T10-07",
+    "topicId": "T10",
+    "topic": "Botulīntoksīna mehānisms",
+    "source": "4. nodarbība · 29.–35. slaids",
+    "question": "Glabellas jeb starpuzacu grumbu korekcijā kuri muskuļi ir svarīgākie mērķi?",
+    "options": [
+      "Corrugator supercilii un procerus",
+      "Frontalis un orbicularis oculi",
+      "Depressor anguli oris un masseter",
+      "Orbicularis oris un temporalis"
+    ],
+    "correctIndex": 0,
+    "theory": "Glabellas mīmiku galvenokārt veido corrugator supercilii un procerus muskuļi. Šo muskuļu atslābināšana var mazināt starpuzacu grumbas. Anatomiski neprecīza ievadīšana palielina ptozes un asimetrijas risku.",
+    "takeaway": "Glabellā svarīgi corrugator un procerus.",
+    "difficulty": 3
+  },
+  {
+    "id": "T10-08",
+    "topicId": "T10",
+    "topic": "Botulīntoksīna mehānisms",
+    "source": "4. nodarbība · 29.–35. slaids",
+    "question": "Kura mīmikas muskuļa aktivitāte visvairāk saistīta ar laterālajām periorbitālajām “vārnu kājiņām”?",
+    "options": [
+      "Orbicularis oculi",
+      "Frontalis",
+      "Corrugator supercilii",
+      "Procerus"
+    ],
+    "correctIndex": 0,
+    "theory": "Vārnu kājiņas rodas lielā mērā orbicularis oculi muskuļa kontrakcijas rezultātā. Šajā zonā jāvērtē acu funkcija un asaru plēvītes problēmas. Pārmērīga relaksācija var izraisīt nevēlamus acu simptomus.",
+    "takeaway": "Vārnu kājiņas saistītas ar orbicularis oculi.",
+    "difficulty": 3
+  },
+  {
+    "id": "T10-09",
+    "topicId": "T10",
+    "topic": "Botulīntoksīna mehānisms",
+    "source": "4. nodarbība · 29.–35. slaids",
+    "question": "Pēc atkārtotām injekcijām pacients jautā, vai toksīns pastāvīgi iznīcina nervu un muskuli. Kura atbilde ir korekta?",
+    "options": [
+      "Iedarbība parasti ir pārejoša, jo neiromuskulārā funkcija atjaunojas",
+      "Efekts saglabājas pastāvīgi, bet kustību pārņem citi mīmikas muskuļi",
+      "Kustības atjaunojas tikai, palielinoties postsinaptisko receptoru skaitam",
+      "Efekts izzūd, jo injicētā viela tiek neitralizēta ar hialuronidāzi"
+    ],
+    "correctIndex": 0,
+    "theory": "BoNT-A īslaicīgi kavē acetilholīna izdalīšanos, bet neiromuskulārā transmisija pakāpeniski atjaunojas. Klīniskais efekts parasti ilgst dažus mēnešus. Tas nav tas pats, kas ķirurģiska denervācija.",
+    "takeaway": "Botulīntoksīna efekts parasti ir pārejošs.",
+    "difficulty": 3
+  },
+  {
+    "id": "T10-10",
+    "topicId": "T10",
+    "topic": "Botulīntoksīna mehānisms",
+    "source": "4. nodarbība · 29.–35. slaids",
+    "question": "Kāpēc BoNT-A spēj samazināt pārmērīgu svīšanu arī bez mīmikas muskuļu paralīzes attiecīgajā zonā?",
+    "options": [
+      "Ekrīnos sviedru dziedzerus aktivē holīnerģiskie nervi",
+      "Ekrīnajiem dziedzeriem dominē adrenerģiskā inervācija",
+      "Toksīns tieši noārda sviedru dziedzera epitēliju",
+      "BoNT-A kavē tikai muskuļu, ne autonomo nervgaļu acetilholīnu"
+    ],
+    "correctIndex": 0,
+    "theory": "Ekrīno sviedru dziedzeru aktivitāti regulē acetilholīna signāli. BoNT-A var kavēt šī mediatora izdalīšanos vietējās nervu galotnēs un samazināt svīšanu. Tas ir dermatoloģisks pielietojums ārpus dinamisko grumbu korekcijas.",
+    "takeaway": "Acetilholīns regulē arī ekrīno sviedru dziedzeru darbību.",
+    "difficulty": 3
+  },
+  {
+    "id": "T10-11",
+    "topicId": "T10",
+    "topic": "Botulīntoksīna mehānisms",
+    "source": "4. nodarbība · 29.–35. slaids",
+    "question": "Ko molekulārā līmenī nozīmē SNARE kompleksa darbības traucējums?",
+    "options": [
+      "Sekretoro vezikulu saplūšana ar membrānu kļūst neefektīva",
+      "Vezikulu saplūšana kļūst ātrāka un acetilholīna daudzums pieaug",
+      "SNARE komplekss veido vairāk nikotīnisko receptoru",
+      "SNAP-25 šķelšana uzlabo eksocitozes efektivitāti"
+    ],
+    "correctIndex": 0,
+    "theory": "SNARE proteīni koordinē membrānu saplūšanu, kas nepieciešama neirotransmitera eksocitozei. BoNT-A šķeļ vienu no šiem proteīniem — SNAP-25. Šādi mazinās acetilholīna izdalīšanās no nervgaļa.",
+    "takeaway": "SNARE kompleksa funkcija ir vezikulu saplūšana.",
+    "difficulty": 3
+  },
+  {
+    "id": "T10-12",
+    "topicId": "T10",
+    "topic": "Botulīntoksīna mehānisms",
+    "source": "4. nodarbība · 29.–35. slaids",
+    "question": "Kurš apgalvojums par BoNT-A un muskuļa acetilholīna receptoriem ir precīzākais?",
+    "options": [
+      "Toksīns galvenokārt traucē mediatora izdalīšanos, nevis tieši bloķē postsinaptiskos receptorus",
+      "Toksīns tieši saistās ar muskuļa receptoriem un bloķē tos",
+      "Toksīns kavē acetilholīnesterāzi sinaptiskajā spraugā",
+      "Toksīns samazina tikai acetilholīna sintēzi bez eksocitozes ietekmes"
+    ],
+    "correctIndex": 0,
+    "theory": "BoNT-A darbojas presinaptiski, kavējot acetilholīna izdalīšanos. Savukārt postsinaptiskie nikotīniskie receptori normāli reaģē uz mediatoru, kad tas nonāk sinaptiskajā spraugā. Šī atšķirība palīdz saprast toksīna farmakoloģiju.",
+    "takeaway": "BoNT-A iedarbojas pirms sinaptiskās spraugas.",
+    "difficulty": 3
+  },
+  {
+    "id": "T10-13",
+    "topicId": "T10",
+    "topic": "Botulīntoksīna mehānisms",
+    "source": "4. nodarbība · 29.–35. slaids",
+    "question": "Kāpēc pēc botulīntoksīna jāvērtē gan mīmika kustībā, gan miera stāvoklī?",
+    "options": [
+      "Lai atšķirtu dinamiskās un statiskās grumbas un noteiktu muskuļu ieguldījumu",
+      "Miera grumbu dziļums pilnīgi nosaka efektu bez mīmikas novērtējuma",
+      "Mīmikas kustības vienmēr ir identiskas abās sejas pusēs",
+      "Statiskas grumbas nosaka tikai nervgaļa acetilholīna līmenis"
+    ],
+    "correctIndex": 0,
+    "theory": "Kustībā redzamās grumbas liecina par muskuļu aktivitātes komponenti. Miera stāvoklī saglabātās grumbas var būt saistītas arī ar ādas struktūras pārmaiņām. Abu stāvokļu izvērtējums palīdz noteikt reālistiskas gaidas.",
+    "takeaway": "Mīmikas izvērtējums palīdz izvēlēties mērķi.",
+    "difficulty": 3
+  },
+  {
+    "id": "T10-14",
+    "topicId": "T10",
+    "topic": "Botulīntoksīna mehānisms",
+    "source": "4. nodarbība · 29.–35. slaids",
+    "question": "Ko nozīmē tas, ka dažādu BoNT-A preparātu vienības nav savstarpēji aizvietojamas?",
+    "options": [
+      "Katram preparātam ir savas bioloģiskās aktivitātes mērvienības un devas",
+      "Viena preparāta vienību skaitu var tieši pārcelt uz citu",
+      "Bioloģisko aktivitāti nosaka vienīgi ampulas tilpums",
+      "Dažādu preparātu devas vienmēr var noteikt pēc viena universāla koeficienta"
+    ],
+    "correctIndex": 0,
+    "theory": "Atšķirīgu botulīntoksīna preparātu bioloģiskās aktivitātes vienības tiek noteiktas ar specifiskām metodēm. Tās nav tieši konvertējamas ar universālu attiecību. Jālieto konkrētā produkta oficiālais zāļu apraksts.",
+    "takeaway": "BoNT-A vienības nav universāli ekvivalentas.",
+    "difficulty": 3
+  },
+  {
+    "id": "T10-15",
+    "topicId": "T10",
+    "topic": "Botulīntoksīna mehānisms",
+    "source": "4. nodarbība · 29.–35. slaids",
+    "question": "Kāda ir loģiska sekas tam, ka BoNT-A mazina muskuļu aktivitāti, bet neizdzēš strukturālu rētu?",
+    "options": [
+      "Mīmikas kroka var mazināties, bet dziļa statiska rieva var saglabāties",
+      "Muskuļu relaksācija vienmēr pilnībā novērš dermas strukturālās izmaiņas",
+      "Statiskas grumbas BoNT-A iedarbībā izzūd identiski dinamiskajām",
+      "BoNT-A vispirms rekonstruē bojātas kolagēna šķiedras, pēc tam atslābina muskuli"
+    ],
+    "correctIndex": 0,
+    "theory": "BoNT-A iedarbojas uz neiromuskulāro transmisiju, nevis tieši noņem dermas rētaudus. Tāpēc dinamiskajam komponentam ir vislielākā atbilde. Ādas strukturālām izmaiņām var būt nepieciešama kombinēta pieeja.",
+    "takeaway": "Muskuļu atslābināšana neizdzēš rētaudus.",
+    "difficulty": 3
+  },
+  {
+    "id": "T11-01",
+    "topicId": "T11",
+    "topic": "Botulīntoksīna drošība",
+    "source": "4. nodarbība · 33.–47. slaids",
+    "question": "Paciente vēlas botulīntoksīnu starpuzacu grumbām, bet injekcijas zonā ir aktīva bakteriāla infekcija. Kura rīcība ir pareiza?",
+    "options": [
+      "Procedūru atlikt līdz infekcijas izārstēšanai",
+      "Infekcijas zonā izvēlēties mazāku BoNT-A devu",
+      "Mainīt tikai injekcijas dziļumu, lai izvairītos no virsējā iekaisuma",
+      "Pirms injekcijas lokāli uzklāt antiseptiķi un uzreiz turpināt"
+    ],
+    "correctIndex": 0,
+    "theory": "Aktīva infekcija injekcijas vietā ir botulīntoksīna absolūta kontrindikācija. Injekcija caur inficētu ādu var palielināt komplikāciju risku un traucēt drošu procedūru. Vispirms jāārstē infekcija.",
+    "takeaway": "Aktīva infekcija injekcijas vietā nozīmē procedūras atlikšanu.",
+    "difficulty": 2
+  },
+  {
+    "id": "T11-02",
+    "topicId": "T11",
+    "topic": "Botulīntoksīna drošība",
+    "source": "4. nodarbība · 33.–47. slaids",
+    "question": "Pacientam diagnosticēta myasthenia gravis. Kāpēc botulīntoksīna estētiskai lietošanai nepieciešama īpaša piesardzība?",
+    "options": [
+      "Jau ir traucēta neiromuskulārā transmisija, un toksīns var pastiprināt vājumu",
+      "BoNT-A var samazināt vienīgi jutīgo nervu vadītspēju",
+      "Myasthenia gravis gadījumā toksīns iedarbojas tikai uz sviedru dziedzeriem",
+      "Slimības gadījumā postsinaptiskā muskuļa stimulācija vienmēr ir paaugstināta"
+    ],
+    "correctIndex": 0,
+    "theory": "Myasthenia gravis ir neiromuskulārās transmisijas slimība ar muskuļu vājumu. Botulīntoksīns papildus samazina acetilholīna pieejamību nervu un muskuļu sinapsē. Tāpēc nepieciešama rūpīga medicīniska riska izvērtēšana.",
+    "takeaway": "Neiromuskulāras slimības var pastiprināt toksīna risku.",
+    "difficulty": 2
+  },
+  {
+    "id": "T11-03",
+    "topicId": "T11",
+    "topic": "Botulīntoksīna drošība",
+    "source": "4. nodarbība · 33.–47. slaids",
+    "question": "Pēc injekcijas glabellas zonā pacientam noslīd augšējais plakstiņš. Kāds mehānisms var to izskaidrot?",
+    "options": [
+      "Nevēlama toksīna iedarbība uz blakus esošajiem muskuļiem",
+      "Muskuļa levator palpebrae funkcijas pastiprināšanās",
+      "Pārmērīga frontalis kompensatorā aktivācija",
+      "Lokāla tūska bez ietekmes uz plakstiņa muskuļu funkciju"
+    ],
+    "correctIndex": 0,
+    "theory": "Ptoze var rasties, ja toksīna iedarbība sasniedz muskuļus, kas iesaistīti plakstiņa pacelšanā. Risks ir saistīts ar anatomiju un ievadīšanas tehniku. Tā parasti ir pārejoša komplikācija, jo BoNT-A efekts ar laiku samazinās.",
+    "takeaway": "Anatomiska precizitāte palīdz mazināt ptozi.",
+    "difficulty": 2
+  },
+  {
+    "id": "T11-04",
+    "topicId": "T11",
+    "topic": "Botulīntoksīna drošība",
+    "source": "4. nodarbība · 33.–47. slaids",
+    "question": "Pacientam ir sūdzības par pastāvīgu plaukstu svīšanu, bet vēl nav izvērtēts tās cēlonis. Kas jānoskaidro pirms botulīntoksīna terapijas?",
+    "options": [
+      "Vai hiperhidroze ir primāra vai sekundāra",
+      "Vai hiperhidroze ir lokalizēta vai difūza, neņemot vērā cēloni",
+      "Vai svīšana pastiprinās tikai karstumā, bez citu simptomu izvērtēšanas",
+      "Vai pacients izmanto dezodorantu, neizvērtējot sistēmisku slimību"
+    ],
+    "correctIndex": 0,
+    "theory": "Hiperhidrozei var būt primāra lokāla forma vai sekundārs cēlonis, piemēram, cita slimība vai medikamenti. Botulīntoksīns kavē holīnerģisko signālu sviedru dziedzeriem, bet nenovērš visus iespējamos cēloņus. Diagnozes precizēšana ir būtiska.",
+    "takeaway": "Hiperhidrozei jāizvērtē cēlonis.",
+    "difficulty": 2
+  },
+  {
+    "id": "T11-05",
+    "topicId": "T11",
+    "topic": "Botulīntoksīna drošība",
+    "source": "4. nodarbība · 33.–47. slaids",
+    "question": "Kāpēc botulīntoksīna injekcijās ap acīm jāizvērtē jau esošs sausās acs sindroms?",
+    "options": [
+      "Var rasties nevēlama acu apkārtnes muskuļu pavājināšanās un simptomi",
+      "Toksīns uzlabo mirkšķināšanu neatkarīgi no injekcijas zonas",
+      "Acs sausumu pilnībā nosaka tikai asaru dziedzera produkcija",
+      "Periorbitālo muskuļu atslābināšana nevar ietekmēt plakstiņa funkciju"
+    ],
+    "correctIndex": 0,
+    "theory": "Periorbitālo grumbu korekcijā tiek ietekmēts orbicularis oculi. Nepareiza iedarbība var mainīt mirkšķināšanu un saasināt acu sausumu. Pirms procedūras jāizvērtē acu funkcija un simptomi.",
+    "takeaway": "Acu zona prasa funkcionālu izvērtējumu.",
+    "difficulty": 2
+  },
+  {
+    "id": "T11-06",
+    "topicId": "T11",
+    "topic": "Botulīntoksīna drošība",
+    "source": "4. nodarbība · 33.–47. slaids",
+    "question": "Kura novērošana vislabāk palīdz izvērtēt BoNT-A estētisko rezultātu?",
+    "options": [
+      "Sejas simetrija un mīmika miera stāvoklī un kustībā",
+      "Tikai grumbu dziļuma mērīšana pie aizvērtām acīm",
+      "Tikai injekciju punktu simetrisks izvietojums",
+      "Tikai pacienta subjektīvais pašvērtējums bez kustību novērtējuma"
+    ],
+    "correctIndex": 0,
+    "theory": "Botulīntoksīna efekts atspoguļojas mīmikas muskuļu aktivitātē un sejas simetrijā. Dokumentēti attēli miera stāvoklī un kustībā ļauj salīdzināt rezultātu un pamanīt asimetriju. Pacienta gaidas jāvērtē kopā ar anatomiju.",
+    "takeaway": "Estētisko rezultātu vērtē arī kustībā.",
+    "difficulty": 3
+  },
+  {
+    "id": "T11-07",
+    "topicId": "T11",
+    "topic": "Botulīntoksīna drošība",
+    "source": "4. nodarbība · 33.–47. slaids",
+    "question": "Kāpēc masētera hipertrofijas ārstēšanā jāzina, ka šī indikācija dažiem preparātiem ir off-label?",
+    "options": [
+      "Preparāta oficiāli apstiprinātās indikācijas atšķiras no praksē izmantotajām",
+      "Tas nozīmē pilnīgu aizliegumu jebkurā valstī",
+      "Off-label preparātu deva ir universāli standartizēta",
+      "Off-label lietošanā pacienta piekrišana nav nepieciešama"
+    ],
+    "correctIndex": 0,
+    "theory": "Off-label nozīmē lietošanu ārpus konkrētā preparāta oficiāli apstiprinātajām indikācijām. Tas prasa īpašu izvērtēšanu, informētu piekrišanu un atbilstošu kompetenci. Preparātu devas un apstiprinājumi dažādās valstīs atšķiras.",
+    "takeaway": "Off-label nav sinonīms rutīnas apstiprinājumam.",
+    "difficulty": 3
+  },
+  {
+    "id": "T11-08",
+    "topicId": "T11",
+    "topic": "Botulīntoksīna drošība",
+    "source": "4. nodarbība · 33.–47. slaids",
+    "question": "Kura nevēlamā reakcija pēc BoNT-A vairāk atbilst lokālai injekcijas traumai, nevis toksīna izplatībai?",
+    "options": [
+      "Neliels zilums injekcijas punktā",
+      "Sejas asimetrija pēc muskuļu relaksācijas",
+      "Ptoze pēc iedarbības uz blakus muskuli",
+      "Izteikts rīšanas vājums toksīna izplatības dēļ"
+    ],
+    "correctIndex": 0,
+    "theory": "Sāpes, eritēma un zilumi injekcijas vietā ir biežas lokālas reakcijas. Savukārt rīšanas, runas un elpošanas traucējumi ir reti, bet nopietni brīdinājuma simptomi. Klīniskā izvērtēšana palīdz atšķirt šīs grupas.",
+    "takeaway": "Lokāls zilums nav tas pats, kas sistēmiska toksīna iedarbība.",
+    "difficulty": 3
+  },
+  {
+    "id": "T11-09",
+    "topicId": "T11",
+    "topic": "Botulīntoksīna drošība",
+    "source": "4. nodarbība · 33.–47. slaids",
+    "question": "Pacientam ir pieres grumbas un sākotnēji zema uzacu pozīcija. Kāpēc jāuzmanās no pārmērīgas frontalis relaksācijas?",
+    "options": [
+      "Frontalis palīdz pacelt uzacis un tā pavājināšana var pastiprināt noslīdējumu",
+      "Frontalis ir galvenais uzacu nolaidējmuskulis",
+      "Frontalis relaksācija vienmēr pastiprina uzacu pacelšanu",
+      "Uzacu pozīciju nosaka tikai orbicularis oculi"
+    ],
+    "correctIndex": 0,
+    "theory": "Frontalis ir svarīgs uzacu pacēlājs. Pārmērīga atslābināšana var samazināt uzacu pacēlumu un veicināt ptozi. Tādēļ mīmikas un uzacu stāvokļa izvērtējums ir būtisks procedūras plānošanā.",
+    "takeaway": "Frontalis atslābināšana ietekmē uzacis.",
+    "difficulty": 3
+  },
+  {
+    "id": "T11-10",
+    "topicId": "T11",
+    "topic": "Botulīntoksīna drošība",
+    "source": "4. nodarbība · 33.–47. slaids",
+    "question": "Pacientam plānots atkārtot botulīntoksīna injekciju ļoti drīz pēc iepriekšējās procedūras. Kas visvairāk nosaka piemērotu intervālu?",
+    "options": [
+      "Klīniskais efekts, indikācija, preparāts un ārsta izvērtējums",
+      "Vienmēr viens un tas pats intervāls neatkarīgi no preparāta un zonas",
+      "Intervālu nosaka tikai iepriekšējās injekcijas tūskas ilgums",
+      "Visiem pacientiem obligāti jāatkārto injekcija pēc 14 dienām"
+    ],
+    "correctIndex": 0,
+    "theory": "Botulīntoksīna efekts attīstās pakāpeniski un parasti ir pārejošs, bieži ap 3–4 mēnešiem. Atkārtošanas laiks jāplāno pēc klīniskās iedarbības un konkrētā preparāta norādēm. Pārāk agra atkārtošana bez novērtējuma nav pamatota.",
+    "takeaway": "Intervālu nosaka klīniskā situācija.",
+    "difficulty": 3
+  },
+  {
+    "id": "T11-11",
+    "topicId": "T11",
+    "topic": "Botulīntoksīna drošība",
+    "source": "4. nodarbība · 33.–47. slaids",
+    "question": "Pacients vēlas pilnīgi nekustīgu seju, lai izzustu visas grumbas. Kāds ir būtisks konsultācijas aspekts?",
+    "options": [
+      "Reālistisku gaidu un dabiskas mīmikas saglabāšanas apspriešana",
+      "Plānot maksimālu relaksāciju neatkarīgi no anatomijas",
+      "Kā vienīgo efektivitātes kritēriju izmantot mīmikas pilnīgu izzušanu",
+      "Izvēlēties devu tikai pēc grumbu diametra bez funkcionāla vērtējuma"
+    ],
+    "correctIndex": 0,
+    "theory": "Botulīntoksīna mērķis estētikā parasti ir kontrolēti mazināt nevēlamu muskuļu aktivitāti. Pārmērīga relaksācija var radīt nedabisku izteiksmi un funkcionālus traucējumus. Statiskas grumbas ne vienmēr izzūd tikai ar šo metodi.",
+    "takeaway": "Reālistiskas gaidas ir drošības daļa.",
+    "difficulty": 3
+  },
+  {
+    "id": "T11-12",
+    "topicId": "T11",
+    "topic": "Botulīntoksīna drošība",
+    "source": "4. nodarbība · 33.–47. slaids",
+    "question": "Kura klīniskā situācija īpaši prasa izslēgt toksīna iedarbību ārpus injekcijas vietas?",
+    "options": [
+      "Jauns izteikts vājums kopā ar dizartriju",
+      "Pārejoša periorbitāla tūska bez citām pazīmēm",
+      "Vieglas lokālas sāpes pirmajā dienā",
+      "Neliela ziluma veidošanās injekcijas vietā"
+    ],
+    "correctIndex": 0,
+    "theory": "Ja pēc BoNT-A rodas vispārējs vājums, runas vai rīšanas traucējumi, jādomā par nopietnu nevēlamu iedarbību. Simptomi var sākties stundas vai pat nedēļas pēc injekcijas. Nepieciešama steidzama medicīniska palīdzība.",
+    "takeaway": "Dizartrija un vājums ir brīdinājuma pazīmes.",
+    "difficulty": 3
+  },
+  {
+    "id": "T11-13",
+    "topicId": "T11",
+    "topic": "Botulīntoksīna drošība",
+    "source": "4. nodarbība · 33.–47. slaids",
+    "question": "Grūtniece vēlas estētisku BoNT-A procedūru. Kura pieeja ir pamatota?",
+    "options": [
+      "Plānveida estētisko injekciju atlikt nepietiekamu drošuma datu dēļ",
+      "Grūtniecībā drošība ir pierādīta visiem preparātiem identiski",
+      "Estētisku injekciju var veikt bez preparāta drošuma datiem",
+      "Neatliekama kosmētiska nepieciešamība atsver ierobežoto drošuma informāciju"
+    ],
+    "correctIndex": 0,
+    "theory": "Grūtniecības un zīdīšanas laikā botulīntoksīna drošuma dati ir ierobežoti. Tā kā estētiskā indikācija nav neatliekama, procedūru parasti atliek. Lēmumā jāņem vērā konkrētā preparāta oficiālais apraksts.",
+    "takeaway": "Grūtniecībā estētiskas procedūras parasti atliek.",
+    "difficulty": 3
+  },
+  {
+    "id": "T11-14",
+    "topicId": "T11",
+    "topic": "Botulīntoksīna drošība",
+    "source": "4. nodarbība · 33.–47. slaids",
+    "question": "Kāpēc pirms injekcijas jānoskaidro lietotie medikamenti?",
+    "options": [
+      "Dažas zāles var ietekmēt neiromuskulāro transmisiju un pastiprināt efektu",
+      "Zāļu mijiedarbība skar tikai ādas pigmentācijas procesu",
+      "Tikai lokāli lietoti mitrinātāji var ietekmēt nervu transmisiju",
+      "Vienāds BoNT-A efekts ir garantēts neatkarīgi no medikamentiem"
+    ],
+    "correctIndex": 0,
+    "theory": "Botulīntoksīna iedarbība uz nervu un muskuļu sinapsi var summēties ar noteiktu medikamentu iedarbību. Tāpēc anamnēzē jānoskaidro zāļu lietošana un neiromuskulārie traucējumi. Specifisku mijiedarbību izvērtē pēc preparāta apraksta.",
+    "takeaway": "Medikamentus izvērtē pirms BoNT-A.",
+    "difficulty": 3
+  },
+  {
+    "id": "T11-15",
+    "topicId": "T11",
+    "topic": "Botulīntoksīna drošība",
+    "source": "4. nodarbība · 33.–47. slaids",
+    "question": "Kura no situācijām ir absolūta kontrindikācija konkrēta BoNT-A preparāta lietošanai?",
+    "options": [
+      "Zināma paaugstināta jutība pret tā sastāvdaļām",
+      "Iepriekšējā injekcijā radies neliels zilums",
+      "Jau pastāvošas statiskas grumbas",
+      "Viegla sākotnēja sejas asimetrija"
+    ],
+    "correctIndex": 0,
+    "theory": "Paaugstināta jutība pret preparātu ir absolūta kontrindikācija. Tas atšķiras no relatīvām piesardzības situācijām, kur nepieciešams individuāls risku un ieguvumu novērtējums. Aktīva infekcija injekcijas vietā ir vēl viena absolūta kontrindikācija.",
+    "takeaway": "Alerģija pret preparātu ir absolūta kontrindikācija.",
+    "difficulty": 3
+  },
+  {
+    "id": "T12-01",
+    "topicId": "T12",
+    "topic": "Hialuronskābe ādā",
+    "source": "4. nodarbība · 55. slaids + papildteorija",
+    "question": "Novecojošā ādā samazinās hidratācija un mainās dermas matrica. Kāpēc hialuronskābe ir īpaši nozīmīga?",
+    "options": [
+      "Tā piesaista ūdeni un palīdz uzturēt hidratētu ekstracelulāro matricu",
+      "Tā galvenokārt veido dermas šķiedru mehānisko balstu",
+      "Tā galvenokārt rada epidermas lipīdu necaurlaidību",
+      "Tā galvenokārt kontrolē epidermas pigmentu sadalījumu"
+    ],
+    "correctIndex": 0,
+    "theory": "Hialuronskābe ir glikozaminoglikāns ar spēju saistīt ūdeni. Tā palīdz uzturēt ādas audu hidratāciju un mehāniskās īpašības. Novecojot mainās HA daudzums, izvietojums un metabolisms.",
+    "takeaway": "HA uztur ūdens bagātu audu vidi.",
+    "difficulty": 2
+  },
+  {
+    "id": "T12-02",
+    "topicId": "T12",
+    "topic": "Hialuronskābe ādā",
+    "source": "4. nodarbība · 55. slaids + papildteorija",
+    "question": "Kurā audu struktūrā hialuronskābe ir viena no dabiskajām sastāvdaļām?",
+    "options": [
+      "Ādas ekstracelulārajā matricā",
+      "Kolagēna fibrilu iekšējā olbaltumvielu kodolā",
+      "Keratinocītu raga aploksnes proteīnu slānī",
+      "Tikai dermas asinsvadu endotēlija šūnās"
+    ],
+    "correctIndex": 0,
+    "theory": "HA ir ekstracelulārās matricas glikozaminoglikāns, kas atrodams daudzos audos, tostarp ādā. Tā hidratētā matrica palīdz šūnu kustībai un audu mehāniskajām īpašībām. Tā nav pigmenta vai nervu struktūras galvenā sastāvdaļa.",
+    "takeaway": "HA ir ekstracelulārās matricas daļa.",
+    "difficulty": 2
+  },
+  {
+    "id": "T12-03",
+    "topicId": "T12",
+    "topic": "Hialuronskābe ādā",
+    "source": "4. nodarbība · 55. slaids + papildteorija",
+    "question": "Pēc nelielas ādas traumas sākas audu atjaunošanās. Kura hialuronskābes loma šajā procesā ir ticama?",
+    "options": [
+      "Veidot hidratētu vidi šūnu migrācijai un proliferācijai",
+      "Tieša keratinocītu pārvēršana fibroblastos",
+      "Tūlītēja rētaudu mehāniska noārdīšana",
+      "Brūces dzīšanas pilnīga aizstāšana ar ūdens piesaisti"
+    ],
+    "correctIndex": 0,
+    "theory": "HA piedalās brūču dzīšanas vides veidošanā un var ietekmēt šūnu migrāciju un signalizāciju. Atjaunošanos vienlaikus nodrošina arī keratinocīti, fibroblasti un ekstracelulārās matricas olbaltumvielas. HA viena pati nav visa dzīšanas sistēma.",
+    "takeaway": "HA atbalsta šūnu darbībai piemērotu vidi.",
+    "difficulty": 2
+  },
+  {
+    "id": "T12-04",
+    "topicId": "T12",
+    "topic": "Hialuronskābe ādā",
+    "source": "4. nodarbība · 55. slaids + papildteorija",
+    "question": "Kāpēc HA samazināšanās vai pārdale nav vienīgais ādas grumbu cēlonis?",
+    "options": [
+      "Novecošanās ietver arī kolagēna, elastīna un fotobojājuma izmaiņas",
+      "Galvenais novecošanās faktors ir tikai transepidermāls ūdens zudums",
+      "Kolagēna un elastīna maiņa notiek neatkarīgi no laika un UV",
+      "HA samazinājums izskaidro tikai pigmentācijas plankumus"
+    ],
+    "correctIndex": 0,
+    "theory": "Ādas novecošanās ir daudzfaktoru process. Hialuronskābes izmaiņas ietekmē hidratāciju, bet kolagēna un elastīna struktūra ir būtiska mehāniskajai izturībai. UV un oksidatīvais stress paātrina izmaiņas.",
+    "takeaway": "Grumbas rodas vairāku faktoru dēļ.",
+    "difficulty": 2
+  },
+  {
+    "id": "T12-05",
+    "topicId": "T12",
+    "topic": "Hialuronskābe ādā",
+    "source": "4. nodarbība · 55. slaids + papildteorija",
+    "question": "Ko nozīmē, ka hialuronskābe ir glikozaminoglikāns?",
+    "options": [
+      "Tā ir no atkārtotām cukura vienībām veidota polisaharīdu struktūra",
+      "Tā ir ar šķērssaitēm savienota kolagēna olbaltumviela",
+      "Tā ir fosfolipīdu membrānas daļa",
+      "Tā ir nukleīnskābe ar atkārtotiem nukleotīdiem"
+    ],
+    "correctIndex": 0,
+    "theory": "HA ir nesulfatēts glikozaminoglikāns ar atkārtotām disaharīdu vienībām. Tās ķīmiskā struktūra veicina ūdens saistīšanu un hidratētas matricas veidošanu. Tā nav olbaltumviela vai pigments.",
+    "takeaway": "HA ir polisaharīds, nevis proteīns.",
+    "difficulty": 2
+  },
+  {
+    "id": "T12-06",
+    "topicId": "T12",
+    "topic": "Hialuronskābe ādā",
+    "source": "4. nodarbība · 55. slaids + papildteorija",
+    "question": "Kāds ir svarīgākais iemesls, kādēļ HA palīdz uzturēt ādas apjomu?",
+    "options": [
+      "Hidratēta matrica piesaista ūdeni un rada audu turgoru",
+      "HA veido stingras kolagēna šķiedras bez ūdens piesaistes",
+      "HA uzlabo apjomu galvenokārt, samazinot dermas šķidrumu",
+      "HA nosaka vienīgi zemādas taukaudu biezumu"
+    ],
+    "correctIndex": 0,
+    "theory": "Hialuronskābes polimēri saista ūdeni un piedalās audu mehānisko īpašību nodrošināšanā. Hidratācija un matrica ietekmē ādas turgoru jeb spriegumu. Novecošanās laikā šīs īpašības var mazināties.",
+    "takeaway": "HA palīdz uzturēt turgoru.",
+    "difficulty": 3
+  },
+  {
+    "id": "T12-07",
+    "topicId": "T12",
+    "topic": "Hialuronskābe ādā",
+    "source": "4. nodarbība · 55. slaids + papildteorija",
+    "question": "Kāpēc āda var kļūt sausāka, mainoties HA metabolismam epidermā?",
+    "options": [
+      "Samazinās lokālais ūdens piesaistes un hidratācijas atbalsts",
+      "Samazinās dermas kolagēna tūlītēja šķelšana bez hidratācijas izmaiņām",
+      "HA izmaiņas ietekmē tikai melanīna sintēzi",
+      "HA daudzums ir nemainīgs līdz ļoti vēlīnam vecumam"
+    ],
+    "correctIndex": 0,
+    "theory": "HA piedalās epidermas un dermas hidratācijas uzturēšanā. Ar vecumu īpaši mainās epidermālās HA izvietojums un daudzums. Tas var veicināt sausumu, lai gan nozīme ir arī barjeras lipīdiem un vides faktoriem.",
+    "takeaway": "Sausumu ietekmē gan HA, gan barjera.",
+    "difficulty": 3
+  },
+  {
+    "id": "T12-08",
+    "topicId": "T12",
+    "topic": "Hialuronskābe ādā",
+    "source": "4. nodarbība · 55. slaids + papildteorija",
+    "question": "Kurš ir labākais skaidrojums, kā HA un kolagēns sadarbojas dermā?",
+    "options": [
+      "HA uztur hidratētu vidi, bet kolagēns sniedz mehānisku balstu",
+      "HA ir galvenais dermas izturības šķiedru proteīns",
+      "Kolagēns tikai piesaista ūdeni, ne nodrošina mehānisku struktūru",
+      "HA un kolagēns pēc ķīmiskās struktūras ir identiski"
+    ],
+    "correctIndex": 0,
+    "theory": "Dermas ekstracelulārajā matricā kolagēna šķiedras nodrošina izturību, bet HA palīdz uzturēt ūdens bagātu starpšūnu vidi. Abi komponenti kopā ietekmē audu īpašības. Novecošanās gadījumā mainās gan viens, gan otrs.",
+    "takeaway": "HA un kolagēnam ir atšķirīgas lomas.",
+    "difficulty": 3
+  },
+  {
+    "id": "T12-09",
+    "topicId": "T12",
+    "topic": "Hialuronskābe ādā",
+    "source": "4. nodarbība · 55. slaids + papildteorija",
+    "question": "Paciente izmanto virspusēju HA saturošu krēmu un sagaida tādu pašu apjoma efektu kā dermā injicējamai pildvielai. Kāds ir precīzākais skaidrojums?",
+    "options": [
+      "Virspusēja hidratācija un injicēta dermas pildviela darbojas atšķirīgos līmeņos",
+      "Krēms uzreiz izveido šķērssaistītu dermas depo",
+      "Uzklātā HA visos gadījumos penetrē līdz zemādai",
+      "Injekcijas vieta neietekmē HA apjoma efektu"
+    ],
+    "correctIndex": 0,
+    "theory": "Kosmētiskā HA var palīdzēt mitrināt ādas virsmu, savukārt injicējamas šķērssaistītas pildvielas fiziski aizpilda audu apjomu. Ievadīšanas ceļš un formulācija nosaka efektu. Tas izskaidro, kāpēc rezultāti nav salīdzināmi viens pret vienu.",
+    "takeaway": "Uzklāta un injicēta HA nav viens efekts.",
+    "difficulty": 3
+  },
+  {
+    "id": "T12-10",
+    "topicId": "T12",
+    "topic": "Hialuronskābe ādā",
+    "source": "4. nodarbība · 55. slaids + papildteorija",
+    "question": "Kurš faktors papildus HA izmaiņām īpaši saistīts ar ārējo jeb fotoizraisīto ādas novecošanos?",
+    "options": [
+      "Hroniska UV starojuma iedarbība",
+      "Hroniska ādas virsmas mitruma palielināšanās",
+      "Vienīgi īslaicīgs epidermas pH pazeminājums",
+      "Tikai dermas HA molekulmasas pieaugums"
+    ],
+    "correctIndex": 0,
+    "theory": "Fotoizraisītā novecošanās saistīta ar UV starojuma radītu oksidatīvo stresu un dermas matricas bojājumu. Tā ietekmē kolagēnu, elastīnu un pigmentāciju. HA izmaiņas ir tikai daļa no novecošanās mehānismiem.",
+    "takeaway": "UV paātrina ādas novecošanos.",
+    "difficulty": 3
+  },
+  {
+    "id": "T12-11",
+    "topicId": "T12",
+    "topic": "Hialuronskābe ādā",
+    "source": "4. nodarbība · 55. slaids + papildteorija",
+    "question": "Kāpēc HA molekulu lielums un ķīmiskā vide var ietekmēt to bioloģisko darbību?",
+    "options": [
+      "Tie ietekmē mijiedarbību ar šūnām un audu matricu",
+      "Molekulmasa maina tikai krāsu, ne bioloģisko mijiedarbību",
+      "Visu molekulmasu HA saistās ar receptoriem identiski",
+      "HA fragmentu izmērs nav saistīts ar signalizācijas atšķirībām"
+    ],
+    "correctIndex": 0,
+    "theory": "HA ir dažādu molekulmasu polimēri un fragmenti, kuri var atšķirīgi ietekmēt audu hidratāciju un šūnu signalizāciju. Iedarbība atkarīga no konteksta un formulācijas. Tādēļ HA nav tikai viena nemainīga molekula ar vienu funkciju.",
+    "takeaway": "HA īpašības atkarīgas arī no molekulmasas.",
+    "difficulty": 3
+  },
+  {
+    "id": "T12-12",
+    "topicId": "T12",
+    "topic": "Hialuronskābe ādā",
+    "source": "4. nodarbība · 55. slaids + papildteorija",
+    "question": "Kāda fizioloģiska funkcija palīdz izskaidrot HA klātbūtni brūču dzīšanas agrīnajā fāzē?",
+    "options": [
+      "Šūnu pārvietošanai piemērotas ekstracelulāras vides radīšana",
+      "Brūces dzīšanu nodrošina tikai kolagēna šķiedru mehāniska kontrakcija",
+      "HA darbojas vienīgi kā raga slāņa aizsargplēve",
+      "HA galvenā funkcija ir eritrocītu agregācija dzīšanas vietā"
+    ],
+    "correctIndex": 0,
+    "theory": "Dzīšanas laikā HA ir svarīga hidratēta matrica, pa kuru var migrēt šūnas. Tā piedalās arī signalizācijas regulācijā. Tomēr reģenerāciju nosaka daudzi mediatori, nevis HA viena pati.",
+    "takeaway": "HA ir daļa no dzīšanas matricas.",
+    "difficulty": 3
+  },
+  {
+    "id": "T12-13",
+    "topicId": "T12",
+    "topic": "Hialuronskābe ādā",
+    "source": "4. nodarbība · 55. slaids + papildteorija",
+    "question": "Kas ir ādas turgors, kura uzturēšanā piedalās HA?",
+    "options": [
+      "Audu spriegums un elastīgā pretestība deformācijai",
+      "Raga slāņa melanīna daudzums",
+      "Epidermas keratinizācijas ātrums",
+      "Ādas atbildes reakcija tikai uz UV"
+    ],
+    "correctIndex": 0,
+    "theory": "Turgors raksturo audu mehānisko sasprindzinājumu un reakciju uz deformāciju. Ūdens piesaiste ekstracelulārajā matricā palīdz uzturēt šo īpašību. HA tādēļ ietekmē ādas pilnīgumu un elastības sajūtu.",
+    "takeaway": "Turgors saistīts ar audu hidratāciju.",
+    "difficulty": 3
+  },
+  {
+    "id": "T12-14",
+    "topicId": "T12",
+    "topic": "Hialuronskābe ādā",
+    "source": "4. nodarbība · 55. slaids + papildteorija",
+    "question": "Pacientam ar dehidratētu ādu paredzēts uzlabot mitruma līmeni. Kāpēc HA ir funkcionāli atšķirīga no ādas virsmas lipīdiem?",
+    "options": [
+      "HA piesaista ūdeni, bet lipīdi vairāk ierobežo ūdens iztvaikošanu",
+      "HA un lipīdi abi tikai kavē ūdens iztvaikošanu",
+      "HA galvenokārt veido necaurlaidīgu epidermas lipīdu slāni",
+      "Lipīdu barjera galvenokārt piesaista ūdeni dermas matricā"
+    ],
+    "correctIndex": 0,
+    "theory": "HA ir humektants matricas komponents, kas palīdz saistīt ūdeni. Raga slāņa lipīdi veido barjeru, kas samazina ūdens zudumu. Labai hidratācijai svarīga gan ūdens piesaiste, gan tā saglabāšana.",
+    "takeaway": "HA piesaista, lipīdi palīdz noturēt ūdeni.",
+    "difficulty": 3
+  },
+  {
+    "id": "T12-15",
+    "topicId": "T12",
+    "topic": "Hialuronskābe ādā",
+    "source": "4. nodarbība · 55. slaids + papildteorija",
+    "question": "Kāpēc grumbu korekcijā jāatšķir HA fizioloģiskā funkcija no injicējamas HA pildvielas mehāniskā efekta?",
+    "options": [
+      "Fizioloģiska HA regulē audu vidi, bet pildviela var fiziski aizpildīt apjomu",
+      "Pildviela vienmēr pilnībā atjauno dabisko HA sintēzi",
+      "Dabiskā HA nodrošina tikai mehānisku tilpumu, ne šūnu vidi",
+      "Injekcijas HA efektu nosaka tikai iekšējā HA daudzums"
+    ],
+    "correctIndex": 0,
+    "theory": "Dabiskā HA uztur hidratāciju un šūnu vidi, savukārt injicēts šķērssaistīts HA gēls var dot papildus mehānisku apjomu. Ievadīšanas vieta, preparāts un anatomija ietekmē iznākumu. Abi procesi nav pilnīgi ekvivalenti.",
+    "takeaway": "Dabiskā HA un pildviela nav viens jēdziens.",
+    "difficulty": 3
+  },
+  {
+    "id": "T13-01",
+    "topicId": "T13",
+    "topic": "HA pildvielas un hialuronidāze",
+    "source": "4. nodarbība · 55.–56. slaids + papildteorija",
+    "question": "Divi HA preparāti atšķiras pēc šķērssaistīšanas pakāpes. Kura īpašība parasti palielinās, pieaugot šķērssaistēm?",
+    "options": [
+      "Gēla noturība pret noārdīšanos",
+      "Paātrināta enzīmiska noārdīšanās",
+      "Samazināta mehāniskā noturība audos",
+      "Pilnīga nespēja veidot viskozu gēlu"
+    ],
+    "correctIndex": 0,
+    "theory": "Šķērssaistes stabilizē HA gēla struktūru, tādēļ preparāts parasti noārdās lēnāk nekā nesaistīta HA. Tas ir viens no iemesliem, kāpēc pildvielas saglabā apjomu mēnešus. Noturību ietekmē arī formulācija un injekcijas vieta.",
+    "takeaway": "Šķērssaistes palielina HA stabilitāti.",
+    "difficulty": 2
+  },
+  {
+    "id": "T13-02",
+    "topicId": "T13",
+    "topic": "HA pildvielas un hialuronidāze",
+    "source": "4. nodarbība · 55.–56. slaids + papildteorija",
+    "question": "Kādēļ formulējums “daļēji saistīta HA” jāinterpretē piesardzīgi?",
+    "options": [
+      "Tas nav vienoti standartizēts preparātu klasifikācijas termins",
+      "Tas vienmēr apzīmē tieši pusi no ķīmiskajām šķērssaitēm",
+      "Tas nozīmē tikai atšķaidītu, bet pilnībā nesaistītu HA",
+      "Tas garantē identisku struktūru visiem preparātiem"
+    ],
+    "correctIndex": 0,
+    "theory": "HA produktu terminoloģija un ķīmiskā struktūra var atšķirties starp ražotājiem. “Daļēji saistīta” neapzīmē vienu precīzu universālu šķērssaišu procentu. Jāvērtē konkrētā preparāta dati un paredzētais pielietojums.",
+    "takeaway": "Preparāta etiķete neaizstāj tehnisko specifikāciju.",
+    "difficulty": 2
+  },
+  {
+    "id": "T13-03",
+    "topicId": "T13",
+    "topic": "HA pildvielas un hialuronidāze",
+    "source": "4. nodarbība · 55.–56. slaids + papildteorija",
+    "question": "Pacientam pēc HA pildvielas ievades ir zilgana nokrāsa tieši zem plānas ādas. Kurš fenomens var to izskaidrot?",
+    "options": [
+      "Tindala efekts virspusēji ievietotai pildvielai",
+      "Virspusēja venozā sastrēguma izraisīta eritēma",
+      "Pēciekaisuma hiperpigmentācija",
+      "Hialuronskābes lokāla granulomatoza reakcija"
+    ],
+    "correctIndex": 0,
+    "theory": "Virspusēji ievietota HA pildviela var radīt zilganu optisku nokrāsu jeb Tindala efektu. Tas atšķiras no hematomas vai infekcijas, kurām ir citi mehānismi. Terapijas izvēle atkarīga no diagnozes un pildvielas.",
+    "takeaway": "Pārāk virspusēja HA var radīt zilganu toni.",
+    "difficulty": 2
+  },
+  {
+    "id": "T13-04",
+    "topicId": "T13",
+    "topic": "HA pildvielas un hialuronidāze",
+    "source": "4. nodarbība · 55.–56. slaids + papildteorija",
+    "question": "Kura komplikācija pēc HA injekcijas prasa steidzamu rīcību audu saglabāšanai?",
+    "options": [
+      "Aizdomas par asinsvada oklūziju",
+      "Pārejoša lokāla reakcija bez išēmijas pazīmēm",
+      "Neliels hematomas veidojums bez sāpju pieauguma",
+      "Lēni attīstošs estētisks apjoma zudums"
+    ],
+    "correctIndex": 0,
+    "theory": "Asinsvada oklūzija var izraisīt išēmiju un audu nekrozi. Agrīnas pazīmes var būt neparasti stipras sāpes, ādas bālums un perfūzijas izmaiņas. Nepieciešama tūlītēja medicīniska rīcība, un HA gadījumā nozīmīga var būt hialuronidāze.",
+    "takeaway": "Išēmija pēc fillera ir neatliekama komplikācija.",
+    "difficulty": 2
+  },
+  {
+    "id": "T13-05",
+    "topicId": "T13",
+    "topic": "HA pildvielas un hialuronidāze",
+    "source": "4. nodarbība · 55.–56. slaids + papildteorija",
+    "question": "Kāpēc pēkšņi redzes traucējumi HA pildvielas injekcijas laikā ir īpaši bīstami?",
+    "options": [
+      "Iespējama arteriāla embolizācija, kas apdraud redzi",
+      "Pārejoša mīmikas muskuļa relaksācija",
+      "Preparāta migrācija tikai virspusējā dermā",
+      "Lokāla tūskas reakcija bez asinsvadu iesaistes"
+    ],
+    "correctIndex": 0,
+    "theory": "HA pildvielas retā, bet smagā komplikācija ir asinsvada nosprostojums ar iespējamu redzes zudumu. Redzes izmaiņas prasa nekavējoties pārtraukt procedūru un nodrošināt neatliekamu specializētu palīdzību. Hialuronidāze šādos gadījumos negarantē redzes atjaunošanos.",
+    "takeaway": "Pēkšņas redzes izmaiņas ir neatliekama situācija.",
+    "difficulty": 2
+  },
+  {
+    "id": "T13-06",
+    "topicId": "T13",
+    "topic": "HA pildvielas un hialuronidāze",
+    "source": "4. nodarbība · 55.–56. slaids + papildteorija",
+    "question": "Kāpēc hialuronidāze var palīdzēt novērst nevēlamu HA pildvielas apjomu?",
+    "options": [
+      "Tā fermentatīvi šķeļ hialuronskābes ķēdes",
+      "Tā pastiprina organisma HA sintēzi, līdz pazūd pildviela",
+      "Tā mehāniski pārvieto pildvielu uz dziļākiem audiem",
+      "Tā selektīvi šķeļ tikai kolagēnu ap pildvielu"
+    ],
+    "correctIndex": 0,
+    "theory": "Hialuronidāze ir enzīms, kas šķeļ HA un palīdz organismam to noārdīt. To izmanto izvēlētām pildvielas korekcijām un HA komplikāciju ārstēšanā. Tā nav universāls līdzeklis visu veidu pildvielu šķīdināšanai.",
+    "takeaway": "Hialuronidāze specifiski šķeļ HA.",
+    "difficulty": 3
+  },
+  {
+    "id": "T13-07",
+    "topicId": "T13",
+    "topic": "HA pildvielas un hialuronidāze",
+    "source": "4. nodarbība · 55.–56. slaids + papildteorija",
+    "question": "Pacientam ir aizkavēts, jutīgs mezgliņš vairākas nedēļas pēc HA pildvielas. Kura pieeja ir korekta?",
+    "options": [
+      "Diferencēt iekaisuma reakciju, infekciju un preparāta mezgliņu pirms ārstēšanas",
+      "Visus aizkavētos mezglus ārstēt tikai ar hialuronidāzi",
+      "Nogaidīt bez izvērtēšanas, ja ir apsārtums un sāpes",
+      "Vienmēr veikt papildu injekciju, lai izlīdzinātu reljefu"
+    ],
+    "correctIndex": 0,
+    "theory": "Aizkavēti mezgliņi var būt saistīti ar preparātu, imūnreakciju vai infekciju. Ārstēšana atkarīga no iemesla, tādēļ nepieciešama klīniska izvērtēšana. Hialuronidāzes lietošanas nepieciešamība nav vienāda visos gadījumos.",
+    "takeaway": "Aizkavētu mezgliņu cēloņi ir dažādi.",
+    "difficulty": 3
+  },
+  {
+    "id": "T13-08",
+    "topicId": "T13",
+    "topic": "HA pildvielas un hialuronidāze",
+    "source": "4. nodarbība · 55.–56. slaids + papildteorija",
+    "question": "Kā parasti atšķiras nesaistītas HA uzturēšanās audos no šķērssaistīta gēla?",
+    "options": [
+      "Nesaistītā HA tiek noārdīta ātrāk",
+      "Nesaistīta HA parasti saglabā apjomu ilgāk nekā gēls",
+      "Abas formas vienmēr noārdās identiskā ātrumā",
+      "Šķērssaistītā HA vienmēr noārdās uzreiz pēc injekcijas"
+    ],
+    "correctIndex": 0,
+    "theory": "Nesaistītu HA fermenti un vielmaiņas procesi parasti sadala ātrāk nekā stabilizētu gēlu. Šķērssaistītās pildvielas veido apjomu ilgāk, bet klīniskā noturība mainās pēc produkta un anatomijas. Injekciju kurss var dot ilgāku redzamu efektu nekā pašas brīvās HA klātbūtne.",
+    "takeaway": "Nesaistītā HA pati audos ir īslaicīgāka.",
+    "difficulty": 3
+  },
+  {
+    "id": "T13-09",
+    "topicId": "T13",
+    "topic": "HA pildvielas un hialuronidāze",
+    "source": "4. nodarbība · 55.–56. slaids + papildteorija",
+    "question": "Kāpēc viena un tā paša HA preparāta klīniskās noturības ilgums var atšķirties lūpās un citā sejas zonā?",
+    "options": [
+      "Atšķiras audu kustīgums, anatomija un vietējā vielmaiņa",
+      "Noturību nosaka tikai ķīmiskās šķērssaistes, ne audi",
+      "Visās zonās vienādi ir pildvielas sadalīšanās enzīmi un mehāniskā slodze",
+      "Noturību nosaka vienīgi ievadīšanas adatas diametrs"
+    ],
+    "correctIndex": 0,
+    "theory": "HA noārdīšanos un redzamo efektu ietekmē ievadīšanas dziļums, vieta, audu kustīgums un individuālie faktori. Tāpēc vienam preparātam nav vienas precīzas noturības visiem pacientiem un zonām. Reklāmas diapazoni ir orientējoši.",
+    "takeaway": "Noturību nosaka arī anatomija.",
+    "difficulty": 3
+  },
+  {
+    "id": "T13-10",
+    "topicId": "T13",
+    "topic": "HA pildvielas un hialuronidāze",
+    "source": "4. nodarbība · 55.–56. slaids + papildteorija",
+    "question": "Kura blakusparādība var rasties pēc jebkuras injicējamas HA formas, pat ja preparāts nav šķērssaistīts?",
+    "options": [
+      "Infekcija injekcijas vietā",
+      "Tikai vēlīnās granulomas pēc šķērssaistītas HA",
+      "Tikai asinsvada oklūzija saistītām pildvielām",
+      "Vienīgi preparāta migrācija pēc lūpu apjoma korekcijas"
+    ],
+    "correctIndex": 0,
+    "theory": "Injekcija pārtrauc ādas barjeru un tādēļ rada infekcijas risku neatkarīgi no HA šķērssaistēm. Iespējami arī zilumi, tūska un iekaisuma reakcijas. Aseptika ir būtiska.",
+    "takeaway": "Infekcijas risks saistīts arī ar pašu injekciju.",
+    "difficulty": 3
+  },
+  {
+    "id": "T13-11",
+    "topicId": "T13",
+    "topic": "HA pildvielas un hialuronidāze",
+    "source": "4. nodarbība · 55.–56. slaids + papildteorija",
+    "question": "Kāpēc hialuronidāze nav automātisks risinājums jebkuram mezgliņam pēc fillera?",
+    "options": [
+      "Mezglam var būt infekciozs vai cits cēlonis, kam vajadzīga atšķirīga ārstēšana",
+      "Hialuronidāze izšķīdina jebkuru iekaisuma mezgliņu neatkarīgi no sastāva",
+      "Tā vispirms aizstāj jebkuras infekcijas ārstēšanu",
+      "Tā darbojas vienādi uz HA, silikonu un kalcija hidroksiapatītu"
+    ],
+    "correctIndex": 0,
+    "theory": "Hialuronidāze noārda hialuronskābi, taču mezgliņu cēloņi var atšķirties. Infekcija, granulomatoza reakcija vai ne-HA pildviela prasa atbilstošu diagnostiku un ārstēšanu. Nevajag sajaukt preparāta šķīdināšanu ar visa iekaisuma cēloņa novēršanu.",
+    "takeaway": "Vispirms jānoskaidro mezgliņa iemesls.",
+    "difficulty": 3
+  },
+  {
+    "id": "T13-12",
+    "topicId": "T13",
+    "topic": "HA pildvielas un hialuronidāze",
+    "source": "4. nodarbība · 55.–56. slaids + papildteorija",
+    "question": "Ko vajadzētu izvērtēt pirms hialuronidāzes lietošanas, pat ja mērķis ir vienkārša estētiska korekcija?",
+    "options": [
+      "Iespējamas paaugstinātas jutības reakcijas un konkrētā preparāta norādes",
+      "Tikai plānotā estētiskā apjoma samazinājuma procentu",
+      "Tikai ādas fototipu, ne alerģijas anamnēzi",
+      "Preparātu var lietot bez klīniskas izvērtēšanas, jo tas ir enzīms"
+    ],
+    "correctIndex": 0,
+    "theory": "Hialuronidāze pati ir zāļu preparāts ar iespējamu alerģisku reakciju risku. Lietošana jāveic atbilstoši medicīniskajām indikācijām un preparāta norādēm. Īpaši neatliekamās situācijās vienlaikus nepieciešama strukturēta komplikāciju ārstēšana.",
+    "takeaway": "Hialuronidāzei arī ir riski.",
+    "difficulty": 3
+  },
+  {
+    "id": "T13-13",
+    "topicId": "T13",
+    "topic": "HA pildvielas un hialuronidāze",
+    "source": "4. nodarbība · 55.–56. slaids + papildteorija",
+    "question": "Kāpēc šķērssaistīta HA vairāk piemērota audu apjoma korekcijai nekā vienkārša nesaistīta HA?",
+    "options": [
+      "Stabilāks gēls ilgāk uztur mehānisku struktūru",
+      "Nesaistīta HA veido vienlīdz noturīgu mehānisku depo",
+      "Šķērssaistes nodrošina tikai ātrāku vielas uzsūkšanos",
+      "Šķērssaistīšana iznīcina gēla spēju uzturēt formu"
+    ],
+    "correctIndex": 0,
+    "theory": "Šķērssaistīta HA veido noturīgāku gēlu, kas spēj mehāniski papildināt apjomu. Nesaistītā HA parasti piemērotāka mitrināšanas un ādas kvalitātes mērķiem. Preparāta izvēle jāpielāgo anatomijai.",
+    "takeaway": "Apjoma korekcijai vajadzīga gēla stabilitāte.",
+    "difficulty": 3
+  },
+  {
+    "id": "T13-14",
+    "topicId": "T13",
+    "topic": "HA pildvielas un hialuronidāze",
+    "source": "4. nodarbība · 55.–56. slaids + papildteorija",
+    "question": "Pacientam pēc HA pildvielas rodas nevienmērīga sejas kontūra, bet nav išēmijas pazīmju. Kāds iespējamais izskaidrojums ir jāizvērtē?",
+    "options": [
+      "Asimetrija vai nevienmērīgs preparāta izvietojums",
+      "Tūlītēja arteriāla oklūzija bez citām pazīmēm",
+      "Pilnīgi paredzams rezultāts neatkarīgi no preparāta izkliedes",
+      "Vienmērīga audu atrofija kā obligāts HA efekts"
+    ],
+    "correctIndex": 0,
+    "theory": "Asimetrija var būt saistīta ar injicēšanas tehniku, audu tūsku vai preparāta izvietojumu. Jāatšķir pārejoša pēcprocedūras tūska no paliekoša nevēlama apjoma. Atbilstoši izvērtētai HA pildvielai var apsvērt korekciju.",
+    "takeaway": "Ne katra fillera komplikācija ir oklūzija.",
+    "difficulty": 3
+  },
+  {
+    "id": "T13-15",
+    "topicId": "T13",
+    "topic": "HA pildvielas un hialuronidāze",
+    "source": "4. nodarbība · 55.–56. slaids + papildteorija",
+    "question": "Kāpēc HA asinsvadu oklūzijas gadījumā hialuronidāzes nozīme ir atšķirīga no tās estētiskas pārmērīga apjoma korekcijas?",
+    "options": [
+      "Oklūzijā mērķis ir steidzami mazināt išēmiju un audu bojājumu",
+      "Estētiskas pārmērīga apjoma korekcijas steidzamība parasti ir lielāka",
+      "Oklūzijas gadījumā hialuronidāzei nav nozīmes",
+      "Išēmijas ārstēšanu drīkst atlikt, līdz samazinās tūska"
+    ],
+    "correctIndex": 0,
+    "theory": "HA oklūzijas gadījumā laiks ir kritisks audu perfūzijai, un nepieciešama neatliekama ārstēšana. Estētiskā nevēlama apjoma korekcija parasti nav tik steidzama. Abos gadījumos jāzina preparāta īpašības un medicīniskās kontrindikācijas.",
+    "takeaway": "Oklūzija ir neatliekama situācija.",
+    "difficulty": 3
+  },
+  {
+    "id": "T14-01",
+    "topicId": "T14",
+    "topic": "Polinukleotīdi · PN/PDRN",
+    "source": "4. nodarbība · 50.–52. slaids",
+    "question": "Kā visprecīzāk raksturot PDRN salīdzinājumā ar vispārīgu PN preparātu?",
+    "options": [
+      "PDRN parasti satur salīdzinoši īsākus DNS fragmentus",
+      "PDRN ir ķīmiski šķērssaistīta HA gēls",
+      "PDRN ir visu nukleīnskābju bezizņēmuma sinonīms",
+      "PDRN ir proteīnu un lipīdu saturošas vezikulas"
+    ],
+    "correctIndex": 0,
+    "theory": "PN un PDRN attiecas uz nukleīnskābju fragmentu preparātiem. Lekcijā PDRN raksturoti kā salīdzinoši mazmolekulāri DNS analogi. Preparātu precīzs sastāvs un molekulmasas var atšķirties.",
+    "takeaway": "PDRN nav eksosomas.",
+    "difficulty": 2
+  },
+  {
+    "id": "T14-02",
+    "topicId": "T14",
+    "topic": "Polinukleotīdi · PN/PDRN",
+    "source": "4. nodarbība · 50.–52. slaids",
+    "question": "Kāds PDRN iespējamais pretiekaisuma signālceļš ir īpaši aprakstīts literatūrā?",
+    "options": [
+      "Adenozīna A2A receptoru signalizācija",
+      "Adenozīna A1 receptoru neatgriezeniska inhibēšana",
+      "Adenozīna A2B receptoru specifiska proteolīze",
+      "Purīna sintēzes nomākšana, neatkarīgi no adenozīna receptoriem"
+    ],
+    "correctIndex": 0,
+    "theory": "PDRN iespējamā pretiekaisuma iedarbība tiek saistīta ar adenozīna A2A receptoru aktivāciju. Tas ir bioloģiskas signalizācijas mehānisms, nevis fizikāla ādas destrukcija. Klīniskie efekti atkarīgi no preparāta un indikācijas.",
+    "takeaway": "PDRN saista ar A2A signālceļu.",
+    "difficulty": 2
+  },
+  {
+    "id": "T14-03",
+    "topicId": "T14",
+    "topic": "Polinukleotīdi · PN/PDRN",
+    "source": "4. nodarbība · 50.–52. slaids",
+    "question": "Kādēļ PDRN tiek pētīti brūču dzīšanas kontekstā?",
+    "options": [
+      "Tie var atbalstīt nukleotīdu pieejamību un reģenerācijas signalizāciju",
+      "Tie primāri tieši aizvieto pilnvērtīgas dzīvas šūnas",
+      "Tie nodrošina fibroblastu mehānisku iešūšanu audos",
+      "Tie ir ķīmiski identiski saistītai HA pildvielai"
+    ],
+    "correctIndex": 0,
+    "theory": "PDRN iespējama iedarbība saistīta gan ar nukleotīdu pārstrādes ceļu, gan A2A receptoru signalizāciju. Šie procesi var atbalstīt šūnu atjaunošanos un iekaisuma regulāciju. Tomēr tas neaizstāj standarta brūču ārstēšanas principus.",
+    "takeaway": "PDRN pēta kā reģenerācijas papildinājumu.",
+    "difficulty": 2
+  },
+  {
+    "id": "T14-04",
+    "topicId": "T14",
+    "topic": "Polinukleotīdi · PN/PDRN",
+    "source": "4. nodarbība · 50.–52. slaids",
+    "question": "Eksperimentā ar PDRN novēro fibroblastu proliferācijas pieaugumu. Kuras struktūras pārmaiņas tas potenciāli var ietekmēt?",
+    "options": [
+      "Dermas ekstracelulārās matricas remodelāciju",
+      "Epidermas melanocītu sintēzes pastiprināšanu",
+      "Keratinocītu eksfoliāciju bez dermas remodelācijas",
+      "Endotēlija koagulāciju ar termisku iedarbību"
+    ],
+    "correctIndex": 0,
+    "theory": "Fibroblasti ir dermas šūnas, kas piedalās kolagēna un citas ekstracelulārās matricas veidošanā. Ja PDRN ietekmē to aktivitāti, iespējama dermas struktūras remodelācija. No šāda mehānisma vien vēl nevar garantēt klīnisku rezultātu.",
+    "takeaway": "Fibroblasti saistīti ar dermas matricu.",
+    "difficulty": 2
+  },
+  {
+    "id": "T14-05",
+    "topicId": "T14",
+    "topic": "Polinukleotīdi · PN/PDRN",
+    "source": "4. nodarbība · 50.–52. slaids",
+    "question": "Kāds faktors apzīmēts ar VEGF PDRN iespējamās darbības kontekstā?",
+    "options": [
+      "Asinsvadu endotēlija augšanas faktors",
+      "Fibroblastu augšanas faktors",
+      "Vaskulārās permeabilitātes inhibitors",
+      "Epidermas diferenciācijas transkripcijas faktors"
+    ],
+    "correctIndex": 0,
+    "theory": "VEGF ir asinsvadu endotēlija augšanas faktors, kas piedalās angiogēnās signalizācijas regulēšanā. PDRN pētījumos aplūkota iespējama VEGF aktivitātes ietekmēšana. Šāda bioloģiska iedarbība nav automātiska garantija labākam estētiskam efektam.",
+    "takeaway": "VEGF saistīts ar asinsvadiem.",
+    "difficulty": 2
+  },
+  {
+    "id": "T14-06",
+    "topicId": "T14",
+    "topic": "Polinukleotīdi · PN/PDRN",
+    "source": "4. nodarbība · 50.–52. slaids",
+    "question": "Pacientam reklamē PN preparātu kā līdzekli, kas “garantēti” izdzēsīs visas rētas. Kā šāds solījums jāvērtē?",
+    "options": [
+      "Klīniskie pierādījumi nav pietiekami universālai garantijai",
+      "Rētu dziļums nav saistīts ar izvēlēto preparātu",
+      "A2A aktivācija pierāda absolūtu efektu jebkura veida rētai",
+      "Īslaicīgs laboratorijas efekts garantē noturīgu klīnisku atbildi"
+    ],
+    "correctIndex": 0,
+    "theory": "PN/PDRN tiek pētīti rētu un ādas kvalitātes uzlabošanai, bet pierādījumu līmenis atšķiras starp indikācijām. Rētu morfoloģija un ārstēšanas kombinācijas ir svarīgas. Bioloģiski ticams mehānisms nenozīmē garantētu klīnisku rezultātu.",
+    "takeaway": "Mehānisms nav rezultāta garantija.",
+    "difficulty": 3
+  },
+  {
+    "id": "T14-07",
+    "topicId": "T14",
+    "topic": "Polinukleotīdi · PN/PDRN",
+    "source": "4. nodarbība · 50.–52. slaids",
+    "question": "Kāpēc PN nevar vienkārši uzskatīt par hialuronskābes pildvielu?",
+    "options": [
+      "PN ir nukleīnskābju ķēdes, bet HA ir glikozaminoglikāns",
+      "PN un HA ir dažāda molekulmasa, bet vienāds ķīmiskais skelets",
+      "PN ir glikozaminoglikāns ar nukleotīdu sānu ķēdēm",
+      "HA ir DNS fragments ar šķērssaistēm"
+    ],
+    "correctIndex": 0,
+    "theory": "PN sastāv no nukleotīdu vienībām, savukārt HA ir no cukuru vienībām veidots glikozaminoglikāns. Tām atšķiras ķīmiskā struktūra un iespējamie darbības mehānismi. Preparātu indikācijas nedrīkst pielīdzināt tikai pēc injicēšanas fakta.",
+    "takeaway": "PN un HA ķīmiski nav viens un tas pats.",
+    "difficulty": 3
+  },
+  {
+    "id": "T14-08",
+    "topicId": "T14",
+    "topic": "Polinukleotīdi · PN/PDRN",
+    "source": "4. nodarbība · 50.–52. slaids",
+    "question": "Kāda ir purīnu glābšanas jeb salvage pathway teorētiskā nozīme PDRN gadījumā?",
+    "options": [
+      "Šūnas var atkārtoti izmantot nukleotīdu sastāvdaļas",
+      "Šūnas tikai sintezē jaunu DNS no nulles bez atkārtotas izmantošanas",
+      "Salvage ceļš ir tikai A2A receptoru bloķēšana",
+      "Salvage ceļš galvenokārt noārda ekstracelulāro kolagēnu"
+    ],
+    "correctIndex": 0,
+    "theory": "Nukleotīdu pārstrādes ceļš ļauj izmantot jau esošas nukleotīdu sastāvdaļas jaunu nukleīnskābju sintēzei. Šis mehānisms tiek minēts kā viens no iespējamiem PDRN reģeneratīvās iedarbības skaidrojumiem. Tā klīniskā nozīme joprojām tiek pētīta.",
+    "takeaway": "Salvage pathway taupa nukleotīdu resursus.",
+    "difficulty": 3
+  },
+  {
+    "id": "T14-09",
+    "topicId": "T14",
+    "topic": "Polinukleotīdi · PN/PDRN",
+    "source": "4. nodarbība · 50.–52. slaids",
+    "question": "Kāpēc A2A receptoru aktivizācija un fibroblastu proliferācija nav viens un tas pats mehānisms?",
+    "options": [
+      "Pirmais ir receptoru signalizācija, otrais — šūnu skaita pieaugums",
+      "A2A aktivizācija ir tas pats, kas mitotiska dalīšanās",
+      "Fibroblastu proliferācija ir tikai membrānas receptoru fosforilācija",
+      "Abi procesi nozīmē tikai proteīnu koagulāciju"
+    ],
+    "correctIndex": 0,
+    "theory": "A2A receptoru aktivācija attiecas uz signālu pārvadi šūnās, kas var regulēt iekaisumu. Fibroblastu proliferācija nozīmē šūnu vairošanos, kas var būt kādas signalizācijas sekas. Mehānismi var būt saistīti, bet tie nav sinonīmi.",
+    "takeaway": "Signālceļš un proliferācija ir dažādi līmeņi.",
+    "difficulty": 3
+  },
+  {
+    "id": "T14-10",
+    "topicId": "T14",
+    "topic": "Polinukleotīdi · PN/PDRN",
+    "source": "4. nodarbība · 50.–52. slaids",
+    "question": "Ko nozīmē termins “fibroblastu proliferācija” PN/PDRN literatūrā?",
+    "options": [
+      "Fibroblastu skaita pieaugumu šūnu dalīšanās rezultātā",
+      "Fibroblastu aktivitātes samazināšanos bez šūnu dalīšanās",
+      "Tikai ekstracelulārās matricas ūdens piesaisti",
+      "Fibroblastu migrāciju bez šūnu skaita palielināšanās"
+    ],
+    "correctIndex": 0,
+    "theory": "Proliferācija ir šūnu vairošanās process. Fibroblasti ražo ekstracelulārās matricas komponentus, tāpēc to aktivitāte var ietekmēt audu remodelāciju. Tomēr pārāk daudz vai nepareizi organizēta matrica var būt saistīta arī ar rētām.",
+    "takeaway": "Proliferācija nozīmē šūnu vairošanos.",
+    "difficulty": 3
+  },
+  {
+    "id": "T14-11",
+    "topicId": "T14",
+    "topic": "Polinukleotīdi · PN/PDRN",
+    "source": "4. nodarbība · 50.–52. slaids",
+    "question": "Kādēļ PN/PDRN preparātu darbības raksturojumā izmanto vārdu “iespējams”?",
+    "options": [
+      "Daļa mehānismu izriet no eksperimentāliem datiem, bet klīniskie pierādījumi var būt ierobežoti",
+      "Eksperimentāls receptors automātiski pierāda klīnisku efektu",
+      "Visām estētiskām indikācijām ir vienāda pētījumu kvalitāte",
+      "Reģenerācijas signālceļi vienmēr precīzi nosaka individuālu rezultātu"
+    ],
+    "correctIndex": 0,
+    "theory": "PN/PDRN bioloģiskie mehānismi ir interesanti, taču ne katrs eksperimentā novērots efekts ir reproducēts lielos klīniskos pētījumos. Indikācija, produkts un pētījuma kvalitāte ietekmē secinājumus. Tāpēc jānošķir hipotēze no pierādīta klīniska ieguvuma.",
+    "takeaway": "Preklīnisks mehānisms nav klīniska garantija.",
+    "difficulty": 3
+  },
+  {
+    "id": "T14-12",
+    "topicId": "T14",
+    "topic": "Polinukleotīdi · PN/PDRN",
+    "source": "4. nodarbība · 50.–52. slaids",
+    "question": "Kuru audu procesu PN/PDRN potenciāli var ietekmēt, ja mainās VEGF signalizācija?",
+    "options": [
+      "Jaunu asinsvadu veidošanos dzīšanas procesā",
+      "Keratinocītu melanīna sintēzi",
+      "Epidermas raga slāņa keratīna saistību noārdīšanu",
+      "Muskuļa acetilholīna receptoru blīvuma palielināšanos"
+    ],
+    "correctIndex": 0,
+    "theory": "VEGF ir svarīgs angiogēnās signalizācijas regulators. Pieaugusi aktivitāte noteiktā situācijā var veicināt jaunu asinsvadu veidošanos audu dzīšanas laikā. Tomēr iedarbības virziens un klīniskā nozīme jāvērtē konkrētā pētījumā.",
+    "takeaway": "VEGF regulē angioģenēzi.",
+    "difficulty": 3
+  },
+  {
+    "id": "T14-13",
+    "topicId": "T14",
+    "topic": "Polinukleotīdi · PN/PDRN",
+    "source": "4. nodarbība · 50.–52. slaids",
+    "question": "PN preparāts tiek prezentēts kā “dzīvas cilmes šūnas”. Kāds ir konceptuāls labojums?",
+    "options": [
+      "PN ir nukleotīdu ķēdes, nevis dzīvas šūnas",
+      "PN vienmēr satur veselas, dalīties spējīgas cilmes šūnas",
+      "PN ir cilmes šūnu izdalītas membrānas vezikulas",
+      "PN darbojas tikai transplantējot jaunu šūnu kodolu"
+    ],
+    "correctIndex": 0,
+    "theory": "Polinukleotīdi ir nukleīnskābju molekulas vai fragmenti. Tie paši nav dzīvas šūnas un nenodrošina cilmes šūnu transplantāciju. Reklāmas terminoloģijā svarīgi atšķirt bioloģisku vielu no šūnu terapijas.",
+    "takeaway": "PN nav dzīvas šūnas.",
+    "difficulty": 3
+  },
+  {
+    "id": "T14-14",
+    "topicId": "T14",
+    "topic": "Polinukleotīdi · PN/PDRN",
+    "source": "4. nodarbība · 50.–52. slaids",
+    "question": "Kādas ir iespējamās sekas, ja PN/PDRN preparāts ietekmē iekaisuma signalizāciju?",
+    "options": [
+      "Var mainīties lokālā iekaisuma atbilde un dzīšanas vide",
+      "Iekaisuma signalizācija vienmēr tiek pilnībā bloķēta",
+      "Tiek nodrošināta sterila brūces dzīšana bez mikrobioma izmaiņām",
+      "Jebkura iekaisuma mediatoru samazināšanās garantē pilnīgu rētu izzušanu"
+    ],
+    "correctIndex": 0,
+    "theory": "A2A receptoru signalizācija var regulēt iekaisuma mediatoru darbību. Tas potenciāli maina vidi, kurā notiek audu atjaunošanās. Klīniski rezultāti tomēr atšķiras un nav garantēti.",
+    "takeaway": "Iekaisuma regulācija var ietekmēt dzīšanu.",
+    "difficulty": 3
+  },
+  {
+    "id": "T14-15",
+    "topicId": "T14",
+    "topic": "Polinukleotīdi · PN/PDRN",
+    "source": "4. nodarbība · 50.–52. slaids",
+    "question": "Kāpēc nav korekti tieši pielīdzināt PDRN estētisko efektu visiem PN produktiem?",
+    "options": [
+      "Produkti atšķiras pēc DNS fragmentu izmēra, sastāva un klīniskās izpētes",
+      "Fragmentu izmērs un formulācija neietekmē iedarbību",
+      "Visiem preparātiem ir identiski klīniskie dati",
+      "Jebkurš PDRN pierādījums tieši attiecas uz visiem PN produktiem"
+    ],
+    "correctIndex": 0,
+    "theory": "PN/PDRN preparātu sastāvs un fizikāli ķīmiskās īpašības var atšķirties. Atšķirīgas formulas var izraisīt dažādu bioloģisko atbildi un klīnisko efektu. Tādēļ jāvērtē konkrēta produkta pierādījumi.",
+    "takeaway": "Preparātu nosaukumi negarantē vienādu efektu.",
+    "difficulty": 3
+  },
+  {
+    "id": "T15-01",
+    "topicId": "T15",
+    "topic": "Eksosomas",
+    "source": "4. nodarbība · 53.–54. slaids",
+    "question": "Ko eksosomu bioloģijā nozīmē endosomāla izcelsme?",
+    "options": [
+      "Tās veidojas šūnas endosomālajā ceļā un tiek izdalītas ārpus šūnas",
+      "Tās veidojas ar tiešu plazmatiskās membrānas ārēju pumpurošanos",
+      "Tās rodas apoptotisko šūnu fragmentēšanās laikā",
+      "Tās ir tikai šķīstoši proteīnu agregāti bez membrānas"
+    ],
+    "correctIndex": 0,
+    "theory": "Eksosomas ir ārpusšūnu vezikulu apakštips ar endosomālu izcelsmi. Tās tiek izdalītas un var piedalīties informācijas pārnesē starp šūnām. Lai eksperimentāli apstiprinātu precīzu eksosomu izcelsmi, nepieciešama atbilstoša raksturošana.",
+    "takeaway": "Eksosomas ir membrānas vezikulas ar noteiktu izcelsmi.",
+    "difficulty": 2
+  },
+  {
+    "id": "T15-02",
+    "topicId": "T15",
+    "topic": "Eksosomas",
+    "source": "4. nodarbība · 53.–54. slaids",
+    "question": "Kura eksosomu sastāvdaļu kombinācija vislabāk atbilst to transporta lomai?",
+    "options": [
+      "Proteīni, lipīdi un nukleīnskābes",
+      "Lipīdi un proteīni, bet bez nukleīnskābēm",
+      "Tikai veselas DNS hromosomas bez membrānas",
+      "Tikai brīvi nukleotīdi bez proteīniem"
+    ],
+    "correctIndex": 0,
+    "theory": "Eksosomas var nest proteīnus, lipīdus un nukleīnskābes, tostarp dažāda veida RNS. Šīs kravas var ietekmēt saņēmējšūnu signālceļus. Sastāvs atkarīgs no izcelsmes šūnām un izolēšanas procesa.",
+    "takeaway": "Eksosomas pārvadā dažādas molekulas.",
+    "difficulty": 2
+  },
+  {
+    "id": "T15-03",
+    "topicId": "T15",
+    "topic": "Eksosomas",
+    "source": "4. nodarbība · 53.–54. slaids",
+    "question": "Pētījumā eksosomu preparāts ietekmē makrofāgu iekaisuma signālus. Kāds ir iespējamais mehānisms?",
+    "options": [
+      "Vezikulu uzņemšana vai signālu mijiedarbība ar mērķšūnām",
+      "Tikai membrānas lipīdu mehāniska sadalīšana dermā",
+      "Vienīgi vielas difūzija bez šūnu mijiedarbības",
+      "Tikai ekstracelulāras DNS hidrolīze"
+    ],
+    "correctIndex": 0,
+    "theory": "Eksosomu satura pārnese vai mijiedarbība ar mērķšūnas virsmu var mainīt šūnu signalizāciju. Tādēļ tiek pētīta to ietekme uz iekaisumu un reģenerāciju. Taču eksperimentāls mehānisms vēl nepierāda konsekventu klīnisku ieguvumu.",
+    "takeaway": "Eksosomas var mainīt saņēmējšūnu signalizāciju.",
+    "difficulty": 2
+  },
+  {
+    "id": "T15-04",
+    "topicId": "T15",
+    "topic": "Eksosomas",
+    "source": "4. nodarbība · 53.–54. slaids",
+    "question": "Kāpēc nav pareizi uzskatīt, ka eksosomas ir identiskas PDRN?",
+    "options": [
+      "Eksosomām ir membrāna un daudzveidīgs saturs, PDRN ir DNS fragmentu preparāts",
+      "Eksosomas un PDRN ir vienādas DNS ķēdes ar atšķirīgiem nosaukumiem",
+      "PDRN ir ārpusšūnu vezikulas, bet eksosomas — brīvi polinukleotīdi",
+      "Abiem obligāti ir identiska lipīdu membrāna"
+    ],
+    "correctIndex": 0,
+    "theory": "Eksosomas ir membrānas pūslīši ar bioloģiski aktīvu kravu. PDRN sastāv no polidezoksiribonukleotīdu fragmentiem. Tie var ietekmēt daļēji līdzīgus bioloģiskos procesus, bet struktūra un darbības principi atšķiras.",
+    "takeaway": "Eksosoma ir transporta pūslītis, PDRN — DNS fragmenti.",
+    "difficulty": 2
+  },
+  {
+    "id": "T15-05",
+    "topicId": "T15",
+    "topic": "Eksosomas",
+    "source": "4. nodarbība · 53.–54. slaids",
+    "question": "Kāpēc eksosomu produkta izcelsmes šūnas ir būtiskas?",
+    "options": [
+      "Tās var noteikt vezikulu saturu un bioloģiskos signālus",
+      "Izcelsmes šūnas neietekmē vezikulu saturu",
+      "Visu šūnu ārpusšūnu vezikulām ir identiska RNS krava",
+      "Bioloģisko iedarbību nosaka tikai kopējais vezikulu skaits"
+    ],
+    "correctIndex": 0,
+    "theory": "Eksosomu molekulārais saturs atkarīgs no šūnu tipa un stāvokļa. Piemēram, dažādu šūnu izdalītas vezikulas var saturēt atšķirīgus signālu proteīnus un RNS. Tāpēc produktu bioloģiskās īpašības nav automātiski vienādas.",
+    "takeaway": "Izcelsmes šūna ietekmē eksosomas kravu.",
+    "difficulty": 2
+  },
+  {
+    "id": "T15-06",
+    "topicId": "T15",
+    "topic": "Eksosomas",
+    "source": "4. nodarbība · 53.–54. slaids",
+    "question": "Klīnika piedāvā eksosomu produktu, neuzrādot izolēšanas metodi vai kvalitātes datus. Kāpēc tas ir būtisks trūkums?",
+    "options": [
+      "Nav iespējams droši izvērtēt sastāvu, tīrību un rezultātu salīdzināmību",
+      "Izolēšana ietekmē tikai iepakojuma izskatu, ne preparāta īpašības",
+      "Vezikulu koncentrācija viena pati pilnībā garantē tīrību",
+      "Atšķirīgus preparātus drīkst salīdzināt bez sastāva raksturošanas"
+    ],
+    "correctIndex": 0,
+    "theory": "Eksosomu un citu ārpusšūnu vezikulu izolēšanas procesi ietekmē produkta sastāvu, piejaukumus un reproducējamību. Bez produkta raksturošanas klīnisko rezultātu interpretācija ir apgrūtināta. Kvalitātes kontrole ir būtiska drošībai.",
+    "takeaway": "Eksosomu izpētē svarīga ir standartizācija.",
+    "difficulty": 3
+  },
+  {
+    "id": "T15-07",
+    "topicId": "T15",
+    "topic": "Eksosomas",
+    "source": "4. nodarbība · 53.–54. slaids",
+    "question": "Kāpēc 2024. gadā apkopotu eksosomu pētījumu pozitīvi signāli vēl nenozīmē augstu pierādījumu kvalitāti ādas atjaunošanai?",
+    "options": [
+      "Pētījumu kvalitāte un metožu neviendabīgums var ierobežot secinājumus",
+      "Pozitīvu pirmsklīnisku signālu pietiek, lai pierādītu terapeitisku efektu",
+      "Pacientu kopskaits vienmēr aizstāj individuālu pētījumu metodoloģijas vērtējumu",
+      "Dažādas izolēšanas metodes neietekmē pētījumu salīdzināmību"
+    ],
+    "correctIndex": 0,
+    "theory": "Lekcijā norādīts, ka ādas atjaunošanas pierādījumu ticamība vērtējama kā zema. Pozitīvs signāls var būt interesants, bet atšķirīgi produkti, mazi pētījumi un metodoloģiskie trūkumi ierobežo pārliecību. Tas prasa turpmākus kvalitatīvus pētījumus.",
+    "takeaway": "Pozitīvs signāls nav tas pats, kas stiprs pierādījums.",
+    "difficulty": 3
+  },
+  {
+    "id": "T15-08",
+    "topicId": "T15",
+    "topic": "Eksosomas",
+    "source": "4. nodarbība · 53.–54. slaids",
+    "question": "Ko eksosomu kontekstā nozīmē termins “mērķšūnas uzņemšana”?",
+    "options": [
+      "Vezikulas vai tās kravas nonākšana saņēmējšūnas sistēmā",
+      "Vezikulu saistīšanās tikai ar ādas virsmas keratīnu",
+      "Vienīgi vezikulu mehāniska aizķeršanās raga slānī",
+      "Šūnas uzņem tikai brīvu DNS, ne membrānas vezikulas"
+    ],
+    "correctIndex": 0,
+    "theory": "Eksosomas var mijiedarboties ar šūnu membrānām vai tikt internalizētas. Tas ļauj to saturam ietekmēt intracelulārus signalizācijas procesus. Šis ir viens no pētītajiem šūnu komunikācijas mehānismiem.",
+    "takeaway": "Uzņemšana ir saņēmējšūnas mijiedarbība ar vezikulu.",
+    "difficulty": 3
+  },
+  {
+    "id": "T15-09",
+    "topicId": "T15",
+    "topic": "Eksosomas",
+    "source": "4. nodarbība · 53.–54. slaids",
+    "question": "Kāpēc eksosomu preparāta darbību nevar izskaidrot ar vienu universālu A2A receptoru mehānismu?",
+    "options": [
+      "To krava ir daudzveidīga un var ietekmēt dažādus signālceļus",
+      "Eksosomas darbojas tikai caur vienu universālu A2A receptoru signālceļu",
+      "Visu eksosomu krava satur vienīgi adenozīnu",
+      "Eksosomu transporta krava nevar ietekmēt saņēmējšūnu signalizāciju"
+    ],
+    "correctIndex": 0,
+    "theory": "PDRN pētījumos īpaši min A2A receptoru signalizāciju, savukārt eksosomām iespējami vairāki darbības ceļi atkarībā no kravas. Tās var nest RNS, proteīnus un lipīdus. Mehānismi jāvērtē konkrētajā produktā un pētījumā.",
+    "takeaway": "Eksosomu iedarbība ir kravas atkarīga.",
+    "difficulty": 3
+  },
+  {
+    "id": "T15-10",
+    "topicId": "T15",
+    "topic": "Eksosomas",
+    "source": "4. nodarbība · 53.–54. slaids",
+    "question": "Pētījumā eksosomas ietekmē angioģenēzi, bet nav datu par ilgtermiņa ādas kvalitāti. Kāds secinājums ir pareizākais?",
+    "options": [
+      "Bioloģisks efekts ir novērots, bet ilgtermiņa klīnisks ieguvums vēl nav pierādīts",
+      "Angioģenēzes marķieris tieši pierāda rētu klīnisku izzušanu",
+      "Audu signālu maiņa automātiski pierāda ilgtermiņa drošumu",
+      "Pirmsklīnisks angiogēns signāls nosaka vienādu efektu visiem cilvēkiem"
+    ],
+    "correctIndex": 0,
+    "theory": "Ietekme uz angioģenēzi ir bioloģisks signāls, ko var pētīt šūnās vai modeļos. Taču no tā nevar automātiski secināt par noturīgu ādas atjaunošanas rezultātu cilvēkiem. Tam vajadzīgi atbilstoši klīniskie pētījumi.",
+    "takeaway": "Mehāniskie dati nav pilns klīniskais pierādījums.",
+    "difficulty": 3
+  },
+  {
+    "id": "T15-11",
+    "topicId": "T15",
+    "topic": "Eksosomas",
+    "source": "4. nodarbība · 53.–54. slaids",
+    "question": "Kāda ir svarīga atšķirība starp eksosomu preparātu un dzīvu šūnu terapiju?",
+    "options": [
+      "Eksosomas ir ārpusšūnu pūslīši, nevis pašas dzīvas šūnas",
+      "Eksosomas ir pilnvērtīgas šūnas ar kodolu",
+      "Eksosomas spēj patstāvīgi dalīties un diferencēties",
+      "Eksosomas obligāti satur visu donora šūnas genomu un organellas"
+    ],
+    "correctIndex": 0,
+    "theory": "Eksosomas tiek izdalītas no šūnām, bet pašas nav dzīvas šūnas ar pilnu šūnu dalīšanās aparātu. Tāpēc tās nedrīkst automātiski pielīdzināt cilmes šūnu ievadīšanai. Atšķirība ir būtiska gan mehānismam, gan drošuma izvērtēšanai.",
+    "takeaway": "Eksosomas nav dzīvu šūnu transplantācija.",
+    "difficulty": 3
+  },
+  {
+    "id": "T15-12",
+    "topicId": "T15",
+    "topic": "Eksosomas",
+    "source": "4. nodarbība · 53.–54. slaids",
+    "question": "Kura eksosomu iespējamā iedarbība uz ādas atjaunošanos ir visvairāk saderīga ar to signālpārneses lomu?",
+    "options": [
+      "Fibroblastu un iekaisuma šūnu aktivitātes modulācija",
+      "Eksosomas tieši mehāniski aizpilda dermu kā stabils HA gēls",
+      "Eksosomas nodrošina audu remodelāciju tikai ar termisku destrukciju",
+      "Eksosomas aktivē tikai melanocītus bez citu šūnu iesaistes"
+    ],
+    "correctIndex": 0,
+    "theory": "Eksosomu krava var mainīt saņēmējšūnu signālceļus, tostarp fibroblastu un imūno šūnu aktivitāti. Tādējādi tiek pētīta iespējamā ietekme uz reģenerāciju. Pierādījumu kvalitāte ādas estētikā vēl ir ierobežota.",
+    "takeaway": "Eksosomas darbojas caur šūnu signalizāciju.",
+    "difficulty": 3
+  },
+  {
+    "id": "T15-13",
+    "topicId": "T15",
+    "topic": "Eksosomas",
+    "source": "4. nodarbība · 53.–54. slaids",
+    "question": "Kāpēc pacientam nedrīkst solīt vienādu efektu pēc jebkura “eksosomu” zīmola procedūras?",
+    "options": [
+      "Atšķiras izcelsme, koncentrācija, attīrīšana un klīniskie pierādījumi",
+      "Vienāds vezikulu skaits garantē identisku bioloģisko kravu",
+      "Preparāta izcelsme neietekmē signālceļus",
+      "Pētījumi ar vienu produktu tieši pierāda visu zīmolu efektivitāti"
+    ],
+    "correctIndex": 0,
+    "theory": "Eksosomu produkti var būt ļoti neviendabīgi. Atšķirības ražošanā un bioloģiskajā saturā ietekmē iespējamo efektu un riskus. Bez standartizētiem klīniskiem datiem nav pamata universālai efektivitātes garantijai.",
+    "takeaway": "Produkta kvalitāte un pierādījumi ir nozīmīgi.",
+    "difficulty": 3
+  },
+  {
+    "id": "T15-14",
+    "topicId": "T15",
+    "topic": "Eksosomas",
+    "source": "4. nodarbība · 53.–54. slaids",
+    "question": "Eksosomu un PN/PDRN salīdzinājumā kuriem preparātiem raksturīgs nukleīnskābju pārnesē iesaistīts membrānas apvalks?",
+    "options": [
+      "Eksosomām",
+      "PDRN",
+      "Nesaistītā hialuronskābe",
+      "Fibroblastu sekretēts brīvs DNS fragments"
+    ],
+    "correctIndex": 0,
+    "theory": "Eksosomas ir lipīdu membrānas pūslīši, kas var nest nukleīnskābes kā daļu no savas kravas. PN/PDRN ir DNS fragmentu preparāti bez šādas vezikulāras struktūras. Tas nosaka būtisku atšķirību šūnu mijiedarbības mehānismos.",
+    "takeaway": "Membrāna un krava raksturīga eksosomām.",
+    "difficulty": 3
+  },
+  {
+    "id": "T15-15",
+    "topicId": "T15",
+    "topic": "Eksosomas",
+    "source": "4. nodarbība · 53.–54. slaids",
+    "question": "Kura ir vispiesardzīgākā zinātniskā interpretācija eksosomu izmantošanai ādas reģenerācijā šobrīd?",
+    "options": [
+      "Potenciāli interesanta tehnoloģija ar ierobežotiem, produktu atkarīgiem klīniskajiem pierādījumiem",
+      "Bioloģiska ticamība jau ir ekvivalenta lielam randomizētam pētījumam",
+      "Eksosomu preparātu klīnisko efektu var droši prognozēt tikai pēc izcelsmes šūnas",
+      "Atšķirīgi eksosomu produkti ir pietiekami standartizēti vienādai efektivitātei"
+    ],
+    "correctIndex": 0,
+    "theory": "Ādas atjaunošanas pētījumos eksosomām ir daudzsološi mehānismi, taču klīnisko datu kvalitāte vēl ir ierobežota. Efekts atkarīgs no izcelsmes, izolācijas un produkta sastāva. Zinātniski korekti ir skaidri norādīt nenoteiktību.",
+    "takeaway": "Eksosomu pierādījumi vēl ir ierobežoti.",
+    "difficulty": 3
+  }
+]
