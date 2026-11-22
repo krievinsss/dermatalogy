@@ -83,3 +83,8 @@ Hialuronskābes fizioloģija, pildvielu komplikācijas un atsevišķi ādas barj
 - Lucide ikonas
 - Pielāgots mobile-first CSS
 - `localStorage` (bez datubāzes)
+
+
+## Labojums (2026-11-22)
+
+No `src/App.tsx` izņemts neizmantotais `questions` imports un `answeredWrong` mainīgais, kas radīja `TS6133` Vercel būvēšanas kļūdas.

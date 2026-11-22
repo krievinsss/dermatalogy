@@ -5,7 +5,7 @@ import {
   RotateCcw, ShieldCheck, Sparkles, Target, Trophy, X,
 } from 'lucide-react';
 import {
-  createSession, questionMap, questions, QUIZ_SIZE, readStorage, removeStorage,
+  createSession, questionMap, QUIZ_SIZE, readStorage, removeStorage,
   STORAGE, topics, TOTAL, validSession, writeStorage,
   type HistoryEntry, type QuizMode, type QuizSession,
 } from './lib/quiz';
@@ -63,7 +63,6 @@ export default function App() {
   const currentQuestion = currentItem ? questionMap.get(currentItem.id) : undefined;
   const currentAnswer = session?.revealed ? answered[answered.length - 1] : undefined;
   const score = answered.filter(a => a.correct).length;
-  const answeredWrong = answered.filter(a => !a.correct);
   const latest = history[0];
   const totalPracticed = history.reduce((sum, item) => sum + item.total, 0);
   const totalCorrect = history.reduce((sum, item) => sum + item.score, 0);
